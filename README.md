@@ -1,3 +1,10 @@
+## Status: Not currently open.
+## This repository is a preparatory public archive for a future non-exclusive competition.
+## The Sal-Meter competition opens only after SICS internal kernel locking reaches Open Competition Readiness.
+## External Layer-0 feasibility is a separate pre-phase support track.
+## No certification, no compliance, and no SDK release are implied by this repository.
+
+
 # Sal-Meter Open Competition
 
 Open global research competition to develop **objective consciousness-like signal
