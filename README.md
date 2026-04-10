@@ -2,10 +2,13 @@
 
 > **Status: Pre-opening / research-stage**  
 > The hardest frontiers in science are usually ridiculed before they are instrumented.  
-> This program exists to test whether a new measurement boundary can be made real.
+> This program exists to test whether a new measurement boundary can be made real.  
+> **Canonical authority lives only in DOI-registered records. This repository is a non-canonical public gateway.**
 
 This repository is **not currently open as a broad public competition**.  
-It is the public entry and coordination layer for the **Sal-Meter Kernel Program**.
+It is the **public gateway and coordination layer** for the **Sal-Meter Kernel Program**.
+
+---
 
 ## Current Status
 
@@ -18,7 +21,7 @@ It is the public entry and coordination layer for the **Sal-Meter Kernel Program
 - **Clinical meaning:** not implied
 - **Canonical authority:** lives only in DOI-registered records, not GitHub
 
-This project is **research-stage, non-diagnostic, and non-therapeutic**.
+This program is **research-stage, non-diagnostic, and non-therapeutic**.
 
 ---
 
@@ -38,6 +41,10 @@ This project is **research-stage, non-diagnostic, and non-therapeutic**.
 ## One-Sentence Challenge
 
 Build a **CAIS-compliant measurement layer** that tests whether controlled consciousness-like state transitions can produce **reproducible molecular–electrochemical signatures**.
+
+> **Terminology note**  
+> CAIS = **Consciousness–Aptamer Interface Standard**  
+> This repository does not redefine canonical terminology.
 
 ---
 
@@ -84,11 +91,11 @@ This is where abstract philosophy is forced to touch instrumentation.
 ### 1) Fast orientation
 If you are new, start here first:
 
-- [docs/faq.md](./docs/faq.md)
-- [docs/roadmap.md](./docs/roadmap.md)
-- [docs/authority-boundary.md](./docs/authority-boundary.md)
-- [docs/public-claims-guide.md](./docs/public-claims-guide.md)
-- [docs/document-map.md](./docs/document-map.md)
+- [FAQ](./docs/faq.md)
+- [Roadmap](./docs/roadmap.md)
+- [Authority Boundary](./docs/authority-boundary.md)
+- [Public Claims Guide](./docs/public-claims-guide.md)
+- [Document Map](./docs/document-map.md)
 
 ### 2) Audience-specific entry
 Choose one path:
@@ -100,7 +107,7 @@ Choose one path:
 ### 3) Fast decision layer
 If you need a fast screening brief:
 
-- [docs/PI_Quick_Decision_Pack.md](./docs/PI_Quick_Decision_Pack.md)
+- [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
 
 ---
 
@@ -131,7 +138,7 @@ PIs, lab leads, engineers, and technical researchers are encouraged to evaluate 
 - state-separability honesty
 - boundary-aware contribution
 
-For inquiries: **contact@salpida.foundation**
+**Contact:** [contact@salpida.foundation](mailto:contact@salpida.foundation)
 
 ---
 
@@ -147,6 +154,8 @@ The following are **not currently active public routes**:
 - broad external build race
 
 These open only **after** the kernel earns the right to scale.
+
+**First, prove the kernel. Then, open the field.**
 
 ---
 
@@ -206,35 +215,7 @@ Success means one or more of the following:
 - a state-separability claim survives cross-checking
 - a negative result closes a false path and strengthens the architecture
 
-This is not a place where only “positive” outcomes matter.
-
-A rigorous no is worth more than a vague yes.
-
----
-
-## Why Strong Engineers and Researchers Should Care
-
-Because this is not a late-stage optimization problem.
-
-This is an upstream architecture problem.
-
-Most projects invite you to improve what already exists.  
-This one invites you to test whether an entirely new measurement category can exist under fixed rules.
-
-That means:
-
-- even negative results are scientifically meaningful
-- partial subsystem contributions are valid
-- good engineering is not decoration here; it is the difference between noise and evidence
-- the work sits upstream of biosensing, HCI, AI governance, human-state measurement, and future civilizational metrics
-
-If you have ever thought:
-
-- “someone should make this testable”
-- “someone should separate signal from metaphysical fog”
-- “someone should stop talking and build the first bounded interface”
-
-then this program is aimed at that instinct.
+A rigorous **no** is worth more than a vague **yes**.
 
 ---
 
@@ -253,7 +234,7 @@ It is a **non-therapeutic signal interface** operating at **CAIS Layer-0**.
 
 Its role is simple and severe:
 
-**molecular state transition -> measurable signal event -> downstream processing under fixed rules**
+**molecular state transition → measurable signal event → downstream processing under fixed rules**
 
 If the kernel is unstable, everything above it becomes storytelling.  
 If the kernel is stable, the stack becomes testable.
@@ -268,19 +249,19 @@ These helper documents are for fast orientation, PI decision-making, and enginee
 They do **not** define canonical authority.
 
 - **PI Quick Decision Pack v1.1**  
-  https://doi.org/10.6084/m9.figshare.31287268
+  [10.6084/m9.figshare.31287268](https://doi.org/10.6084/m9.figshare.31287268)
 
 - **Sal-Meter System Overview v1.1**  
-  https://doi.org/10.6084/m9.figshare.31275067
+  [10.6084/m9.figshare.31275067](https://doi.org/10.6084/m9.figshare.31275067)
 
 - **Sal-Meter Kernel Program & Future Broader Opening: Technical & Governance Snapshot v2.1**  
-  https://doi.org/10.6084/m9.figshare.31281835
+  [10.6084/m9.figshare.31281835](https://doi.org/10.6084/m9.figshare.31281835)
 
 - **CAIS Architecture & Sal-Meter Technical Snapshot v1.1**  
-  https://doi.org/10.6084/m9.figshare.31287529
+  [10.6084/m9.figshare.31287529](https://doi.org/10.6084/m9.figshare.31287529)
 
 - **CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.1**  
-  https://doi.org/10.6084/m9.figshare.31287763
+  [10.6084/m9.figshare.31287763](https://doi.org/10.6084/m9.figshare.31287763)
 
 ### 2) Canonical DOI Layer — Mandatory Structural Authority
 
@@ -288,41 +269,41 @@ These documents fix the authoritative boundary.
 GitHub does not override them.
 
 - **Sal-Meter Canonical Definition v1.0**  
-  https://doi.org/10.5281/zenodo.18452075
+  [10.5281/zenodo.18452075](https://doi.org/10.5281/zenodo.18452075)
 
 - **CAIS Compliance Boundary v1.0**  
-  https://doi.org/10.5281/zenodo.18452269
+  [10.5281/zenodo.18452269](https://doi.org/10.5281/zenodo.18452269)
 
 - **Sal-Meter Open Competition Charter v1.0**  
-  https://doi.org/10.5281/zenodo.18452453
+  [10.5281/zenodo.18452453](https://doi.org/10.5281/zenodo.18452453)
 
 - **Sal-Meter Negative Definition v1.0**  
-  https://doi.org/10.5281/zenodo.18452694
+  [10.5281/zenodo.18452694](https://doi.org/10.5281/zenodo.18452694)
 
 - **From Theory to Implementation: CCF Applied Philosophy and the Sal-Meter Proof of Concept v1.0**  
-  https://doi.org/10.5281/zenodo.18475626
+  [10.5281/zenodo.18475626](https://doi.org/10.5281/zenodo.18475626)
 
 ### 3) Current Phase 0 / Program-Direction Documents
 
 These define the present PI-facing and execution-facing direction more accurately than older public helper language.
 
 - **Sal-Meter Open Competition — Phase 0 PI Invitation Dossier v1.1**  
-  https://doi.org/10.5281/zenodo.18645700
+  [10.5281/zenodo.18645700](https://doi.org/10.5281/zenodo.18645700)
 
 - **Phase 0 Participation Implementation Guide v1.1**  
-  https://doi.org/10.5281/zenodo.19478782
+  [10.5281/zenodo.19478782](https://doi.org/10.5281/zenodo.19478782)
 
 - **Phase 0 — Validation Submission Architecture v1.0**  
-  https://doi.org/10.5281/zenodo.19478725
+  [10.5281/zenodo.19478725](https://doi.org/10.5281/zenodo.19478725)
 
 - **Consciousness Is the Missing Variable in AI Governance**  
-  https://doi.org/10.5281/zenodo.19342357
+  [10.5281/zenodo.19342357](https://doi.org/10.5281/zenodo.19342357)
 
 - **CAIS Claims & Terminology Control v1.0**  
-  https://doi.org/10.5281/zenodo.19435051
+  [10.5281/zenodo.19435051](https://doi.org/10.5281/zenodo.19435051)
 
 - **Publication & Communications Boundary v1.0**  
-  https://doi.org/10.5281/zenodo.19438290
+  [10.5281/zenodo.19438290](https://doi.org/10.5281/zenodo.19438290)
 
 ---
 
@@ -330,7 +311,7 @@ These define the present PI-facing and execution-facing direction more accuratel
 
 This repository is:
 
-- a **public operational index**
+- a **public operational gateway**
 - a **pre-opening coordination layer**
 - a **working surface for serious contributors**
 - a **gateway for engineers, labs, and PI-level readers**
@@ -422,7 +403,7 @@ you are close to the intended audience.
 
 ---
 
-## Suggested Discussion Categories
+## Suggested Discussions Structure
 
 Use Discussions for bounded, serious questions.
 
@@ -507,11 +488,11 @@ watch closely now.
 
 **Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
 
-**Primary public hub:** https://salpida.foundation
+**Primary public hub:** [salpida.foundation](https://salpida.foundation)
 
-**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program
+**Repository:** [github.com/salpida-foundation/sal-meter-kernel-program](https://github.com/salpida-foundation/sal-meter-kernel-program)
 
-**Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
+**Canonical index layer:** [github.com/salpida-foundation/salpida-canonical](https://github.com/salpida-foundation/salpida-canonical)
 
 ---
 
