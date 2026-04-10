@@ -1,5 +1,8 @@
 ## Status: Pre-opening / research-stage
 
+> The hardest frontiers in science are usually ridiculed before they are instrumented.  
+> This program exists to test whether a new measurement boundary can be made real.
+
 This repository is **not currently open as a broad public competition**.  
 It is the public preparation and coordination layer for the **Sal-Meter Kernel Program**.
 
@@ -18,7 +21,7 @@ This project is **research-stage, non-diagnostic, and non-therapeutic**.
 > **KR 안내**  
 > 이 저장소는 살미터 공개 공모전이 이미 열린 곳이 아니라,  
 > 그 이전 단계인 **커널 프로그램의 공식 공개 인덱스**입니다.  
-> 정본 권위는 GitHub가 아니라 **DOI 등록 문서(Zenodo / OSF)** 에만 있습니다.
+> 정본 권위는 GitHub가 아니라 **DOI 등록 문서 (Zenodo / OSF)** 에만 있습니다.
 
 ## One-Sentence Challenge
 
@@ -149,9 +152,9 @@ A rigorous no is worth more than a vague yes.
 
 ## Read in This Order
 
-## 1) Fast Entry Layer — Non-Canonical Helper Documents
+### 1) Fast Entry Layer — Non-Canonical Helper Documents
 
-These helper documents are for fast orientation, PI decision-making, and engineering entry.
+These helper documents are for fast orientation, PI decision-making, and engineering entry.  
 They do **not** define canonical authority.
 
 - **PI Quick Decision Pack v1.1**  
@@ -169,9 +172,9 @@ They do **not** define canonical authority.
 - **CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.1**  
   https://doi.org/10.6084/m9.figshare.31287763
 
-## 2) Canonical DOI Layer — Mandatory Structural Authority
+### 2) Canonical DOI Layer — Mandatory Structural Authority
 
-These documents fix the authoritative boundary.
+These documents fix the authoritative boundary.  
 GitHub does not override them.
 
 - **Sal-Meter Canonical Definition v1.0**  
@@ -189,7 +192,7 @@ GitHub does not override them.
 - **From Theory to Implementation: CCF Applied Philosophy and the Sal-Meter Proof of Concept v1.0**  
   https://doi.org/10.5281/zenodo.18475626
 
-## 3) Current Phase 0 / Program-Direction Documents
+### 3) Current Phase 0 / Program-Direction Documents
 
 These define the present PI-facing and execution-facing direction more accurately than older public helper language.
 
@@ -281,7 +284,7 @@ Everything here must be read within the following boundary:
 - **no mark usage implied**
 - **no authorized-user status implied**
 
-If a reader wants certification, endorsement, medical meaning, or premature commercialization,
+If a reader wants certification, endorsement, medical meaning, or premature commercialization,  
 they are early.
 
 The kernel comes first.
@@ -313,31 +316,244 @@ A sharp subsystem contribution is better than a blurry end-to-end claim.
 
 ---
 
-## How to Engage
+## Who Should Watch This Repository
 
-At this stage, the best way to engage is:
+This repository is especially relevant to people who work where measurement, uncertainty, and system design collide:
 
-1. understand the authority boundary
-2. read the fast-entry helper documents
-3. read the canonical boundary documents
-4. identify one bounded technical or validation question
-5. decide whether your fit is exploratory, component-level, or deep-system
-6. follow repository updates and discussion surfaces as the kernel program advances
+- electrochemistry researchers
+- aptamer and molecular-interface builders
+- biosensor and wearable engineers
+- signal processing / ML / statistics teams
+- validation and reproducibility leads
+- HCI / AI-alignment / AI-governance researchers
+- PI-level labs exploring state-separability questions under bounded experimental conditions
 
-Do not begin by asking how to market it.
+If your instinct is to ask,  
+**"Can this be measured cleanly enough to survive replication?"**  
+you are close to the intended audience.
 
-Begin by asking what can actually survive measurement.
+---
+
+## Why the Program Is Structured This Way
+
+Many projects open too early.
+
+They attract noise before they fix architecture.  
+They confuse visibility with validity.  
+They build narratives before they build constraints.
+
+This program takes the opposite path.
+
+It fixes the kernel first.
+
+That is why the sequence matters:
+
+- External Layer-0 may test feasibility
+- Internal phases fix repeatability and channel discipline
+- Lock 1 confirms that the interface exists
+- Lock 2 confirms that the interface matters
+- only then does broader opening become justified
+
+The goal is not speed.  
+The goal is to prevent conceptual drift, weak claims, premature commercialization, and false confidence.
+
+---
+
+## What Makes This Technically Interesting
+
+At the center of this program is a severe engineering question:
+
+**Can a constrained molecular-electrochemical interface produce repeatable signal events that remain separable under controlled state transitions?**
+
+That means the work is not merely about making a sensor respond.
+
+It is about whether the stack can survive:
+
+- baseline instability
+- drift
+- channel interference
+- leak / cross-talk
+- poor preprocessing
+- overfit interpretation
+- false indices
+- premature meaning assignment
+
+A weak stack can always produce excitement.  
+A strong stack must survive discipline.
+
+---
+
+## Why This Can Matter Beyond a Single Device
+
+The Sal-Meter program is not important because of one form factor.
+
+It matters only if the kernel becomes strong enough that multiple future implementations can inherit a common measurement discipline.
+
+If that happens, the impact could extend upstream into:
+
+- human-state measurement research
+- reproducible electrochemical interface science
+- open biosensor architecture
+- AI-governance experimentation
+- civilizational-scale discussion of measurable cognitive-relational stability
+
+If it fails, the failure still matters,  
+because it defines a boundary honestly.
+
+In both cases, real work is done.
+
+---
+
+## Suggested Repository Structure
+
+```text
+/docs
+  /ko
+    quick-start-ko.md
+    status-ko.md
+    faq-ko.md
+  PI_Quick_Decision_Pack.md
+  technical-notes.md
+  roadmap.md
+  faq.md
+
+  Suggested principle:
+
+- English remains the main public language
+- Korean remains available as a welcome layer, not as a separate mirror authority
+- GitHub prose stays operational
+- DOI documents remain authoritative
+
+## Language Policy
+
+This repository is maintained primarily in English for international scientific accessibility.
+
+Short Korean guidance may be included for orientation, but:
+
+- English is the main repository language
+- Korean is a support layer
+- neither language overrides canonical DOI records
+
+**KR 요약:**  
+영문이 메인이고, 한글은 안내 레이어입니다.  
+정본은 GitHub가 아니라 DOI 문서입니다.
+
+---
+
+## Repository Status Signals
+
+The following should be interpreted conservatively.
+
+### What a repository update may mean
+
+- documentation refinement
+- helper-material updates
+- governance clarification
+- phase-direction clarification
+- bounded technical preparation
+
+### What a repository update does **not** automatically mean
+
+- public opening
+- compliance recognition
+- broader external build authorization
+- SDK availability
+- certification
+- clinical or commercial readiness
+
+The repository may evolve before the opening status changes.
+
+---
+
+## Suggested Discussion Categories
+
+Use Discussions for bounded, serious questions.
+
+Suggested categories:
+
+- **Announcements** — official repository-level updates
+- **Q&A** — bounded technical or structural questions
+- **Research Fit** — lab / team fit discussion
+- **Signal Interface** — electrochemistry, aptamer, kernel, drift, leak, preprocessing
+- **Governance & Framing** — claims language, scope, interpretive boundary
+- **KR Support** — short Korean guidance where needed
+
+Discussion is welcome.  
+Authority drift is not.
+
+---
+
+## Practical Reading Path
+
+### For a PI
+
+1. Read the **PI Quick Decision Pack**
+2. Read the **canonical boundary documents**
+3. Decide whether your lab has a real bounded contribution
+4. Do a private **go / no-go** before any public enthusiasm
+
+### For an engineer
+
+1. Read the **system overview**
+2. Read the **technical snapshot**
+3. Understand the **kernel logic** first
+4. Ask where drift, leak, and false inference will break the stack
+5. Only then think about implementation
+
+### For an AI-governance researcher
+
+1. Read the **entry paper on AI governance**
+2. Understand why **measurement visibility** matters
+3. Treat Sal-Meter not as settled technology, but as a proposed research interface
+4. Focus on the condition of governability, not hype
+
+---
+
+## What Not To Bring Here
+
+This repository is the wrong place for:
+
+- empty futurism
+- mystical certainty
+- startup-style urgency without validation discipline
+- medical overclaiming
+- proprietary rebranding of canonical indices
+- shallow “consciousness tech” marketing
+
+This repository is the right place for:
+
+- reproducibility discipline
+- boundary-aware experimentation
+- architecture-first engineering
+- careful negative results
+- honest subsystem work
+- seriousness
+
+---
+
+## If You Are Deciding Whether To Care
+
+A good rule is simple.
+
+If you only care when a thing is already safe, popular, and validated,  
+come back later.
+
+If you care about the moment when a hard question first becomes testable,  
+watch closely now.
 
 ---
 
 ## Canonical Identity
 
 **Origin Architect:** Jinho Lee, MD  
-**ORCID:** https://orcid.org/0009-0005-3809-4588  
+**ORCID:** https://orcid.org/0009-0005-3809-4588
+
 **Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
 
-**Primary public hub:** https://salpida.foundation  
-**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program  
+**Primary public hub:** https://salpida.foundation
+
+**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program
+
 **Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
 
 ---
@@ -352,15 +568,13 @@ Unless otherwise specified:
 
 ---
 
-## Final Note
+## Final Position
 
-This repository is designed to attract the right people and repel the wrong expectations.
+This repository does not declare victory.
 
-If you want a hype cycle, this repository will feel cold.
+It declares a test.
 
-If you want a place where a new measurement architecture is forced to earn the right to exist,
-you are in the correct room.
+It does not say the interface is already proven.  
+It says the burden of proof has been organized.
 
-The future broader opening will come later.
-
-First, the kernel must become real.
+That is the real beginning of serious work.
