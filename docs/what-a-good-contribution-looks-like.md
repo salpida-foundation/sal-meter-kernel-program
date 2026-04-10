@@ -1,427 +1,529 @@
-# What a Good Contribution Looks Like — Turning Passion into Real Value
+# What a Good Contribution Looks Like — Reducing One Real Uncertainty Without Inflating the Claim
 
-> This page explains what counts as a genuinely useful contribution to the Sal-Meter Kernel Program at the current stage.  
-> It is written for researchers, scholars, engineers, lab leads, and serious builders who feel drawn to the project and want to know how that attraction can become something real, bounded, and valuable.  
-> It is not a grant page, not a certification page, and not an automatic participation gateway.
+> **KR note**  
+> 이 문서는 Sal-Meter / CAIS / CCF kernel program의 현재 단계에서  
+> 어떤 종류의 기여가 실제로 “좋은 기여”로 간주될 수 있는지,  
+> 그리고 반대로 어떤 기여는 겉으로는 좋아 보여도 구조적으로는 약하거나 위험한지를 정리한 문서입니다.
+>
+> This page does not define who is intelligent, loyal, or enthusiastic.  
+> It defines something more useful:  
+> what a **good contribution** looks like at the current stage of the program.  
+> It is an operational orientation document, not a canonical authority document.
+
+---
+
+## Related Reading
+
+**Read alongside this page:**
+
+- [For PIs and Lab Leads](./for-pis-and-lab-leads.md)
+- [Expected Reactions from PIs and Researchers](./expected-reactions-from-pis-and-researchers.md)
+- [Where Help Is Most Needed](./where-help-is-most-needed.md)
+- [FAQ](./faq.md)
+- [Roadmap](./roadmap.md)
+- [Authority Boundary](./authority-boundary.md)
+- [Public Claims Guide](./public-claims-guide.md)
+- [PI Quick Decision Pack](./PI_Quick_Decision_Pack.md)
+- [Document Map](./document-map.md)
 
 ---
 
 ## 1. Why This Page Exists
 
-A project like this naturally attracts strong feelings.
+In an early frontier project, many things can look like contribution.
 
-Some people feel curiosity.  
-Some feel intellectual challenge.  
-Some feel moral seriousness.  
-Some feel a form of love for humanity and the future that wants to become technical work.  
-Some feel the desire to help build something that may matter before the world knows what to call it.
+Some are real contributions.
+Some are merely signs of interest.
+Some create motion without creating clarity.
+Some increase visibility while weakening evidence integrity.
 
-All of that is meaningful.
+That is why this page exists.
 
-But meaning alone is not enough.
+At the current stage, the project does not need contribution in the abstract.
 
-If this project is to remain honest, then passion must become contribution, and contribution must become something bounded enough to evaluate.
+It needs contribution that helps the kernel architecture survive harder contact with reality.
 
-This page exists to answer one practical question:
+This means a good contribution is not judged mainly by:
 
-**What does a genuinely good contribution look like here?**
+- energy
+- confidence
+- prestige
+- conceptual fluency
+- promotional value
+- symbolic support
+
+It is judged by whether it reduces one real uncertainty without overstating what has been achieved.
 
 ---
 
 ## 2. The Core Rule
 
-A good contribution is not one that sounds impressive.
+A good contribution is one that:
 
-A good contribution is one that **reduces real uncertainty without inflating what the project currently is.**
+**reduces one real uncertainty in the current architecture while making it harder, not easier, to say more than the evidence supports.**
 
-That means a good contribution usually does one or more of the following:
+That is the central rule.
 
-- reduces ambiguity
-- clarifies a boundary
-- tests a fragile assumption
-- exposes a hidden failure mode
-- narrows a claim
-- strengthens reproducibility discipline
-- improves the honesty of interpretation
-- makes the next step more real without pretending the whole path is finished
+A contribution is strong when it does at least one of the following:
 
-That is the standard.
+- stabilizes something unstable
+- bounds something vague
+- exposes a false-positive path
+- detects a hidden leak
+- improves replication readiness
+- sharpens interpretation limits
+- strengthens protocol discipline
+- clarifies what should not be claimed
 
----
+A contribution is weak when it does the opposite:
 
-## 3. Passion Matters — But Only if It Becomes Form
-
-This project does want to meet people whose work is powered by something larger than career motion alone.
-
-We do want to meet people who care about:
-
-- humanity
-- the future
-- responsibility
-- coherence
-- care becoming technical structure
-- the refusal to let civilization grow more powerful while remaining blind
-
-But here is the key:
-
-**passion is not yet contribution.  
-Love is not yet structure.  
-Intensity is not yet value.**
-
-A good contribution begins when passion becomes:
-
-- method
-- bounded work
-- honest protocol
-- clearer language
-- sharper testing
-- real reduction of uncertainty
-
-That is when inner motive becomes outer value.
+- widens language faster than evidence
+- increases narrative heat without reducing uncertainty
+- creates complexity that cannot be audited
+- makes the work look more complete than it is
+- confuses helper explanation with canonical authority
 
 ---
 
-## 4. What a Bad Contribution Looks Like
+## 3. Why “Good” Must Be Defined Narrowly Right Now
 
-A weak contribution often has one or more of these features:
+This program is still in a pre-opening, kernel-first, research-stage condition.
 
-- it is too broad
-- it is too self-dramatizing
-- it tries to claim more than it actually improves
-- it mistakes enthusiasm for technical relevance
-- it uses visionary language to cover weak structure
-- it seeks naming, visibility, or status before burden
-- it does not respect the project’s stage
-- it does not narrow uncertainty
-- it confuses similarity with legitimacy
+That means good contribution cannot be defined by downstream success surfaces such as:
 
-Examples of weak contribution logic:
+- polished app UX
+- large external visibility
+- consumer excitement
+- investor storytelling
+- broad public community momentum
+- speculative future applications
 
-- “We can help with everything.”
-- “We already understand the whole framework.”
-- “This is obviously revolutionary and we want in.”
-- “We love the vision and want to brand around it.”
-- “We want to join first and define our value later.”
+Those things may matter later.
 
-These may sound energetic.  
-They are not strong.
+But they are not the best way to define quality now.
 
----
+Right now, quality must be defined closer to the kernel:
 
-## 5. What a Strong Contribution Looks Like
+- interface reality
+- protocol reliability
+- leak awareness
+- signal honesty
+- state-separability discipline
+- claims restraint
+- reproducibility structure
 
-A strong contribution usually sounds narrower.
-
-Examples:
-
-- “We may be able to help characterize iodine redox baseline behavior under controlled conditions.”
-- “We may be able to test likely drift sources in repeated acquisition.”
-- “We may be useful in leak / cross-talk analysis for a twin-channel configuration.”
-- “We may help identify preprocessing choices most likely to create false separability.”
-- “We may be able to design negative controls that reduce overinterpretation.”
-- “We may help define a safer boundary between raw signal behavior and downstream interpretation.”
-- “We may be able to evaluate whether a claimed state-separability result survives stricter validation.”
-
-These statements do not sound grand.
-
-That is exactly why they are strong.
+A good contribution now is one that makes the early-stage burden more honest, more stable, and more transferable.
 
 ---
 
-## 6. The Best Contributions Usually Share Five Qualities
+## 4. The First Test of a Good Contribution
 
-## 6.1 They are bounded
+The first test is simple:
 
-They do not try to swallow the whole project.
+**After this contribution, what uncertainty became smaller?**
 
-They identify one real burden.
+If that question cannot be answered clearly, the contribution is probably weak.
 
-## 6.2 They are stage-aware
+Examples of strong answers:
 
-They know the project is still pre-opening and kernel-first.
+- “We reduced cartridge-to-cartridge variability.”
+- “We clarified the baseline rule.”
+- “We found that the signal disappeared under stricter controls.”
+- “We isolated a leak path that was previously hidden.”
+- “We improved repeatability under fixed conditions.”
+- “We showed that one interpretation exceeded the evidence.”
+- “We created a cleaner negative-control structure.”
+- “We made cross-lab execution more deterministic.”
 
-They do not act as if a later stage has already arrived.
+Examples of weak answers:
 
-## 6.3 They are failure-aware
+- “The project now sounds more important.”
+- “More people are excited.”
+- “The vision is clearer.”
+- “The public story is stronger.”
+- “We made the framework feel larger.”
+- “The concept is more inspiring.”
 
-They understand that a contribution may reveal weakness, collapse, fragility, or false positives — and that this can still be valuable.
+Those may have some secondary value.
 
-## 6.4 They reduce uncertainty
-
-They make something less vague, less loose, less hidden, less overstated.
-
-## 6.5 They respect authority boundaries
-
-They do not confuse GitHub visibility with compliance, naming, certification, or canon.
-
----
-
-## 7. What Counts as Good Contribution by Role
-
-## 7.1 For Engineers
-
-A good engineering contribution may look like:
-
-- identifying dominant drift sources
-- testing leak and cross-talk risk
-- improving acquisition discipline
-- defining baseline-capture logic more safely
-- identifying unsafe preprocessing assumptions
-- making hidden instability visible
-- showing where the stack fails honestly
-
-A good engineer contribution does not mainly decorate the story.
-
-It strengthens or challenges the structure.
+They are not the primary standard of a good contribution right now.
 
 ---
 
-## 7.2 For Researchers and Scholars
+## 5. The Best Contributions Are Usually Narrow
 
-A good research contribution may look like:
+A good contribution is usually narrower than contributors first expect.
 
-- clarifying what is actually being claimed
-- distinguishing interface behavior from metaphysical overreach
-- tightening definitions
-- identifying conceptual drift
-- framing validation burdens more rigorously
-- helping separate morally serious questions from inflated language
-- making interdisciplinary tensions more exact rather than more vague
+That is not a weakness.
+It is a sign of maturity.
 
-A good scholar does not merely expand discourse.
+The strongest early contributions often do **one** thing well, such as:
 
-A good scholar protects the integrity of the question.
+- tighten a measurement condition
+- improve a fixed SOP
+- reveal an artifact
+- strengthen a leak test
+- clarify a validation threshold
+- stabilize one acquisition step
+- sharpen one index-computation boundary
+- define one forbidden claim more precisely
 
----
+A contribution does not need to solve the whole stack to matter.
 
-## 7.3 For PIs and Lab Leads
+In fact, early contributions become dangerous when they try to do too much at once.
 
-A good PI-level contribution may look like:
+The current program does not need sweeping ownership.
 
-- recognizing one narrow lab-relevant burden
-- protecting the project from premature outward certainty
-- helping design bounded validation logic
-- insisting on clean negative controls
-- helping determine what would count as honest evidence
-- clarifying what should not be claimed yet
-
-A good PI does not merely sponsor curiosity.
-
-A good PI keeps curiosity methodologically accountable.
+It needs bounded usefulness.
 
 ---
 
-## 7.4 For Signal Processing / ML / Statistics People
+## 6. What a Good Technical Contribution Looks Like
 
-A good contribution may look like:
+A good technical contribution usually has the following traits:
 
-- showing where separability may be artificial
-- identifying preprocessing pipelines that distort meaning
-- detecting leakage pathways
-- clarifying what kinds of classification claims are honest at the current stage
-- improving validation logic without inflating downstream semantics
-- defining what a clean negative result would look like
+- it is specific
+- it is reproducible
+- it is legible to other builders
+- it reduces hidden fragility
+- it leaves behind a cleaner protocol or constraint
+- it does not require rhetorical inflation to look meaningful
 
-These may not be glamorous contributions.
+Examples include:
 
-They may still be among the most important.
-
----
-
-## 8. What This Project Especially Needs from Passionate People
-
-This project does not need passion that stays rhetorical.
-
-It needs passion that can accept these transformations:
-
-- love -> discipline
-- care -> protocol
-- vision -> bounded question
-- hope -> proof burden
-- intensity -> method
-- ambition -> architecture
-- moral seriousness -> technical honesty
-
-This is one of the deepest themes of the whole repository:
-
-**the future is not protected by emotion alone.  
-It is protected when emotion becomes structure without losing its soul.**
-
-That is the kind of contribution this project values most.
-
----
-
-## 9. The Three Levels of Good Contribution
-
-## Level 1 — Clarifying Contribution
-
-These contributions make the project easier to understand honestly.
-
-Examples:
-- clearer FAQ logic
-- tighter language boundaries
-- sharper document structure
-- better distinction between active and legacy materials
-- better framing of what the project is and is not
-
-These contributions are often underestimated.
-They matter because they protect the architecture from drift.
-
----
-
-## Level 2 — Technical Contribution
-
-These contributions directly reduce uncertainty in the interface or validation burden.
-
-Examples:
+- iodine redox baseline stabilization
+- G-axis response characterization
+- electrode-conditioning discipline
+- fixed acquisition order
 - drift characterization
-- leak detection
-- baseline stabilization logic
-- preprocessing sanity checks
-- channel independence analysis
-- bounded protocol improvements
+- Twin Mini-Cell leak detection logic
+- cross-talk quantification
+- stricter preprocessing rules
+- negative-control design
+- state-separability validation structure
+- metadata and raw-data packaging rules
 
-These are often the clearest high-value contributions.
+A contribution becomes especially strong when another lab can understand what changed and why it matters.
 
 ---
 
-## Level 3 — Civilizational / Interpretive Contribution
+## 7. What a Good Signal-Processing Contribution Looks Like
 
-These contributions help preserve the moral and conceptual seriousness of the work without weakening standards.
+A good signal-processing contribution does **not** try to rescue the architecture with cleverness.
+
+It tries to prevent illusion.
+
+That means a good contribution here looks like:
+
+- a simpler pipeline that exposes rather than hides assumptions
+- baseline correction rules that can be audited
+- feature extraction that is explicit and stable
+- anti-overfitting discipline
+- leakage-aware validation
+- transparent thresholding
+- version-controlled processing steps
+- state-separability logic that survives stricter review
+
+A weak signal-processing contribution looks like:
+
+- model complexity without interpretive discipline
+- performance gains that depend on opaque preprocessing
+- pipelines that look strong but cannot survive transfer
+- language that implies discovery where only tuning occurred
+
+At this stage, “more honest” is often more valuable than “more powerful.”
+
+---
+
+## 8. What a Good Experimental Contribution Looks Like
+
+A good experimental contribution usually improves one of the following:
+
+- controlled state-transition design
+- session structure
+- repeated-measures logic
+- sample-handling discipline
+- operator dependence reduction
+- condition-sequencing consistency
+- contamination awareness
+- reset / washout logic
+- time-locking of measurements
+- documentation completeness
+
+A good experiment does not merely produce data.
+
+It makes future data more interpretable.
+
+That is the difference between producing traces and contributing to the architecture.
+
+---
+
+## 9. What a Good Aptamer / Molecular Contribution Looks Like
+
+In the aptamer and molecular-recognition zone, a good contribution is one that stays realistic.
+
+It does not romanticize feasibility.
+It clarifies it.
+
+Examples include:
+
+- challenging or refining target feasibility assumptions
+- clarifying affinity / selectivity realism
+- identifying immobilization constraints
+- separating recognition plausibility from full sensor viability
+- narrowing which test should come first
+- simplifying an overcomplicated early design
+- identifying where molecular elegance will fail under device conditions
+
+A weak contribution in this zone is one that speaks grandly about molecular possibility without helping determine what is chemically or experimentally credible now.
+
+---
+
+## 10. What a Good Governance / AI-Facing Contribution Looks Like
+
+A good governance, HCI, or AI-facing contribution remains bounded by the current stage.
+
+It does not convert early interface work into completed civilizational proof.
+
+Instead, it does one of the following:
+
+- clarifies why state-level blindness matters
+- distinguishes output metrics from state-impact metrics
+- refines why directional change detection may matter even before total representation exists
+- sharpens future evaluation logic without overstating present proof
+- helps make the civilizational frame reviewer-resistant rather than merely dramatic
+
+A good contribution here makes the larger stakes clearer **without loosening the technical burden**.
+
+That distinction matters.
+
+---
+
+## 11. A Good Contribution Often Includes Negative Results
+
+One of the clearest signs of maturity is this:
+
+a contributor understands that a good contribution may end in a negative or boundary result.
 
 Examples:
-- clarifying why the future and humanity matter at the measurement level
-- showing why care must become technical
-- refining the language that keeps the project both ambitious and honest
-- protecting the project from becoming either empty mysticism or blind technocracy
 
-This level matters, but only when it remains disciplined.
+- showing that a signal vanishes under stricter controls
+- discovering that separability depended on a hidden preprocessing artifact
+- proving that one channel architecture is not sufficiently isolated
+- demonstrating that one state contrast is too unstable
+- finding that a proposed interpretation must be withdrawn
+- showing that a stronger claim should remain forbidden
 
----
+These are not failed contributions.
 
-## 10. What We Hope People Will Not Do
+They are often some of the best contributions available in early-stage work.
 
-We do not want people to arrive here and say:
-
-- “I want to help because this sounds big.”
-- “I want to attach my name to this because it feels visionary.”
-- “I want to use this as a personal frontier identity.”
-- “I want to speak loudly first and become useful later.”
-
-That is the wrong order.
-
-The right order is:
-
-- understand
-- narrow
-- test your fit
-- contribute something real
-- let meaning emerge through work
+Because they reduce illusion.
 
 ---
 
-## 11. A Good First Contribution Hypothesis
+## 12. What a Good Contribution Leaves Behind
 
-If someone wants to know whether they may fit, a good first internal statement is something like:
+A good contribution should leave behind at least one durable improvement.
 
-**“I do not yet know whether I belong deeply in this project, but I can see one narrow place where my skill may reduce uncertainty honestly.”**
+For example:
 
-That sentence is healthy.
+- a clearer SOP
+- a stricter threshold
+- a stronger negative control
+- a cleaner data schema
+- a more explicit interpretive boundary
+- a simpler builder path
+- a better replication package
+- a better reason not to say something too early
 
-It contains:
+If the contribution disappears the moment the meeting ends, it was probably not strong enough.
 
-- humility
-- seriousness
-- specificity
-- openness to failure
-- freedom from premature self-mythology
-
-That is the right beginning.
-
----
-
-## 12. How to Know Whether Your Contribution Is Probably Real
-
-A useful self-test is this.
-
-Ask:
-
-### 12.1 Does my contribution narrow one real uncertainty?
-If no, it is probably too vague.
-
-### 12.2 Does it respect the project’s current stage?
-If no, it is probably too early or too inflated.
-
-### 12.3 Would the contribution still matter if the result were negative?
-If no, it may be too attached to flattering outcomes.
-
-### 12.4 Does it strengthen the architecture rather than the image?
-If no, it is probably not yet a strong fit.
-
-### 12.5 Could someone serious describe it in one bounded sentence?
-If no, it is probably still too loose.
-
-These questions are useful because they turn aspiration into discipline.
+A real contribution leaves structure behind.
 
 ---
 
-## 13. Why Small Honest Contributions Matter More Than Grand Loose Ones
+## 13. What a Weak Contribution Looks Like
 
-In a frontier project, it is often the smaller contribution that matters more.
+A weak contribution often has one or more of these traits:
 
-Why?
+- broad but untestable
+- rhetorically strong but procedurally vague
+- impressive-sounding but difficult to audit
+- useful only inside one person’s head
+- creates dependency on the contributor’s personal interpretation
+- increases ambiguity while sounding clarifying
+- enlarges the claim surface faster than the evidence surface
 
-Because a small, honest, bounded contribution can:
+Weak contributions often sound like:
 
-- survive scrutiny
-- become reusable
-- improve the architecture
-- reduce false confidence
-- make future work cleaner
-- prevent entire branches of confusion
+- “We can probably solve the whole thing.”
+- “This changes everything.”
+- “The concept is now much stronger.”
+- “We should scale the narrative quickly.”
+- “The repo already proves enough.”
+- “We can use more advanced methods later to make this work.”
 
-A grand but loose contribution often does the opposite.
-
-So the rule is:
-
-**do not ask how large your contribution sounds.  
-Ask how deeply it reduces confusion.**
-
----
-
-## 14. What We Quietly Hope to Find
-
-We hope to find people who can feel this project deeply without becoming vague about it.
-
-People who can say, in effect:
-
-- “I care about humanity enough to want structure, not just sentiment.”
-- “I care about the future enough to accept technical burden.”
-- “I care about truth enough not to exaggerate what is not yet proven.”
-- “I want to turn my skill into something civilizational without becoming grandiose.”
-- “I want my contribution to be small enough to be real and deep enough to matter.”
-
-That is the kind of person this project is trying to become visible to.
+This tone is not contribution.
+It is often escape from contribution.
 
 ---
 
-## 15. One-Line Summary
+## 14. What a Dangerous Contribution Looks Like
 
-A good contribution here is one in which passion for humanity and the future becomes a bounded, honest, uncertainty-reducing piece of work that strengthens the architecture without pretending to complete it.
+Some contributions are not merely weak.
+They are structurally dangerous.
+
+These include contributions that:
+
+- imply compliance without canonical basis
+- use the Sal-Meter name loosely
+- introduce non-canonical replacement metrics
+- blur helper and canonical layers
+- encourage clinical or diagnostic overreach
+- treat public visibility as evidence
+- market “equivalent” indices without disclosure
+- pressure the team to say more than the current stage allows
+- optimize for external perception at the cost of internal integrity
+
+A dangerous contribution may create momentum.
+
+It still weakens the project.
+
+This kind of contribution must be resisted even when it appears useful in the short term.
 
 ---
 
-## 16. Final Position
+## 15. The Character of a Good Contributor
 
-This project does not need people who only feel strongly.
+A good contribution usually comes from a contributor with a recognizable stance.
 
-It needs people who can convert feeling into form, care into method, and devotion into disciplined technical contribution.
+They tend to be able to do all of the following:
 
-That is the threshold.
+- stay narrow without becoming timid
+- stay ambitious without becoming loose
+- accept that negative results can still be valuable
+- separate what they hope from what they know
+- improve one layer without pretending to own all layers
+- care about the future without using that care to bypass method
+- protect claims boundaries rather than merely tolerate them
 
-That is the burden.
+In early frontier work, character shows up as method.
 
-And that is the kind of contribution that can actually deserve the future it hopes to serve.
+That is why some people with smaller outputs still contribute more deeply than louder, faster, or more prestigious participants.
+
+---
+
+## 16. The Practical Questions Every Contributor Should Ask
+
+Before calling something a contribution, the contributor should ask:
+
+1. **What exact uncertainty did I reduce?**  
+2. **What artifact, leak, or false-positive path did I rule out—or fail to rule out?**  
+3. **What stronger claim does this still not justify?**  
+4. **Could another serious lab understand and reuse this contribution?**  
+5. **Did I leave the architecture more honest than I found it?**
+
+If those questions cannot be answered clearly, the contribution likely needs to be narrowed, rewritten, or re-tested.
+
+---
+
+## 17. Examples of Strong Contribution Statements
+
+Strong contribution statements sound like this:
+
+- “We improved the baseline rule and documented why.”
+- “We found a hidden source of drift.”
+- “We showed that the earlier signal did not survive stricter controls.”
+- “We created a tighter leak-detection protocol.”
+- “We reduced operator dependence in one acquisition step.”
+- “We clarified which interpretation is still premature.”
+- “We made the raw-data package easier to audit.”
+- “We simplified one module so it can be transferred more cleanly.”
+- “We narrowed where the interface might actually survive.”
+
+These statements are disciplined.
+They are concrete.
+They leave room for the architecture to remain early while still becoming stronger.
+
+---
+
+## 18. Examples of Weak Contribution Statements
+
+Weak contribution statements sound like this:
+
+- “We made the overall vision more compelling.”
+- “We helped others believe in it.”
+- “We expanded the framework.”
+- “We connected it to many future applications.”
+- “We made the story bigger.”
+- “We helped show how revolutionary it is.”
+- “We made the public explanation more inspiring.”
+
+None of these are necessarily useless forever.
+
+But at the current stage, none of them should be mistaken for the best form of contribution.
+
+---
+
+## 19. How a Lab Should Decide If Its Planned Contribution Is Good
+
+A lab should ask one simple question:
+
+**If we complete this work honestly, and the result is negative, would the contribution still improve the architecture?**
+
+If the answer is yes, the contribution is probably well-formed.
+
+If the answer is no, the lab may be planning something too performative, too vague, or too dependent on positive optics.
+
+A real contribution can survive disappointment.
+
+That is part of what makes it real.
+
+---
+
+## 20. What This Means for Early Collaboration
+
+At this stage, the best collaborators are not the ones who promise the most.
+
+They are the ones who can carry one burden carefully.
+
+The project should prefer:
+
+- one stricter protocol over one louder endorsement
+- one stronger negative control over one bigger story
+- one better leak test over one more dramatic presentation
+- one more reproducible module over one more ambitious diagram
+- one contributor who respects claims boundaries over ten who merely admire the vision
+
+That is not narrowness.
+
+It is how fragile work remains alive long enough to become real.
+
+---
+
+## 21. One-Line Summary
+
+A good contribution is one that makes the current architecture more stable, more bounded, more reproducible, more honest, or harder to misstate—without demanding that the project pretend to be more complete than it is.
+
+---
+
+## 22. Final Position
+
+This project does not need contributions that stand near the idea.
+
+It needs contributions that press one uncertain part of the idea against reality and return with something cleaner than before:
+
+- a tighter rule
+- a smaller ambiguity
+- a stronger boundary
+- a better protocol
+- a more honest failure
+- a more transferable success
+
+That is what a good contribution looks like now.
+
+Everything else is secondary.
 
 ---
 
@@ -430,10 +532,21 @@ And that is the kind of contribution that can actually deserve the future it hop
 **Origin Architect:** Jinho Lee, MD  
 **ORCID:** https://orcid.org/0009-0005-3809-4588
 
-**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
-
-**Primary public hub:** https://salpida.foundation
-
-**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program
-
+**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)  
+**Primary public hub:** https://salpida.foundation  
+**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program  
 **Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
+
+---
+
+## Boundary Reminder
+
+This page is an operational orientation document.
+
+It does **not** define canonical authority.  
+It does **not** grant compliance status.  
+It does **not** certify any system.  
+It does **not** authorize naming rights.  
+It does **not** convert repository visibility into proof.
+
+For binding meaning, boundaries, naming, compliance, and interpretive control, follow the DOI-registered canonical layer.
