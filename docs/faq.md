@@ -1,345 +1,574 @@
-# FAQ — Sal-Meter Kernel Program
+# FAQ — The Shortest Honest Answers About the Current Stage of the Program
 
-> **KR 안내**  
-> 이 문서는 README를 읽은 뒤 가장 자주 생기는 질문에 빠르게 답하기 위한 운영용 FAQ입니다.  
-> 정본 권위는 GitHub가 아니라 **DOI 등록 문서 (Zenodo / OSF)** 에 있습니다.
-
----
-
-## 1. What is this repository?
-
-This repository is the **public operational index** for the **Sal-Meter Kernel Program**.
-
-It is a pre-opening coordination layer for a research-stage program focused on whether a **CAIS-compliant molecular-electrochemical interface** can produce reproducible, state-separable signals under bounded conditions.
-
-It is **not** the source of canonical authority.  
-Canonical authority remains fixed only in DOI-registered records.
+> **KR note**  
+> 이 문서는 Sal-Meter / CAIS / CCF kernel program에 대해  
+> PI, 연구자, 기술 리드, 외부 협력자들이 가장 먼저 묻는 질문들에  
+> 짧고 구조적으로 답하기 위한 문서입니다.
+>
+> This page is not a promotional summary.  
+> It is a boundary-conscious FAQ for principal investigators, lab leads, technical researchers, and serious external readers who need fast answers without losing the current-stage discipline of the project.  
+> It is an operational orientation document, not a canonical authority document.
 
 ---
 
-## 2. Is the public competition already open?
+## Related Reading
 
-**No.**
+**Read alongside this page:**
 
-This repository is **not currently open as a broad public competition**.
-
-At the present stage, the project remains in a **kernel-first program direction**:
-
-- External Layer-0 feasibility
-- Internal Phase 0
-- Internal Phase 1
-- Internal Phase 2a
-- Internal Phase 2b
-- Lock 1
-- Lock 2
-- only then, if justified, broader opening
-
-A repository update does **not** automatically mean public opening.
+- [For PIs and Lab Leads](./for-pis-and-lab-leads.md)
+- [Expected Reactions from PIs and Researchers](./expected-reactions-from-pis-and-researchers.md)
+- [Where Help Is Most Needed](./where-help-is-most-needed.md)
+- [What a Good Contribution Looks Like](./what-a-good-contribution-looks-like.md)
+- [Roadmap](./roadmap.md)
+- [Authority Boundary](./authority-boundary.md)
+- [Public Claims Guide](./public-claims-guide.md)
+- [PI Quick Decision Pack](./PI_Quick_Decision_Pack.md)
+- [Document Map](./document-map.md)
 
 ---
 
-## 3. What is the difference between the Kernel Program and the broader opening?
+## 1. What is this project, in one sentence?
 
-The **Kernel Program** exists to determine whether the core interface is real, stable, and meaningful enough to support broader external development.
-
-The **broader opening** comes later, only if the kernel is fixed strongly enough that external builders can work without collapsing the architecture into drift, hype, or false interpretation.
-
-In short:
-
-- **Kernel Program** = prove and stabilize the core
-- **Broader Opening** = expand only after the core earns that right
+It is a kernel-first research program testing whether a bounded CAIS-aligned interface can produce reproducible, non-therapeutic, state-sensitive signals under disciplined experimental conditions.
 
 ---
 
-## 4. What is External Layer-0?
+## 2. Is this a finished device program?
 
-External Layer-0 is a **separate pre-phase feasibility support track**.
+No.
 
-It exists to test whether the iodine redox + thiol/disulfide interface shows a stable and reproducible signal window worth building on.
+It should not be read as a finished device story.
 
-It is upstream of the internal kernel phases.
+At the current stage, it is better understood as:
 
-It is not the same thing as full participation in a broad public competition.
-
----
-
-## 5. Is this repository claiming that consciousness has already been measured?
-
-**No.**
-
-This repository does **not** claim that consciousness has already been fully measured.
-
-It proposes a bounded research question:
-
-**Can a constrained interface produce reproducible signal events associated with controlled state transitions strongly enough to be tested, rejected, refined, and compared under fixed rules?**
-
-This is a research architecture, not a declaration of final proof.
+- an early frontier measurement program
+- a kernel-stabilization effort
+- a controlled burden of proof
+- a research-stage architecture under pressure, not a mature commercial platform
 
 ---
 
-## 6. Is Sal-Meter a medical device?
+## 3. Is the broad public open competition active right now?
 
-**No, not in the scope of this repository.**
+No.
 
-This repository is **research-stage, non-diagnostic, and non-therapeutic**.
+The broad public opening is **not** the present stage.
 
-Nothing here should be read as:
+The current priority is:
 
-- medical advice
-- diagnostic meaning
-- therapeutic function
-- regulatory approval
-- clinical readiness
+- targeted external Layer-0 feasibility support
+- internal kernel building
+- internal Phase 0 → Phase 1 → Phase 2a → Phase 2b stabilization
+- evidence protection before broader opening
 
-If any future downstream pathway enters clinical or regulatory territory, that would require separate work, separate validation, and separate review.
-
----
-
-## 7. Is this a commercialization or startup program?
-
-**No.**
-
-This repository is not:
-
-- a startup accelerator
-- a venture funnel
-- a commercialization program
-- a product launch channel
-- an SDK release announcement
-- a certification scheme
-
-Its purpose is to organize a difficult research boundary and test whether the kernel can survive serious measurement discipline.
+Public broader opening comes later.
 
 ---
 
-## 8. Where does canonical authority live?
+## 4. What is active right now?
 
-Canonical authority does **not** live in GitHub prose.
+What is active now is the work that makes the kernel harder to fake and easier to test honestly.
 
-Canonical authority lives only in **DOI-registered documents** hosted through platforms such as **Zenodo** and **OSF**.
+That includes:
 
-GitHub in this project functions as:
+- external feasibility work where narrow early validation is useful
+- internal kernel stabilization
+- protocol locking
+- drift control
+- leak and cross-talk control
+- metadata and evidence discipline
+- state-separability preparation
+- internal build-role consolidation where needed
 
-- an operational index
-- a public preparation layer
-- a coordination surface
-- a discussion and orientation space
-
-If GitHub wording and a DOI-registered canonical document ever appear to differ, the **DOI-registered document prevails**.
-
----
-
-## 9. Can I rely on helper documents as authoritative?
-
-Not as authoritative.
-
-Helper documents are useful for:
-
-- orientation
-- PI decision-making
-- fast entry
-- engineering overview
-- program framing
-
-But they do **not** override canonical documents.
-
-Helper documents help people enter the structure.  
-They do not define the structure.
+This is the stage where the architecture is being made more real, more bounded, and more reproducible.
 
 ---
 
-## 10. Can I call my own device a “Sal-Meter” now?
+## 5. What is the project trying to prove right now?
 
-Not simply because it resembles the idea.
+Not the largest claim.
 
-The designation **Sal-Meter** is tied to canonical definition and compliance boundaries, not to enthusiasm or informal similarity.
+The immediate question is narrower:
 
-Readers should assume the following:
+**Can a bounded interface survive disciplined testing well enough to justify deeper research rather than casual dismissal?**
 
-- naming is constrained
-- canonical definitions matter
-- helper language is not a naming license
-- premature public designation is not justified by repository visibility alone
+More specifically:
 
-If you want to build, first understand the authority boundary.
+- Can a signal interface be shown to exist?
+- Can it be stabilized?
+- Can it remain bounded under stricter controls?
+- Can separability survive drift, leak, and preprocessing illusion?
+- Can the protocol remain honest under pressure?
 
----
-
-## 11. Does this repository grant compliance status, certification, or endorsement?
-
-**No.**
-
-Nothing in this repository implies:
-
-- compliance recognition
-- certification
-- endorsement
-- licensing approval
-- official authorization to use marks or claims
-- validated readiness for scaled deployment
-
-A repository, by itself, is not a certificate.
+That is the present burden.
 
 ---
 
-## 12. Who is this repository actually for?
+## 6. Is this claiming to “measure consciousness itself”?
 
-This repository is especially relevant to:
+Not in the loose or totalizing sense that people often assume.
 
-- electrochemistry researchers
-- aptamer and molecular-interface builders
-- biosensor engineers
-- signal processing / ML / statistics teams
-- reproducibility and validation leads
-- HCI / AI-governance researchers
-- PI-level labs asking whether a bounded interface can survive disciplined testing
+At the current stage, the project should be read as testing whether reproducible patterns associated with controlled conscious-state variation can be detected within a bounded CAIS structure.
 
-If your instinct is to ask:
+A serious reader should distinguish between:
 
-**“Can this survive replication, or is it just narrative?”**
+- **grand metaphysical conclusions**, and
+- **bounded experimental state-sensitive signal work**
 
-then this repository is likely meant for you.
+The current stage belongs to the second category.
 
 ---
 
-## 13. Are negative results still valuable here?
+## 7. What does “consciousness-like signal” mean here?
 
-**Yes. Very much so.**
+It refers to reproducible patterns in measurable substrates that track structured changes across controlled state conditions within the CAIS frame.
 
-Negative results matter when they are clean, bounded, and technically honest.
+It does **not** mean:
 
-Examples of valuable negative outcomes include:
+- metaphysical proof of consciousness in totality
+- unrestricted mind-reading
+- unrestricted diagnostic access
+- permission to make sweeping philosophical conclusions from early data
 
-- a pathway that fails reproducibility
-- a leak source that invalidates a design
-- a signal condition that collapses under replication
-- a preprocessing assumption that overstates separation
-- an interpretive shortcut that fails under stricter discipline
-
-A rigorous **no** is stronger than a vague **yes**.
-
-This program values honest boundary definition, not theatrical optimism.
+It means the work is framed as a bounded signal problem first.
 
 ---
 
-## 14. What counts as a meaningful contribution?
+## 8. Is this a clinical or therapeutic program right now?
 
-A meaningful contribution does **not** need to be full-stack.
+No.
 
-Strong contributions may come from one bounded layer only, such as:
+The current research-stage framing is **non-therapeutic** and **non-diagnostic**.
 
-- electrochemical characterization
-- aptamer interface work
-- preprocessing and normalization
-- state-separability analysis
-- validation tooling
-- firmware and acquisition control
-- bounded documentation or governance clarification
+The present work is about interface validity, protocol discipline, and measurement architecture.
 
-A sharp subsystem contribution is often more valuable than an inflated end-to-end claim.
+A serious contributor should not treat the current stage as permission for:
 
----
+- treatment claims
+- diagnosis claims
+- efficacy claims
+- clinical superiority claims
+- medical marketing narratives
 
-## 15. What should I read first?
-
-A practical order is:
-
-### If you are a PI
-1. Read the **PI Quick Decision Pack**
-2. Read the canonical boundary documents
-3. Decide whether your lab has a real bounded contribution
-4. Make a private go / no-go decision before public enthusiasm
-
-### If you are an engineer
-1. Read the **System Overview**
-2. Read the **Technical Snapshot**
-3. Understand the kernel logic first
-4. Ask where drift, leak, and false inference can break the stack
-5. Only then think about implementation
-
-### If you are entering from AI governance
-1. Read the entry paper on AI governance
-2. Focus on why measurement visibility matters
-3. Treat Sal-Meter as a proposed research interface, not settled technology
-4. Focus on governability conditions, not hype
+Those exceed the present boundary.
 
 ---
 
-## 16. Why is English the main language of the repository?
+## 9. Is this an HRV, EEG, or generic wellness tracker project?
 
-The repository is maintained primarily in **English** for international scientific accessibility.
+No.
 
-Short Korean guidance may be included for orientation, but:
+This project should not be collapsed into existing surface categories such as:
 
-- English is the main public repository language
-- Korean is a welcome and support layer
-- neither language overrides canonical DOI records
+- HRV-only tracking
+- EEG-only consumer headbands
+- meditation scoring apps
+- generic stress dashboards
+- proprietary wellness scoring systems
 
-**KR 요약:**  
-영문이 메인이고, 한글은 안내 레이어입니다.  
-정본은 GitHub가 아니라 DOI 문서입니다.
+The current architecture is specifically concerned with a CAIS-aligned measurement pathway and its technical/governance boundaries.
 
----
-
-## 17. Is Korean content official?
-
-Korean guidance may be operationally useful, but it should be read as **support-layer guidance**, not as a separate authority layer.
-
-There is no separate Korean mirror authority in this repository structure.
-
-The authoritative layer remains the DOI-registered canonical documents.
+That distinction matters.
 
 ---
 
-## 18. Why is the repository tone so strict?
+## 10. Does a lab need to cover the whole stack to matter?
 
-Because the program is trying to prevent common failure modes:
+No.
 
-- premature opening
-- conceptual drift
-- overclaiming
-- commercialization before validation
-- naming confusion
-- weak engineering disguised as visionary language
+A lab does **not** need to own the full architecture to contribute meaningfully.
 
-The strict tone is not there to make the project smaller.
+In fact, the best contributions are often narrow.
 
-It is there to prevent the architecture from collapsing before it has earned broader opening.
+A lab may matter by helping with only one layer, such as:
 
----
+- electrochemical stability
+- molecular interface feasibility
+- hardware acquisition discipline
+- preprocessing sanity control
+- leak or cross-talk detection
+- validation architecture
+- controlled state-transition design
+- governance framing
+- claims-boundary discipline
 
-## 19. What should I not bring into this repository?
-
-This is the wrong place for:
-
-- empty futurism
-- mystical certainty
-- startup-style urgency without validation discipline
-- medical overclaiming
-- proprietary rebranding of canonical indices
-- shallow “consciousness tech” marketing
-
-This is the right place for:
-
-- reproducibility discipline
-- boundary-aware experimentation
-- architecture-first engineering
-- careful negative results
-- honest subsystem work
-- seriousness
+One honest reduction of uncertainty is enough to matter.
 
 ---
 
-## 20. What is the shortest accurate summary of the repository?
+## 11. What kinds of labs or groups may fit best?
 
-This repository does not declare victory.
+The current program may be especially relevant to people with strength in one or more of the following:
 
-It declares a test.
+- electrochemistry
+- molecular sensing
+- biosensor engineering
+- aptamer-related interface work
+- signal processing
+- applied statistics
+- validation design
+- reproducibility engineering
+- controlled state-transition protocols
+- HCI / AI-governance / philosophy of technology framing that respects technical limits
 
-It does not say the interface is already proven.  
-It says the burden of proof has been organized.
+The right fit is not “who likes the concept most.”
 
-That is the real beginning of serious work.
+The right fit is “who can reduce one real uncertainty.”
+
+---
+
+## 12. What should a serious PI ask first?
+
+Not:
+
+**“How do we join?”**
+
+But:
+
+**“Do we have one real, bounded, technically serious way to reduce one specific uncertainty in this architecture?”**
+
+That is the first mature question.
+
+Everything else comes after that.
+
+---
+
+## 13. What makes a lab valuable here?
+
+A lab becomes valuable when it makes the architecture more honest.
+
+That usually means one or more of the following:
+
+- sharper protocol discipline
+- stronger negative controls
+- better drift characterization
+- better leak or cross-talk detection
+- tighter preprocessing rules
+- cleaner state-separability logic
+- stronger reproducibility structure
+- clearer interpretation boundaries
+- clearer evidence packaging for later cross-lab use
+
+The project needs exact reduction of uncertainty more than generalized enthusiasm.
+
+---
+
+## 14. Are negative results still useful?
+
+Yes.
+
+A clean negative or boundary result can be extremely valuable if it:
+
+- eliminates a false path
+- exposes a hidden artifact
+- reveals drift or leak
+- disproves a weak assumption
+- prevents inflated claims
+- forces a tighter architecture
+- clarifies where interpretation must stop
+
+A serious reader should treat “ambiguity decreased” as a real outcome, even when the hoped-for signal becomes weaker or disappears.
+
+---
+
+## 15. Is this a prize theater or hype contest?
+
+It should not be read that way.
+
+The structure is most defensible when treated as:
+
+- a disciplined uncertainty-reduction program
+- a bounded research-stage effort
+- a protocol-and-validation challenge
+- an anti-inflation architecture for a fragile question
+
+The wrong reading is:
+
+- “This is already the breakthrough.”
+- “The repository proves the hard part.”
+- “The public narrative should move faster than the evidence.”
+
+Those are immature readings.
+
+---
+
+## 16. Is success assumed?
+
+No.
+
+The program should be approached under a stricter premise:
+
+success is **not** assumed.
+
+The work is meaningful precisely because the outcome may be:
+
+- positive under bounded conditions
+- mixed and condition-dependent
+- narrower than hoped
+- negative but illuminating
+- technically unstable in ways that force redesign
+
+That is not weakness.
+That is what honest frontier work looks like.
+
+---
+
+## 17. If success is not assumed, why should a serious lab care?
+
+Because some early burdens matter **before** their prestige market stabilizes.
+
+A serious lab may care because this question combines:
+
+- methodological fragility
+- high interpretive risk
+- real validation difficulty
+- meaningful future relevance
+- unusual value in clean negative results
+- possible downstream significance for sensing, HCI, AI-governance evaluation, and civilizational measurement thinking
+
+The right lab does not need certainty to see why the burden may still be worth attention.
+
+---
+
+## 18. What does a good contribution look like?
+
+A good contribution is one that reduces one real uncertainty without inflating the larger claim.
+
+Examples:
+
+- tightening a baseline rule
+- improving drift control
+- finding a hidden leak path
+- clarifying a negative control
+- making a preprocessing step more auditable
+- narrowing where the interface survives
+- strengthening reproducibility packaging
+- making a forbidden claim boundary clearer
+
+A contribution is good when it leaves the architecture more honest than it found it.
+
+See [What a Good Contribution Looks Like](./what-a-good-contribution-looks-like.md).
+
+---
+
+## 19. What kind of help is most needed now?
+
+Help is most needed where it reduces fragility near the kernel.
+
+Examples include:
+
+- molecular / electrochemical feasibility
+- channel isolation and leak control
+- acquisition stability
+- preprocessing sanity
+- state-separability validation
+- controlled condition design
+- reproducibility structure
+- claims and publication boundary discipline
+
+Help that mainly increases narrative scale is not first-priority help right now.
+
+See [Where Help Is Most Needed](./where-help-is-most-needed.md).
+
+---
+
+## 20. What should a lab protect against?
+
+A serious lab should protect against:
+
+- authority drift
+- language drift
+- repository visibility being mistaken for proof
+- helper documents being mistaken for canonical authority
+- premature interpretation
+- false separability created by preprocessing
+- weak replication logic
+- branding pressure outrunning evidence
+- clinical or commercial claims that exceed the current stage
+
+In a project like this, protecting the boundary is part of the scientific work.
+
+---
+
+## 21. Where does canonical authority live?
+
+Canonical authority does **not** live in summary pages, helper documents, GitHub alone, or public-facing explanatory surfaces.
+
+Binding meaning, naming, compliance, and interpretive authority live only in the canonical DOI-registered layer.
+
+This FAQ is a reading aid.
+It is not an authority layer.
+
+For that reason, a serious reader should also review:
+
+- [Authority Boundary](./authority-boundary.md)
+- [Public Claims Guide](./public-claims-guide.md)
+
+---
+
+## 22. What is the difference between canonical documents and helper documents?
+
+Canonical documents fix:
+
+- definitions
+- boundaries
+- designation conditions
+- compliance limits
+- interpretive authority
+- restricted claims
+
+Helper documents do something different.
+
+They help readers:
+
+- understand the stage
+- understand the build path
+- understand how to approach the repository
+- decide whether they have bounded relevance
+- avoid common misreadings
+
+A helper document may be useful.
+It is still not the source of binding authority.
+
+---
+
+## 23. Where should a serious researcher start reading?
+
+A strong default path is:
+
+1. the entry-facing materials that explain why the question matters  
+2. the core conceptual architecture  
+3. the CFE⁺ layer  
+4. the CAIS architecture layer  
+5. the Sal-Meter definition / negative definition / compliance-boundary layer  
+6. the implementation and PI-facing guidance layer
+
+Within this docs folder, the shortest practical path is:
+
+1. [For PIs and Lab Leads](./for-pis-and-lab-leads.md)  
+2. [FAQ](./faq.md)  
+3. [Roadmap](./roadmap.md)  
+4. [Authority Boundary](./authority-boundary.md)  
+5. [Public Claims Guide](./public-claims-guide.md)  
+6. [Where Help Is Most Needed](./where-help-is-most-needed.md)  
+7. [What a Good Contribution Looks Like](./what-a-good-contribution-looks-like.md)  
+8. [PI Quick Decision Pack](./PI_Quick_Decision_Pack.md)  
+9. [Document Map](./document-map.md)
+
+---
+
+## 24. What if a lab is interested but not ready to commit?
+
+That is a legitimate position.
+
+A serious lab does not need to jump immediately.
+
+A mature minimum response is:
+
+- read the entry and boundary materials
+- identify one overlapping module
+- hold an internal discussion focused on bounded fit
+- decide whether the lab can support a narrow exploratory effort without overclaiming
+- continue watching if the fit is still unclear
+
+Not every early reader should become an early participant.
+
+Watching carefully is sometimes the mature choice.
+
+---
+
+## 25. Is this all-or-nothing?
+
+No.
+
+A lab may engage at many levels, including:
+
+- technical review
+- bounded feasibility discussion
+- one-module exploratory testing
+- validation design input
+- interpretation-boundary critique
+- longer-term watchful observation
+
+The program becomes unhealthy only when curiosity is forced to pretend it is endorsement.
+
+That should be avoided.
+
+---
+
+## 26. What if a lab wants exclusivity?
+
+Then this may not be the right fit.
+
+The strongest version of this program is not built around monopoly control of the common structure.
+
+A serious lab should understand that the long-term value here is more likely to be:
+
+- authorship
+- positioning
+- protocol leadership
+- early experimental credit
+- future citation
+- real contribution to a difficult boundary question
+
+not definitional capture of the whole architecture.
+
+---
+
+## 27. What if a reader mainly wants a bigger story, not a bounded burden?
+
+Then this repository is probably not yet being read correctly.
+
+The right present reading is:
+
+- early frontier
+- kernel-first
+- controlled burden of proof
+- careful stage discipline
+- public language intentionally tighter than ultimate ambition
+
+The wrong reading is:
+
+- finished platform
+- ready-made brand surface
+- proof by repository presence
+- permission for loose “consciousness solved” language
+
+This distinction should remain sharp.
+
+---
+
+## 28. What is the shortest honest summary of the current program?
+
+It is an early, kernel-first, research-stage effort testing whether a bounded CAIS-aligned signal architecture can survive disciplined technical, validation, and interpretive pressure without collapsing into hype, artifact, or premature claim inflation.
+
+---
+
+## 29. Final question: why does this FAQ exist at all?
+
+Because early frontier work dies in two common ways:
+
+- people overread it
+- people underread it
+
+This FAQ exists to reduce both errors.
+
+It gives serious readers a faster way to locate:
+
+- what the project is
+- what it is not
+- what stage it is in
+- what kind of help matters now
+- what kind of claims remain premature
+- how to begin without damaging the question
+
+That is its only purpose.
+
+---
+
+## 30. One-Line Summary
+
+This project is worth reading seriously only if it is read at the correct scale: not as completed proof, but as a bounded, research-stage effort to reduce blindness around a difficult measurement frontier.
 
 ---
 
@@ -348,10 +577,21 @@ That is the real beginning of serious work.
 **Origin Architect:** Jinho Lee, MD  
 **ORCID:** https://orcid.org/0009-0005-3809-4588
 
-**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
-
-**Primary public hub:** https://salpida.foundation
-
-**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program
-
+**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)  
+**Primary public hub:** https://salpida.foundation  
+**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program  
 **Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
+
+---
+
+## Boundary Reminder
+
+This page is an operational orientation document.
+
+It does **not** define canonical authority.  
+It does **not** grant compliance status.  
+It does **not** certify any system.  
+It does **not** authorize naming rights.  
+It does **not** convert repository visibility into proof.
+
+For binding meaning, boundaries, naming, compliance, and interpretive control, follow the DOI-registered canonical layer.
