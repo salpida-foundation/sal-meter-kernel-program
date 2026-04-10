@@ -1,418 +1,500 @@
-# Roadmap — Sal-Meter Kernel Program
+# Roadmap — Where the Program Actually Is, What Opens Next, and What Must Be Earned First
 
-> This document explains the current execution order of the Sal-Meter Kernel Program.  
-> It is an operational roadmap for orientation and coordination.  
-> Canonical authority remains fixed only in DOI-registered documents.
-
----
-
-## 1. Current Position
-
-The Sal-Meter program is **not currently in a broad public competition stage**.
-
-At present, the project is organized as a **kernel-first research program** whose immediate purpose is to determine whether a bounded CAIS-compliant measurement kernel can be shown to exist, remain stable, and justify broader opening under stricter conditions.
-
-This means the current roadmap is not built around hype, scale, or speed.
-
-It is built around:
-
-- bounded feasibility
-- reproducibility discipline
-- structural validation
-- authority control
-- controlled opening only after the kernel earns it
+> **KR note**  
+> 이 문서는 Sal-Meter / CAIS / CCF kernel program의 현재 위치와  
+> 다음 단계가 열리는 순서를  
+> 과장 없이 구조적으로 보여주기 위한 문서입니다.
+>
+> This page is not a hype timeline.  
+> It is a stage-order document.  
+> It explains where the program actually is now, what must be completed before the next stage opens, and why broader opening remains downstream of kernel stabilization and lock review.  
+> It is an operational orientation document, not a canonical authority document.
 
 ---
 
-## 2. Why the Roadmap Is Ordered This Way
+## Related Reading
 
-Many technical projects fail because they open too early.
+**Read alongside this page:**
 
-They accumulate:
-
-- conceptual drift
-- weak engineering underneath strong language
-- naming confusion
-- premature commercialization
-- poor reproducibility discipline
-- interpretive overreach before the interface is stable
-
-This roadmap exists to prevent those outcomes.
-
-Its basic principle is simple:
-
-**first, prove the kernel;  
-then, and only then, open the field.**
+- [For PIs and Lab Leads](./for-pis-and-lab-leads.md)
+- [Expected Reactions from PIs and Researchers](./expected-reactions-from-pis-and-researchers.md)
+- [Where Help Is Most Needed](./where-help-is-most-needed.md)
+- [What a Good Contribution Looks Like](./what-a-good-contribution-looks-like.md)
+- [FAQ](./faq.md)
+- [Authority Boundary](./authority-boundary.md)
+- [Public Claims Guide](./public-claims-guide.md)
+- [PI Quick Decision Pack](./PI_Quick_Decision_Pack.md)
+- [Document Map](./document-map.md)
 
 ---
 
-## 3. High-Level Sequence
+## 1. Why This Page Exists
 
-The current execution order is:
+A frontier program becomes misleading when people confuse:
 
-1. **External Layer-0**
-2. **Internal Phase 0**
-3. **Internal Phase 1**
-4. **Internal Phase 2a**
-5. **Internal Phase 2b**
-6. **Lock 1 — Interface Exists**
-7. **Lock 2 — Interface Matters**
-8. **Broader Opening**
+- architecture with current status
+- public visibility with real progress
+- future opening with present opening
+- ambition with earned stage transition
 
-Each stage exists to reduce one specific class of uncertainty.
+This page exists to prevent that confusion.
+
+Its job is simple:
+
+**to show the actual execution order of the current Sal-Meter kernel program, and to clarify what must be earned before the next door opens.**
+
+This is not a generic timeline.
+It is a stage-gated roadmap.
 
 ---
 
-## 4. Stage-by-Stage Roadmap
+## 2. The Core Reading Rule
 
-## 4.1 External Layer-0
+The roadmap should be read through one rule:
 
-### Purpose
-To test whether the upstream iodine redox + thiol/disulfide interface shows a stable enough signal window to justify deeper kernel work.
+**the program moves forward only when the kernel becomes harder to fake, more stable to test, and more bounded to interpret.**
 
-### Main Question
-Can a bounded molecular-electrochemical setup produce signal behavior that is reproducible enough to be worth building on?
+Movement does not mean:
 
-### Typical Focus
+- louder visibility
+- more public excitement
+- more speculative applications
+- broader conceptual discussion
+- more polished helper materials
+
+Movement means:
+
+- interface reality becomes clearer
+- repeatability becomes stronger
+- drift becomes more controlled
+- leak becomes more visible or more constrained
+- state-separability becomes more honest
+- evidence survives tighter pressure
+- stage language remains accurate
+
+That is how this roadmap should be read.
+
+---
+
+## 3. The Current Public Execution Order
+
+The current public execution order is:
+
+**External Layer-0 → SICS Internal Phase 0 → Phase 1 → Phase 2a → Phase 2b → LOCK 1 / LOCK 2 review → post-lock SDK / broader opening**
+
+This order is the correct present helper-level reading of the program.
+
+It means the project is not being approached as:
+
+- broad public rollout first
+- open competition first
+- consumer product first
+- public app layer first
+- large institutional deployment first
+
+It is being approached as:
+
+- kernel-first
+- evidence-first
+- lock-first
+- internal stabilization before broad opening
+
+---
+
+## 4. Where the Program Actually Is Now
+
+The current stage is:
+
+**targeted External Layer-0 feasibility support + SICS internal Phase 0–2b kernel stabilization**
+
+That means the project is currently centered on two simultaneous burdens:
+
+### A. External Layer-0
+A narrow chemistry-first feasibility burden focused on whether the iodine redox / thiol interface behaves in a way worth carrying further.
+
+### B. Internal kernel program
+A tightly controlled internal build path focused on making the kernel:
+
+- reproducible
+- bounded
+- leak-aware
+- protocol-disciplined
+- transferable enough to survive later lock review
+
+This is the real present.
+
+It is not broad public opening.
+
+---
+
+## 5. What Is Not Active Right Now
+
+The following are **not** the current priority stage:
+
+- broad public open competition
+- generalized external build race
+- wide consumer device rollout
+- mass public participation
+- public SDK release
+- open-ended commercialization
+- broad external validation lanes
+- large narrative expansion detached from kernel progress
+
+Those belong later.
+
+The current burden is still kernel stabilization.
+
+---
+
+## 6. External Layer-0 — What It Is For
+
+External Layer-0 exists to answer an early, bounded question:
+
+**does the chemistry-first interface burden deserve to be carried deeper?**
+
+This stage is not about proving the whole stack.
+
+It is about feasibility at the signal-interface boundary.
+
+Typical Layer-0 work may include:
+
 - iodine redox baseline behavior
-- perturbation response
-- basic repeatability
-- early drift observation
-- feasibility of an interpretable signal window
+- thiol / GSH-GSSG interaction mapping
+- electrochemical feasibility checks
+- early perturbation sensitivity
+- stability and drift observation
+- matrix compatibility exploration
+- non-therapeutic signal-interface characterization
 
-### What Layer-0 Is Not
-- not proof of the full stack
-- not proof of human-state measurement
-- not broader opening
-- not compliance
-- not a final device stage
+This stage is valuable because it prevents the program from pretending that interface reality can simply be assumed.
 
-### Exit Condition
-Layer-0 ends successfully only if the signal interface appears stable and bounded enough to justify internal kernel fixation work.
+If Layer-0 fails cleanly, that is still useful.
+It narrows the path honestly.
 
 ---
 
-## 4.2 Internal Phase 0
+## 7. SICS Internal Phase 0 — G-Only Gate
 
-### Purpose
-To determine whether the G-axis can produce state-separable behavior under controlled conditions.
+Internal Phase 0 is the first internal kernel gate.
 
-### Main Question
-Can G-axis measurement show bounded separability with fixed baseline logic, repeatable directionality, and controlled SOP behavior?
+Its role is to test whether the G-axis can produce meaningful state separation under disciplined, fixed conditions.
 
-### Typical Focus
-- baseline fixation
-- GGI logic
-- SOP fixation
-- repeated same-subject directionality
-- state-pair discrimination under controlled conditions
+At this stage, the burden is not “full consciousness measurement.”
 
-### What Phase 0 Must Reduce
-- ambiguity about baseline definition
-- ambiguity about signal direction
-- ambiguity about whether the G-axis can even support state-separability claims
+The burden is narrower:
 
-### Exit Condition
-Phase 0 succeeds only if the G-axis shows a repeatable separability structure strong enough to justify deeper kernel fixation.
+- can G-only measurement produce a real separation signal?
+- can baseline logic be fixed?
+- can GGI directionality remain consistent?
+- can the session structure be stabilized?
+- can SOP-level discipline be locked early?
 
----
+The helper-level gate language for this stage is clear:
 
-## 4.3 Internal Phase 1
+- at least one state-pair should show separability
+- baseline / GGI / SOP logic must be fixed tightly enough to carry forward
+- the signal must survive repeated pressure better than pure narrative optimism
 
-### Purpose
-To fix reproducibility of the I-channel.
-
-### Main Question
-Can the I-channel be constrained strongly enough that repeated handling, preparation, and measurement remain within acceptable discipline?
-
-### Typical Focus
-- I₃⁻ target channel behavior
-- reproducibility of the I-channel
-- preparation discipline
-- storage and handling stability
-- consistency across repeated runs
-
-### What Phase 1 Must Reduce
-- instability in I-channel preparation
-- ambiguity in repeatability
-- uncontrolled variation from handling and setup differences
-
-### Exit Condition
-Phase 1 succeeds only if the I-channel becomes repeatable enough to enter coexistence testing with the G-axis.
+This is the first real internal doorway.
 
 ---
 
-## 4.4 Internal Phase 2a
+## 8. SICS Internal Phase 1 — I-Only Reproducibility
 
-### Purpose
-To test whether the twin-channel structure can coexist without unacceptable leak or cross-talk.
+Phase 1 turns to the iodine channel.
 
-### Main Question
-Can the G and I channels operate in a shared kernel architecture without collapsing into interference?
+Its role is to establish whether the I-channel can be made reproducible enough to become a disciplined part of the kernel rather than a decorative idea.
 
-### Typical Focus
-- Twin Mini-Cell independence
-- leak testing
-- channel isolation
-- cross-talk reduction
-- coexistence without false blending
+The focus here includes:
 
-### What Phase 2a Must Reduce
-- structural leak
-- false coupling
-- ambiguous channel attribution
-- architecture-level contamination between channels
+- I₃⁻ target handling
+- I-channel-only reproducibility
+- coating / storage / measurement stability
+- standard-curve discipline
+- low-loss protocol execution
+- data completeness
+- fixed one-page operational logic where possible
 
-### Exit Condition
-Phase 2a succeeds only if twin-channel coexistence remains bounded enough to support a controlled human pilot structure.
+The point is not elegance.
+
+The point is reproducibility.
+
+Phase 1 matters because a kernel cannot claim seriousness if one of its core channels remains conceptually attractive but operationally unstable.
 
 ---
 
-## 4.5 Internal Phase 2b
+## 9. SICS Internal Phase 2a — Twin Mini-Cell Leak and Cross-Talk Control
 
-### Purpose
-To test human pilot repeatability under a bounded kernel structure.
+Phase 2a is where coexistence becomes real or collapses.
 
-### Main Question
-Can simultaneous G + I sessions remain reproducible enough in a human pilot context to justify the claim that the kernel is not merely theoretical?
+This phase asks whether the channels can live together without cheating.
 
-### Typical Focus
-- repeatability across sessions
-- bounded human pilot design
-- simultaneous channel operation
-- protocol discipline
-- kernel behavior under more realistic state-transition conditions
+Its burden includes:
 
-### What Phase 2b Must Reduce
-- collapse of repeatability outside narrow bench conditions
-- protocol instability
-- ambiguity about whether the kernel survives early human use conditions
+- Twin Mini-Cell structure
+- I/G separation
+- cross-talk testing
+- leak detection
+- repeated cartridge comparison
+- bidirectional isolation stress
 
-### Exit Condition
-Phase 2b succeeds only if the kernel remains sufficiently reproducible to support lock-level judgment.
+This is one of the most important honesty gates in the whole roadmap.
+
+A beautiful dual-channel concept means little if the channels contaminate one another and preprocessing hides the failure.
+
+Phase 2a is where the architecture must prove that coexistence is not illusion.
 
 ---
 
-## 5. Lock Stages
+## 10. SICS Internal Phase 2b — Human Pilot and Kernel Completion
 
-## 5.1 Lock 1 — Interface Exists
+Phase 2b is the internal human pilot stage.
 
-### Meaning
-Lock 1 asks a hard and minimal question:
+At this stage, the program tests whether the kernel survives controlled human-session conditions strongly enough to count as an internally completed kernel candidate.
 
-**Does the interface actually exist as an experimentally defensible measurement kernel?**
+The point is not wide human deployment.
 
-This does not ask whether the program is famous, useful at scale, or commercially attractive.
+The point is whether the kernel, under bounded pilot conditions, can support:
 
-It asks whether the kernel is real.
+- G + I same-session operation
+- repeated state-module differentiation
+- continued leak control
+- reproducible packaging
+- cleaner evidence integrity
+- a coherent internal handoff into lock review
 
-### Lock 1 Requires
-- bounded reproducibility
-- structural coherence across prior phases
-- sufficient reduction of leak / drift / ambiguity
-- enough evidence to say the interface is not just narrative
-
-### If Lock 1 Fails
-The correct result is not “open anyway.”
-
-The correct result is:
-- stop
-- revise
-- narrow
-- repeat
-- or terminate the false path honestly
+This is the last major internal stage before the lock gates decide whether broader opening is justified.
 
 ---
 
-## 5.2 Lock 2 — Interface Matters
+## 11. LOCK 1 — Interface Exists
 
-### Meaning
-Lock 2 asks the next question:
+LOCK 1 asks the hardest early structural question:
 
-**Even if the interface exists, does it matter enough to justify broader opening?**
+**does the interface actually exist as an experimentally defensible kernel?**
 
-Existence alone is insufficient.
+In the current helper framing, LOCK 1 is tied to internal Phase 0–2b completion and includes core gate conditions such as:
 
-The kernel must also show enough structural meaning, utility, and stability to justify exposing the broader field to it.
+- meaningful state separation
+- Twin structure leak / cross-talk remaining within fixed tolerance
+- kernel-level protocol integrity surviving repeated review
 
-### Lock 2 Requires
-- evidence that the interface is not merely measurable
-- evidence that broader opening will not simply amplify noise
-- evidence that the architecture is disciplined enough for controlled external extension
+Representative threshold language currently used in the helper structure includes:
 
-### If Lock 2 Fails
-The correct result is not “scale faster.”
+- state separation around or above the program gate line
+- Twin leak / cross-talk control at or below the fixed tolerance line
 
-The correct result is:
-- hold the kernel
-- continue internal refinement
-- constrain interpretation
-- prevent premature externalization
+If LOCK 1 fails, broader opening should not be treated as meaningful.
+
+Because then the interface itself has not yet earned the right to scale.
 
 ---
 
-## 6. Broader Opening
+## 12. LOCK 2 — Interface Matters
 
-### What Broader Opening Means
-Broader opening is the stage at which external participation can be widened under bounded conditions.
+LOCK 2 asks a different question.
 
-It is not equivalent to:
+Not merely:
 
-- certification
-- compliance recognition
-- medical readiness
-- unrestricted naming rights
-- free-form commercialization
-- interpretive freedom
+**does the interface exist?**
 
-### What Broader Opening Would Allow
-If justified, broader opening may support:
+But:
 
-- broader external experimentation
-- more visible PI / lab participation
-- bounded subsystem development
-- controlled extension under fixed authority rules
+**does the interface matter enough, under real use logic, to justify broader external build and downstream integration?**
 
-### What Broader Opening Still Would Not Mean
-Even then, broader opening would not automatically mean:
+This stage is about practical significance rather than mere existence.
 
-- clinical meaning
-- diagnosis
-- therapy
-- certification
-- unrestricted public claims
-- authority transfer away from canonical documents
+Typical LOCK 2 logic may involve questions such as:
+
+- does the signal remain meaningfully usable?
+- does it improve real downstream handling?
+- does it support coherent interpretation rather than just raw detectability?
+- does it survive context closer to application logic?
+- does it justify SDK / broader external release?
+
+If LOCK 1 is existence,
+LOCK 2 is meaningfulness under more realistic downstream pressure.
+
+Both matter.
 
 ---
 
-## 7. What Stage the Project Is In Now
+## 13. The “1 Switch” — What Changes Only After the Locks
 
-The project is currently in the **pre-opening kernel-program stage**.
+The switch is not a cosmetic milestone.
 
-Operationally, this means:
+It marks a change of regime.
 
-- the architecture is being clarified
-- helper documents are being tightened
-- status and FAQ surfaces are being upgraded
-- canonical boundary discipline is being made more explicit
-- the field is being prepared without prematurely declaring public opening
+Before the locks, the program is:
 
-A repository update should therefore be interpreted conservatively.
+- kernel-first
+- internal-first
+- evidence-protective
+- pre-opening
+- tightly bounded
 
-It may indicate stronger preparation.
+After the locks, the program can begin to open different kinds of external surface.
 
-It does not automatically indicate broader opening.
+That may include, in later stages:
 
----
+- broader external validation structures
+- replication-ready submission packs
+- SDK-facing outputs
+- broader builder participation
+- wider app / form-factor experimentation
+- post-kernel commercialization pathways
 
-## 8. What Progress Looks Like at This Stage
+The switch is therefore not “more hype.”
+It is the transition from **kernel proving** to **controlled external expansion**.
 
-At this stage, progress should be understood as:
-
-- stronger structural clarity
-- narrower claims
-- better helper materials
-- better PI-facing entry discipline
-- cleaner terminology control
-- tighter authority boundaries
-- more bounded technical preparation
-- better readiness for future replication-oriented work
-
-Progress is not measured here by visibility alone.
-
-It is measured by whether ambiguity is being reduced.
+That transition must be earned.
 
 ---
 
-## 9. What Failure Looks Like
+## 14. What Comes After Successful Lock Review
 
-Failure in this roadmap is not just “nothing works.”
+Only after successful lock review does broader opening become structurally defensible.
 
-Failure can also look like:
+Post-lock future lanes may include:
 
-- opening too early
-- scaling a weak kernel
-- confusing helper prose with canonical authority
-- overclaiming before validation
-- naming drift
-- using GitHub visibility as if it were certification
-- letting narrative outrun measurement
+- external Phase 0 validation lanes
+- broader replication packages
+- submission-template standardization
+- SDK-related expansion
+- wider device-form experimentation
+- non-exclusive build ecosystems
+- broader operational or product-facing pathways
 
-This roadmap exists precisely to prevent those forms of failure.
+But these belong to the post-lock environment.
 
----
+They should not be spoken of as though they define the present stage.
 
-## 10. Who This Roadmap Is For
-
-This page is mainly for:
-
-- PI-level readers deciding whether the program is serious
-- engineers trying to understand where the real technical burden lies
-- governance-minded readers trying to distinguish preparation from proof
-- external readers who need to know why the project is not “fully open” yet
-
-If your primary question is:
-
-**Where exactly is this program on the path from concept to structured opening?**
-
-this page is meant for you.
+That is the mistake this roadmap exists to prevent.
 
 ---
 
-## 11. Practical Reading Order
+## 15. What the Roadmap Is Protecting Against
 
-For a serious reader, the recommended order is:
+This roadmap protects against five common distortions:
 
-1. **README**
-2. **FAQ**
-3. **PI Quick Decision Pack**
-4. **Sal-Meter System Overview v1.1**
-5. **Sal-Meter Kernel Program & Future Broader Opening: Technical & Governance Snapshot v2.1**
-6. **CAIS Architecture & Sal-Meter Technical Snapshot v1.1**
-7. **Canonical DOI boundary documents**
-8. **Current Phase 0 program-direction documents**
+### 1. Future-stage inflation
+Speaking as if post-lock opening were already present.
 
-As the questions become more serious, the reading path should move from GitHub helper surfaces down into DOI authority.
+### 2. Public-opening confusion
+Treating the current program as broadly open when it is still internal-first.
 
----
+### 3. Architecture-equals-proof confusion
+Assuming that because the roadmap is coherent, the kernel has already survived the gates.
 
-## 12. What This Roadmap Does Not Do
+### 4. Lock minimization
+Treating LOCK 1 / LOCK 2 as ceremonial rather than structural.
 
-This roadmap does not:
+### 5. Narrative substitution
+Using future ambition to cover present evidentiary incompleteness.
 
-- grant participation status
-- certify any device
-- define compliance
-- authorize naming
-- establish medical meaning
-- override canonical documents
-
-It is an operational guide to sequence and readiness.
-
-Nothing more.  
-Nothing less.
+The roadmap exists to keep sequence honest.
 
 ---
 
-## 13. Current Guiding Principle
+## 16. How a Serious PI Should Read the Roadmap
 
-The governing principle of the current roadmap is:
+A serious PI should not read this roadmap as a promise of linear success.
 
-**Do not broaden the field until the kernel can survive discipline.**
+It should be read as a discipline map.
 
-That principle is stricter than speed.  
-Stricter than visibility.  
-Stricter than excitement.
+The right questions are:
 
-And that is why it matters.
+- where exactly is the current burden?
+- what has already been earned?
+- what remains unearned?
+- what gate would my lab actually help de-risk?
+- what would failure at this stage still teach the field?
+- what later opening is being withheld on purpose until the kernel deserves it?
+
+That is how a mature reader uses a roadmap.
 
 ---
 
-## 14. One-Line Summary
+## 17. How a Contributor Should Use This Roadmap
 
-The roadmap is not designed to move fast.
+A contributor should use the roadmap to avoid false self-placement.
 
-It is designed to prevent the wrong thing from becoming large before the right thing becomes real.
+Before offering help, the contributor should ask:
+
+- are we relevant to Layer-0, Phase 0, Phase 1, Phase 2a, or Phase 2b?
+- are we trying to contribute to the kernel, or are we accidentally jumping to a post-lock surface too early?
+- can our work reduce one real uncertainty at the correct stage?
+- are we speaking publicly as if later stages are already open?
+
+The roadmap is not merely informational.
+
+It is a stage-discipline tool.
+
+---
+
+## 18. What This Roadmap Does Not Mean
+
+This roadmap does **not** mean:
+
+- that success is guaranteed
+- that every stage will pass smoothly
+- that the public competition is active now
+- that broader opening has already been earned
+- that helper materials create canonical authority
+- that each phase automatically validates the entire architecture
+- that future implications are already implemented
+
+It means only this:
+
+the program has a current order,
+and the order is intentionally designed to keep the kernel from being released into narrative inflation too early.
+
+---
+
+## 19. Why the Roadmap Is Structured This Way
+
+Because a project like this fails fastest when it scales before it stabilizes.
+
+If broader opening comes too early:
+
+- naming drifts
+- claims outrun evidence
+- weak modules get hidden by visibility
+- readers confuse participation with validation
+- helper surfaces get mistaken for proof
+- the kernel loses the chance to become clean
+
+The roadmap is therefore protective by design.
+
+It is not slow for the sake of slowness.
+
+It is sequenced for the sake of structural survival.
+
+---
+
+## 20. One-Line Summary
+
+The current roadmap is internal-first and lock-gated by design: External Layer-0, then SICS internal Phase 0–2b kernel stabilization, then LOCK 1 / LOCK 2 review, and only after that broader opening.
+
+---
+
+## 21. Final Position
+
+A real roadmap is not a dream list.
+
+It is the order in which reality is allowed to answer.
+
+This roadmap says:
+
+first show that the interface is real,
+then show that it matters,
+then open the doors that depend on those truths.
+
+Not before.
+
+That sequence is not caution alone.
+
+It is how a fragile kernel earns the right to become a future platform.
 
 ---
 
@@ -421,10 +503,21 @@ It is designed to prevent the wrong thing from becoming large before the right t
 **Origin Architect:** Jinho Lee, MD  
 **ORCID:** https://orcid.org/0009-0005-3809-4588
 
-**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
-
-**Primary public hub:** https://salpida.foundation
-
-**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program
-
+**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)  
+**Primary public hub:** https://salpida.foundation  
+**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program  
 **Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
+
+---
+
+## Boundary Reminder
+
+This page is an operational orientation document.
+
+It does **not** define canonical authority.  
+It does **not** grant compliance status.  
+It does **not** certify any system.  
+It does **not** authorize naming rights.  
+It does **not** convert repository visibility into proof.
+
+For binding meaning, boundaries, naming, compliance, and interpretive control, follow the DOI-registered canonical layer.
