@@ -1,407 +1,535 @@
-# Expected Reactions from PIs and Researchers  
-## A Realistic Forecast Under the Current Pre-Opening Kernel-First Structure
+# Expected Reactions from PIs and Researchers — What Serious Attention Usually Sounds Like
 
-This document provides a **clear, unsentimental forecast** of how principal investigators (PIs), senior researchers, and laboratories are likely to react to the Sal-Meter Kernel Program **in its current form**.
-
-The goal is not promotion, but **prediction**.
-
-This forecast is written for the present project stage:
-
-- **pre-opening**
-- **kernel-first**
-- **research-stage**
-- **not yet in broad public competition**
-- **broader opening only after the internal burden has passed its own sequence and lock conditions**
-
-That distinction matters.
-
-This document does **not** assume that the former open-competition structure is already active.
-It evaluates likely reactions under the **current repository reality**.
+> **KR note**  
+> 이 문서는 해외 PI, 연구책임자, 실험실 리드, 시니어 연구자들이  
+> Sal-Meter / CAIS / CCF kernel program을 처음 접했을 때 보일 수 있는 반응을  
+> 구조적으로 정리한 문서입니다.
+>
+> This page is not a persuasion script.  
+> It is a field guide for interpreting likely reactions from principal investigators, lab leads, technical researchers, and research-adjacent thinkers who encounter this project at an early stage.  
+> It does not ask for enthusiasm.  
+> It helps distinguish mature attention from immature reaction.
 
 ---
 
-## 1. First Impression (Initial 10-Second Reaction)
+## Related Reading
 
-The most common immediate reaction is likely to be:
+**Read alongside this page:**
 
-> “This is unusual… but it does not feel superficial.”
-
-That reaction matters.
-
-Why?
-
-Because the repository does **not** currently read like:
-
-- a startup accelerator
-- a vague consciousness manifesto
-- a hype-first product page
-- a consumer biosensor launch
-- a standard academic call for collaborators
-
-Instead, it reads as something more unusual:
-
-**a structurally serious pre-opening research program trying to make a difficult burden legible before broadening the field.**
-
-This is a strong first impression for the right kind of reader.
-
-Projects that feel **strange but rigorous** often attract serious frontier-minded researchers.
-
-Projects that feel **loud but loose** do not.
+- [For PIs and Lab Leads](./for-pis-and-lab-leads.md)
+- [FAQ](./faq.md)
+- [Roadmap](./roadmap.md)
+- [Authority Boundary](./authority-boundary.md)
+- [Public Claims Guide](./public-claims-guide.md)
+- [Where Help Is Most Needed](./where-help-is-most-needed.md)
+- [What a Good Contribution Looks Like](./what-a-good-contribution-looks-like.md)
+- [PI Quick Decision Pack](./PI_Quick_Decision_Pack.md)
+- [Document Map](./document-map.md)
 
 ---
 
-## 2. The Most Important Distinction
+## 1. Why This Page Exists
 
-The strongest readers will notice one thing quickly:
+A project like this will not be received in a neutral way.
 
-**this is not yet a broadly open competition.**
+It sits across several boundaries at once:
 
-That immediately changes the nature of their reaction.
+- molecular interface work
+- weak-signal measurement
+- validation architecture
+- governance implications
+- future-facing questions about AI, human-state degradation, and civilizational measurement
 
-Instead of asking:
+Because of that, reactions will vary widely.
 
-- “Which participation track am I?”
-- “How do I officially enter?”
-- “What do I get if I join now?”
+Some reactions will be strong but shallow.
+Some will be cautious but valuable.
+Some will sound skeptical while actually indicating serious interest.
+Some will sound positive while revealing structural immaturity.
 
-the more serious reader is more likely to ask:
+This page exists to make those differences legible.
 
-- “What stage is this actually in?”
-- “What burden is being stabilized before opening?”
-- “Where would a lab like ours fit, if at all?”
-- “What does this repository already claim, and what is it carefully refusing to claim?”
-- “What would count as enough evidence to move this forward honestly?”
+The point is not to force agreement.
 
-That is a much better kind of attention.
+The point is to recognize which kinds of reactions suggest:
 
----
-
-## 3. Expected Reactions by Researcher Type
-
-## A. Experimental PIs  
-### (Electrochemistry, Biosensors, Chemical Sensing, Molecular Interfaces, Systems Labs)
-
-**Likely reaction**
-- “This is early, but the burden is real.”
-- “It is helpful that it is not pretending to be clinically mature already.”
-- “This looks like a kernel-validation effort rather than a finished device story.”
-- “A bounded contribution could make sense here.”
-
-**Internal reasoning**
-- “We do not need to own the whole stack to matter.”
-- “This may be worth watching even before broader opening.”
-- “A narrow experimental contribution could still be significant.”
-- “If the interface becomes real, the upside is large.”
-
-**Forecast**
-- **High likelihood of serious interest**
-- Strongest early fit among current reader groups
-- Especially strong reaction from labs comfortable with:
-  - exploratory sensing burdens
-  - fragile signal systems
-  - baseline instability
-  - drift
-  - bounded feasibility
-  - negative-result tolerance
-
-**Important note**
-At the current stage, these readers are more likely to think in terms of:
-
-- bounded feasibility fit
-- pre-opening kernel relevance
-- future post-opening subsystem contribution
-
-rather than formal “competition tracks.”
-
-This is healthy and stage-accurate.
+- methodological seriousness
+- bounded curiosity
+- real fit
+- false fit
+- future collaboration potential
+- claims-boundary risk
+- narrative inflation risk
 
 ---
 
-## B. Consciousness, Theory, Philosophy of Science, and Interdisciplinary Researchers
+## 2. The Core Principle for Reading Reactions
 
-**Likely reaction**
-- “This is one of the rare attempts to move from concept to bounded measurement burden.”
-- “It is unusual to see philosophical ambition restrained by claims discipline.”
-- “The repository is trying hard not to overstate final meaning.”
-- “Even if the stronger interpretation fails, the boundary work may still matter.”
+Not every positive reaction is useful.
 
-**Internal reasoning**
-- “This may become important if it survives technical discipline.”
-- “The moral and civilizational stakes are explicit, but the project is still trying to remain method-aware.”
-- “This is not merely another consciousness discourse object.”
+Not every skeptical reaction is a problem.
 
-**Forecast**
-- Moderate but meaningful engagement
-- Stronger conceptual than laboratory contribution in the early stage
-- Particularly useful for:
-  - conceptual clarification
-  - terminology control
-  - interpretive boundary work
-  - public-claims discipline
-  - distinction between interface and metaphysical overreach
+In a frontier project, the first signal is not whether someone is impressed.
 
-These readers are less likely to “join” in an operational sense immediately, but they may become important protectors of the project’s intellectual integrity.
+The first signal is whether they can feel the burden accurately.
+
+The most valuable early reaction is usually some version of this:
+
+> “This is early.  
+> I do not yet grant the stronger claim.  
+> But I can see that there is a real bounded burden here.”
+
+That is the reaction of a serious mind.
 
 ---
 
-## C. Clinical / Medical-Device / Regulatory-Oriented PIs
+## 3. What the Strongest Early Reactions Usually Sound Like
 
-**Likely reaction**
-- “If this is not yet a medical device pathway, what is the near-term relevance?”
-- “The structure is interesting, but it does not yet fit our current incentive frame.”
-- “This is still upstream of the kind of program we normally commit to.”
+A strong early reaction often contains some combination of the following:
 
-**Internal reasoning**
-- “Where does this go later?”
-- “Does this eventually map to regulated instrumentation, or does it remain too exploratory?”
-- “This is not aligned yet with our usual approval, clinical, or translational milestones.”
+- “This is unusually early, but not obviously careless.”
+- “The real issue appears to be repeatability, drift, leak, and interpretation.”
+- “I would only care if the protocol remains strict.”
+- “The question is not solved, but it may be framed more seriously than usual.”
+- “Negative results would still matter here.”
+- “My lab may only be relevant at one narrow layer.”
+- “The architecture is larger than the currently provable claim.”
+- “I need to distinguish the canonical layer from the helper layer before judging.”
+- “This may matter more as a measurement-boundary question than as a device story.”
+- “The AI-governance relevance is not yet proven, but I can see why the blind spot is being targeted.”
 
-**Forecast**
-- Low early participation likelihood
-- Low short-term commitment probability
-- More likely to observe than actively engage at this stage
+These reactions are valuable because they preserve tension.
 
-This is not a weakness.
-It is expected.
+They do not collapse into belief.
+They do not collapse into dismissal.
 
-This group is **not** the natural early center of gravity of the present repository stage.
-
-If the project becomes more experimentally real later, this group may re-evaluate.
-But at the current pre-opening stage, most will stay cautious.
+They remain inside the burden.
 
 ---
 
-## D. AI, Data Science, Signal Processing, and Systems Researchers
+## 4. The Best Technical Reactions
 
-**Likely reaction**
-- “The burden is unusual, but the structure is surprisingly disciplined.”
-- “The repository seems aware of leakage, over-interpretation, and false clarity.”
-- “This could become interesting if the signal interface survives.”
-- “The value here is not just the output, but the validation logic.”
+The most useful technical readers tend to react by narrowing the problem, not enlarging it.
 
-**Internal reasoning**
-- “Weak-signal classification under hard claims boundaries is intellectually serious.”
-- “If this remains honest about preprocessing and separability, it may be worth attention.”
-- “This is not another benchmark arms race.”
+They say things like:
 
-**Forecast**
-- Selective but high-quality interest
-- Strong fit once the project’s interface becomes stable enough for deeper processing work
-- Likely future importance in:
-  - preprocessing sanity control
-  - leakage analysis
-  - validation logic
-  - separability testing
-  - post-opening analytical and SDK-linked layers
+- “The critical issue is not the narrative. It is the interface.”
+- “The main risk is false separability from preprocessing.”
+- “Leakage control matters more than conceptual elegance.”
+- “The twin-channel logic must be tested brutally.”
+- “The baseline definition may determine half the credibility.”
+- “Cross-lab reproducibility will matter more than one impressive local result.”
+- “The strongest contribution may be a negative control, not a headline result.”
+- “The difference between signal gating and interpretation must remain sharp.”
 
-At the current stage, these readers are more likely to **watch carefully** than to jump in loudly.
-That is appropriate.
+A reaction like this is often more valuable than excitement.
+
+It means the reader has started doing the real work internally.
 
 ---
 
-## 4. The Most Likely Current Concern
+## 5. The Best Governance or AI-Facing Reactions
 
-The most common serious concern is likely to be:
+Readers coming from AI governance, HCI, philosophy of technology, or civilizational systems may not focus first on electrodes, aptamers, or redox chemistry.
 
-> “This is interesting — but is the interface actually real enough yet?”
+That is acceptable.
 
-That is the correct concern.
+But the strongest non-lab reactions still have a recognizable structure.
 
-It is also a good sign.
+They sound like:
 
-A weak reader asks:
-- “Can this be marketed?”
-- “Can I use the name?”
-- “When does it scale?”
+- “I do not assume the measurement path succeeds, but I see why the current governance stack is blind without some representation of state-level transformation.”
+- “The project may matter even if it only introduces detection of directional change rather than full representation.”
+- “The future problem is not merely AI output quality, but the condition of the humans inside AI-mediated environments.”
+- “A civilization that measures everything except the stability of its own cognitive and relational field is structurally incomplete.”
+- “The relevance here may be less ‘consciousness solved’ and more ‘blindness reduced.’”
+- “Even a partial measurement substrate could change how downstream governance is conceived.”
 
-A strong reader asks:
-- “Has the kernel earned the next step?”
-- “Where is the weakest burden still alive?”
-- “What would make Lock 1 premature?”
-- “What remains unresolved before broader opening becomes justified?”
-
-That is exactly the kind of scrutiny the current structure should attract.
+These reactions matter because they grasp the larger civilizational question without pretending the technical path is already won.
 
 ---
 
-## 5. Anticipated Concerns — and What Actually Happens
+## 6. Why Thoughtful Skepticism Is a Good Sign
 
-## “It is not a medical device, so maybe it has no real value.”
+Thoughtful skepticism is often one of the healthiest reactions.
 
-Some will think this.
-Many of the best experimental readers will not.
+Useful skepticism asks:
 
-Why?
+- What exactly is being claimed now?
+- What layer is canonical and what layer is merely explanatory?
+- What would count as failure?
+- What would count as merely suggestive evidence?
+- What would count as clean negative evidence?
+- What hidden leak paths are being underestimated?
+- What would replication have to look like before this becomes serious?
+- What parts of the architecture are conceptual, and what parts are experimentally testable?
+- What claims must remain forbidden even under early positive results?
 
-Because strong researchers understand that:
+A skeptical reader asking these questions is often far closer to real engagement than a reader offering instant praise.
 
-- clinical systems do not emerge from nowhere
-- measurement categories often need pre-clinical burden first
-- interface discipline must precede downstream institutional maturity
-- the absence of regulatory framing can actually make early structure-building more honest
+In frontier work, skepticism is not the enemy.
 
-Common reframing:
-> “Its value is not that it is already clinically mature.  
-> Its value is that it is trying to define the pre-clinical burden properly.”
+Bad skepticism is the enemy.
+Lazy certainty is the enemy.
+Narrative intoxication is the enemy.
 
----
-
-## “This may be too early to be worth our time.”
-
-This will be a real reaction for some labs.
-
-But the more serious version of that reaction will sound like this:
-
-> “Too early for broad commitment, perhaps — but not necessarily too early to monitor or think about.”
-
-That is an excellent outcome.
-
-At the current stage, **watchful seriousness** is often more desirable than noisy enthusiasm.
+Disciplined skepticism is a form of respect.
 
 ---
 
-## “This looks risky.”
+## 7. What Weak Positive Reactions Sound Like
 
-Yes.
+Some positive reactions are structurally useless.
 
-But the strongest readers may interpret that differently:
+They often sound like:
 
-> “The risk is high, but so is the conceptual upside if the burden is real.”
+- “This is clearly revolutionary.”
+- “This changes everything.”
+- “This is obviously the missing answer.”
+- “We should brand around this immediately.”
+- “The repository already proves enough.”
+- “The future is here.”
+- “We can probably solve the whole thing.”
+- “This is bigger than anything in the field.”
 
-At this stage, the most compelling internal PI calculation is often not:
+These reactions feel flattering.
+They are dangerous.
 
-- “Is this already safe?”
-  
-but:
+They usually signal one or more of the following:
 
-- “Is this a bounded early burden where low-cost attention could matter a great deal if the kernel survives?”
+- lack of burden sensitivity
+- premature narrative absorption
+- weak protocol discipline
+- misunderstanding of current stage
+- confusion between architecture and evidence
+- branding pressure outrunning method
 
-That is why the project may attract frontier-minded labs without yet being broadly open.
+This project does not benefit from being admired loosely.
 
----
-
-## “Who owns the work if a lab contributes?”
-
-This concern matters and will arise.
-
-The strongest readers will notice that the current structure tries to separate:
-
-- canonical authority
-from
-- authorship
-and
-- bounded contribution
-
-That reduces one of the most common early anxieties.
-
-The likely internal conclusion from many serious researchers is:
-
-> “The project wants a stable standards layer, not ownership of everyone’s labor.”
-
-That helps.
+It benefits from being tested strictly.
 
 ---
 
-## 6. The Most Important Reaction
+## 8. What Weak Negative Reactions Sound Like
 
-The most meaningful reaction is not:
+Some dismissals are as immature as empty praise.
 
-> “This is proven.”
+They often sound like:
 
-Nor is it:
+- “This is obviously nonsense.”
+- “If it mattered, someone famous would already be doing it.”
+- “Consciousness cannot be approached unless it is fully solved first.”
+- “Anything that crosses fields is automatically unserious.”
+- “If the full claim is not yet proven, the bounded program is irrelevant.”
+- “No existing category fits this, so it should be ignored.”
+- “A difficult problem that attracts misuse must be abandoned rather than disciplined.”
 
-> “This is nonsense.”
+These reactions are usually not signs of rigor.
 
-The most meaningful reaction is usually something like:
+They are signs of category dependency.
 
-> “If this works, it is bigger than it looks.  
-> And if it fails honestly, the failure still matters.”
+A frontier project often looks illegible before it looks respectable.
 
-That is an unusually strong place for an early frontier to be in.
-
-Because it means the project is being read not as spectacle, but as a burden with asymmetric significance:
-
-- low prestige certainty now
-- high significance if real
-- useful boundary value even if the stronger hope fails
-
-That is a powerful research position.
+That does not make it right.
+But it does mean that instant dismissal is not the same as strong evaluation.
 
 ---
 
-## 7. How Participation Is Likely to Be Understood Now
+## 9. The Most Valuable Mixed Reaction
 
-At the current stage, the best readers will **not** interpret this repository as a place to “enter the competition” immediately.
+The most valuable early reaction is often mixed.
 
-They are more likely to interpret it as a place to:
+It sounds something like this:
 
-- understand the burden
-- assess bounded fit
-- monitor the sequence
-- clarify what is and is not being claimed
-- decide whether to keep watching, think privately, or prepare for possible later relevance
+> “I do not buy the strongest framing yet.  
+> I do not reject the bounded burden.  
+> The interface may be real, or it may collapse.  
+> Either way, the protocol question is serious enough that I cannot dismiss it casually.”
 
-This is the correct mode of engagement for now.
+That is the reaction of someone who may become important later.
 
-In other words:
+Not because they are agreeable.
 
-**the current repository is more likely to generate seriousness, watchfulness, and bounded interest than instant formal participation.**
-
-That is not a weakness.
-That is structural maturity.
+Because they are still thinking.
 
 ---
 
-## 8. What the Best Current Outcome Looks Like
+## 10. What a Serious PI Response Sounds Like
 
-At this stage, the best likely outcome is not mass response.
+A strong PI-level response often includes statements like:
 
-It is this:
+- “This is early, but I can see the real burden.”
+- “I do not yet assume the stronger claim.”
+- “Our lab may be relevant at one bounded layer.”
+- “The signal path is interesting, but the main risk appears to be drift, leak, or interpretation.”
+- “We would only take this seriously if the protocol remains strict.”
+- “Negative results would still matter here.”
+- “We would need to know exactly where helper documents stop and canonical boundaries begin.”
+- “This is not yet a lab-wide commitment, but it may deserve bounded internal discussion.”
 
-- experimental PIs say, “this may be worth tracking”
-- researchers say, “this is strange, but disciplined”
-- AI / systems people say, “if the signal survives, the validation burden here is serious”
-- theory-minded readers say, “the project is trying to restrain itself rather than inflate itself”
-- the wrong readers lose interest because it does not flatter them
-- the right readers begin to recognize the frontier quietly
-
-That is exactly what a pre-opening kernel-first repository should aim for.
-
----
-
-## 9. Overall Assessment
-
-### Is it worth reading seriously?
-Yes — especially for readers who understand early burden and fragile interfaces.
-
-### Will broad formal participation happen immediately?
-No — and that is structurally appropriate.
-
-### Will strong experimental readers still care before broader opening?
-Yes — especially if they are comfortable thinking in bounded, module-level, pre-opening terms.
-
-### Will clinical or late-stage device readers move quickly?
-Mostly no, at least not yet.
-
-### Will theory, governance, and interdisciplinary scholars care?
-Some will care very deeply, especially if they recognize that the project is trying to move from rhetoric into bounded structure.
-
-### Does the current structure still attract the right people?
-Yes — more selectively, and probably more honestly.
+That tone is far more valuable than loud positivity.
 
 ---
 
-## 10. Final Summary
+## 11. What a Serious Researcher Response Sounds Like
 
-The dominant internal conclusion from many strong readers at the current stage is likely to be:
+A strong senior researcher or technical lead may say:
 
-> **“This is early, but not superficial.  
-> It is not broadly open, but it is becoming legible.  
-> If the kernel survives, this could matter a great deal.  
-> Until then, it is worth taking seriously without pretending the burden is already settled.”**
+- “I am not the final decision-maker, but I can see a real methodological burden here.”
+- “The project is larger than what can currently be defended, but some parts are testable.”
+- “We should separate curiosity from endorsement.”
+- “The architecture may be ahead of the current evidence, but not necessarily ahead of disciplined inquiry.”
+- “I would not present this publicly yet, but I would consider an internal technical review.”
+- “The right first question is where one narrow layer can actually be de-risked.”
 
-That is a very strong reaction for a project at this stage.
+This kind of reaction often precedes real contribution.
 
-It means the repository is doing something rare:
+---
 
-**it is attracting attention without needing to fake maturity.**
+## 12. What a Good Internal Lab Conversation Sounds Like
+
+When a lab is reacting well, the internal discussion usually shifts from surface judgment to bounded fit.
+
+Good internal questions include:
+
+- Do we understand the difference between the larger architecture and the current experimental burden?
+- Which part of this is actually ours to judge?
+- Are we strong in sensing, preprocessing, validation, interpretation boundaries, or governance framing?
+- What would we test first if we were forced to stay narrow?
+- What would failure look like?
+- What would a publishable negative result look like?
+- What documentation would we need to read before taking this seriously?
+- Are we reacting to the project, or reacting to the word consciousness?
+- Are we capable of helping one uncertainty become smaller?
+
+Once a lab is asking these questions, the conversation has become useful.
+
+---
+
+## 13. What a Bad Internal Lab Conversation Sounds Like
+
+A lab is reacting poorly when the discussion stays at the level of:
+
+- “Is this cool?”
+- “Will this get attention?”
+- “Can we be early on something controversial?”
+- “Can we attach our name fast?”
+- “Can we use the language without carrying the burden?”
+- “Do we believe it or not?”
+
+Those are not mature first questions.
+
+The right first questions are about:
+
+- bounded relevance
+- validation burden
+- claims discipline
+- reputational risk from overclaiming
+- scientific value even under failure
+
+---
+
+## 14. What This Project Quietly Hopes to Find in a PI
+
+This project is not merely looking for technical competence.
+
+Many technically competent people will still be wrong for it.
+
+The project quietly hopes to find PIs and senior researchers who can hold all of the following at once:
+
+- curiosity without intoxication
+- seriousness without dogmatism
+- skepticism without laziness
+- ambition without narrative inflation
+- methodological discipline without spiritual poverty
+- care for the future without rhetorical excess
+- willingness to test without pretending to conclude too early
+
+That combination is rare.
+
+But when it exists, it is unmistakable.
+
+---
+
+## 15. What This Project Quietly Hopes to Avoid
+
+The project should avoid attracting readers who mainly want:
+
+- easy novelty
+- fast prestige
+- branding leverage
+- premature authority
+- language ownership without burden ownership
+- public narrative before technical clarity
+- conceptual excitement without validation pressure
+
+Such readers are not neutral.
+
+They actively increase distortion risk.
+
+---
+
+## 16. Reactions That Suggest Real Fit
+
+The following reactions often indicate genuine potential fit:
+
+- the reader narrows the problem instead of enlarging it
+- the reader asks where the claims boundary is
+- the reader sees value in negative results
+- the reader understands why drift, leak, and preprocessing matter
+- the reader distinguishes helper documents from canonical authority
+- the reader asks what one bounded contribution would look like
+- the reader cares about future implications without using that as a reason to relax method
+- the reader shows interest in protocol before narrative
+
+These reactions do not guarantee participation.
+
+They do suggest maturity.
+
+---
+
+## 17. Reactions That Suggest Poor Fit
+
+The following reactions usually indicate weak fit:
+
+- the reader wants a grand conclusion immediately
+- the reader wants a finished device story now
+- the reader resists open or non-exclusive structure
+- the reader only values upside, not boundary clarification
+- the reader treats the repository as proof
+- the reader dismisses the project because it does not fit one existing category
+- the reader wants naming value without validation burden
+- the reader ignores the difference between canonical definition and helper explanation
+- the reader is energized by controversy more than by careful work
+
+These readers may still be intelligent.
+
+They are usually not the right early partners.
+
+---
+
+## 18. Why This Matters for the Future of AI and Civilization
+
+Some readers will see only a sensor problem.
+
+Some will see a civilizational measurement problem.
+
+The second group may be closer to the long-term significance.
+
+This project exists in part because the future is becoming too powerful to remain blind.
+
+AI systems, adaptive media environments, algorithmic governance surfaces, and digital behavioral infrastructures already reshape:
+
+- attention
+- interpretation
+- emotion
+- cognitive stability
+- relational trust
+- collective coherence
+
+Yet the primary domain of transformation remains weakly represented.
+
+That is why some of the best readers will react not with certainty, but with recognition.
+
+They will sense that this frontier matters because:
+
+- the future is increasingly state-shaping
+- current governance remains largely output-facing
+- civilization measures throughput more easily than coherence
+- systems can succeed economically while degrading the humans inside them
+- some measurement path, however partial, may become necessary simply to reduce blindness
+
+A reader who sees this does not need to grant the entire architecture.
+
+It is enough that they understand why the burden is not trivial.
+
+---
+
+## 19. What This Means for How the Project Should Be Presented
+
+Because reactions will vary, presentation discipline matters.
+
+The project should continue to present itself in a way that invites serious readers and filters weak ones.
+
+That means:
+
+- keeping current-stage claims bounded
+- refusing clinical overreach
+- refusing premature certification language
+- keeping helper materials clearly marked
+- keeping canonical boundaries explicit
+- making the repository legible enough for serious readers
+- making overclaiming difficult
+- making the real burden visible
+
+The goal is not to attract everyone.
+
+The goal is to be legible to the right minds.
+
+---
+
+## 20. Recommended Reading Sequence for Serious Readers
+
+A serious PI or lab lead reacting to this project should usually read in this order:
+
+1. [For PIs and Lab Leads](./for-pis-and-lab-leads.md)
+2. [FAQ](./faq.md)
+3. [Roadmap](./roadmap.md)
+4. [Authority Boundary](./authority-boundary.md)
+5. [Public Claims Guide](./public-claims-guide.md)
+6. [Where Help Is Most Needed](./where-help-is-most-needed.md)
+7. [What a Good Contribution Looks Like](./what-a-good-contribution-looks-like.md)
+8. [PI Quick Decision Pack](./PI_Quick_Decision_Pack.md)
+9. [Document Map](./document-map.md)
+
+This sequence helps separate curiosity, fit, and claims discipline before any broader conclusion is formed.
+
+---
+
+## 21. One-Line Summary
+
+The best early reactions to this project are neither belief nor dismissal, but disciplined recognition that a real bounded burden may exist here and deserves to be judged as such.
+
+---
+
+## 22. Final Position
+
+This page is not here to teach people what to think.
+
+It is here to help identify which reactions emerge from real research maturity.
+
+The strongest readers will not sound hypnotized.
+
+They will sound careful.
+
+They will sound bounded.
+
+They will sound technically alive.
+
+And sometimes, before the field has a name for what matters, that is the clearest sign that the right people have started to notice.
+
+---
+
+## Canonical Identity
+
+**Origin Architect:** Jinho Lee, MD  
+**ORCID:** https://orcid.org/0009-0005-3809-4588
+
+**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)  
+**Primary public hub:** https://salpida.foundation  
+**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program  
+**Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
+
+---
+
+## Boundary Reminder
+
+This page is an interpretive orientation document.
+
+It does **not** define canonical authority.  
+It does **not** grant compliance status.  
+It does **not** certify any system.  
+It does **not** authorize naming rights.  
+It does **not** convert repository visibility into proof.
+
+For binding meaning, boundaries, naming, compliance, and interpretive control, follow the DOI-registered canonical layer.
