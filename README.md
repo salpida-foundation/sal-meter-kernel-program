@@ -416,7 +416,7 @@ In both cases, real work is done.
   technical-notes.md
   roadmap.md
   faq.md
-
+```
   Suggested principle:
 
 - English remains the main public language
