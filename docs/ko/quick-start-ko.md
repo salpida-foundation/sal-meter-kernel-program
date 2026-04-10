@@ -221,7 +221,7 @@ GitHub 문서보다 DOI 문서로 먼저 내려가야 합니다.
 ## 관련 한국어 문서
 
 - [`status-ko.md`](./status-ko.md)
-- `faq-ko.md` *(추후 추가 권장)*
+- `faq-ko.md`
 - 이 페이지 `quick-start-ko.md`
 
 ---
