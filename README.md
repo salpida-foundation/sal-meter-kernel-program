@@ -1,31 +1,45 @@
-## Status: Pre-opening / research-stage
+# Sal-Meter Kernel Program & Future Broader Opening
 
+> **Status: Pre-opening / research-stage**  
 > The hardest frontiers in science are usually ridiculed before they are instrumented.  
 > This program exists to test whether a new measurement boundary can be made real.
 
 This repository is **not currently open as a broad public competition**.  
-It is the public preparation and coordination layer for the **Sal-Meter Kernel Program**.
+It is the public entry and coordination layer for the **Sal-Meter Kernel Program**.
 
-- **External Layer-0** remains a separate **pre-phase support track**
-- The broader opening begins only after the **SICS internal kernel program**
-  completes **Phase 0 → Phase 1 → Phase 2a → Phase 2b**
-- **Lock 1** and **Lock 2** must be passed before any broader opening, SDK release, or scaled external build path
-- **No certification, no compliance recognition, and no clinical meaning are implied by this repository**
+## Current Status
+
+- **Current stage:** SICS internal kernel program
+- **External Layer-0:** open for limited feasibility inquiries
+- **ESL / EStL roles:** active recruitment path
+- **Public competition:** not active
+- **Public SDK release:** not active
+- **Certification / compliance claims:** not available from this repository
+- **Clinical meaning:** not implied
+- **Canonical authority:** lives only in DOI-registered records, not GitHub
 
 This project is **research-stage, non-diagnostic, and non-therapeutic**.
 
 ---
 
-# Sal-Meter Kernel Program
+## KR 안내
 
-> **KR 안내**  
-> 이 저장소는 살미터 공개 공모전이 이미 열린 곳이 아니라,  
-> 그 이전 단계인 **커널 프로그램의 공식 공개 인덱스**입니다.  
-> 정본 권위는 GitHub가 아니라 **DOI 등록 문서 (Zenodo / OSF)** 에만 있습니다.
+이 저장소는 **살미터 공개 공모전이 이미 열린 곳이 아닙니다.**  
+현재 단계의 **공식 공개 관문**이며, 다음만 전면에 열려 있습니다.
+
+- 제한적 **External Layer-0 feasibility inquiry**
+- **ESL / EStL** 중심 채용 및 협업 진입
+- 정본 DOI 문서로 들어가는 공개 인덱스
+
+정본 권위는 GitHub가 아니라 **DOI 등록 문서 (Zenodo / OSF)** 에만 있습니다.
+
+---
 
 ## One-Sentence Challenge
 
-Build a **CAIS-compliant measurement layer** that tests whether consciousness-like state transitions can produce **reproducible molecular-electrochemical signatures**.
+Build a **CAIS-compliant measurement layer** that tests whether controlled consciousness-like state transitions can produce **reproducible molecular–electrochemical signatures**.
+
+---
 
 ## Why This Repository Exists
 
@@ -41,6 +55,8 @@ If the answer is yes, that matters even more.
 Either way, this is not gadget theater.  
 It is boundary-testing research.
 
+---
+
 ## Why This Matters
 
 AI systems already influence attention, cognition, emotional regulation, interpretation, and collective behavior at scale.
@@ -50,15 +66,87 @@ But governance remains structurally blind to the states being transformed.
 The Sal-Meter program is one attempt to change that condition.
 
 It does **not** claim that consciousness has already been fully measured.  
-It does **not** claim a final theory of mind.
+It does **not** claim a final theory of mind.  
+It does **not** claim clinical or diagnostic readiness.
 
 Instead, it asks a more practical and more dangerous question:
 
 **Can we build a reproducible signal interface that makes state-level transformation visible enough to test, compare, reject, refine, and govern?**
 
-That is why this project matters to strong engineers, biosensor builders, electrochemists, signal-processing researchers, and AI-governance thinkers.
+That is why this repository matters to strong engineers, biosensor builders, electrochemists, signal-processing researchers, validation leads, and AI-governance thinkers.
 
 This is where abstract philosophy is forced to touch instrumentation.
+
+---
+
+## Start Here
+
+### 1) Fast orientation
+If you are new, start here first:
+
+- [docs/faq.md](./docs/faq.md)
+- [docs/roadmap.md](./docs/roadmap.md)
+- [docs/authority-boundary.md](./docs/authority-boundary.md)
+- [docs/public-claims-guide.md](./docs/public-claims-guide.md)
+- [docs/document-map.md](./docs/document-map.md)
+
+### 2) Audience-specific entry
+Choose one path:
+
+- **For PIs and lab leads** → [docs/for-pis-and-lab-leads.md](./docs/for-pis-and-lab-leads.md)
+- **For engineers** → [docs/for-engineers.md](./docs/for-engineers.md)
+- **For researchers and scholars** → [docs/for-researchers-and-scholars.md](./docs/for-researchers-and-scholars.md)
+
+### 3) Fast decision layer
+If you need a fast screening brief:
+
+- [docs/PI_Quick_Decision_Pack.md](./docs/PI_Quick_Decision_Pack.md)
+
+---
+
+## Open Now
+
+The repository is currently open for the following bounded routes only:
+
+### 1. External Layer-0 feasibility inquiry
+A separate pre-phase support track for bounded chemistry / electrochemistry feasibility work.
+
+Typical fit includes:
+
+- iodine redox baseline characterization
+- thiol / GSH-GSSG response mapping
+- electrochemical drift and stability checks
+- signal-interface feasibility under controlled conditions
+
+### 2. ESL / EStL recruitment and serious contributor inquiry
+The current public recruitment / collaboration surface is centered on the internal kernel program, not on a broadly open competition.
+
+### 3. Canonical reading and PI-level evaluation
+PIs, lab leads, engineers, and technical researchers are encouraged to evaluate the program at the level of:
+
+- interface reality
+- repeatability
+- leak / cross-talk control
+- preprocessing discipline
+- state-separability honesty
+- boundary-aware contribution
+
+For inquiries: **contact@salpida.foundation**
+
+---
+
+## Not Open Yet
+
+The following are **not currently active public routes**:
+
+- broad public open competition
+- public SDK activation
+- certification or compliance recognition
+- medical / diagnostic deployment
+- public claims implying completed validation
+- broad external build race
+
+These open only **after** the kernel earns the right to scale.
 
 ---
 
@@ -105,6 +193,25 @@ Then, open the field.**
 
 ---
 
+## What Counts as Success Here
+
+Success is **not** defined as hype, speed, or commercial excitement.
+
+Success means one or more of the following:
+
+- a bounded interface is shown to be reproducible
+- a proposed signal pathway is falsified cleanly
+- a kernel constraint is tightened
+- a leak source is identified and eliminated
+- a state-separability claim survives cross-checking
+- a negative result closes a false path and strengthens the architecture
+
+This is not a place where only “positive” outcomes matter.
+
+A rigorous no is worth more than a vague yes.
+
+---
+
 ## Why Strong Engineers and Researchers Should Care
 
 Because this is not a late-stage optimization problem.
@@ -123,30 +230,33 @@ That means:
 
 If you have ever thought:
 
-- "someone should make this testable"
-- "someone should separate signal from metaphysical fog"
-- "someone should stop talking and build the first bounded interface"
+- “someone should make this testable”
+- “someone should separate signal from metaphysical fog”
+- “someone should stop talking and build the first bounded interface”
 
 then this program is aimed at that instinct.
 
 ---
 
-## What Counts as Success Here
+## Minimal Kernel (M0) — Aptamer G-Iodine
 
-Success is **not** defined as hype, speed, or commercial excitement.
+The **Minimal Kernel (M0)** defines the upstream molecular signal gate.
 
-Success means one or more of the following:
+It is:
 
-- a bounded interface is shown to be reproducible
-- a proposed signal pathway is falsified cleanly
-- a kernel constraint is tightened
-- a leak source is identified and eliminated
-- a state-separability claim survives cross-checking
-- a negative result closes a false path and strengthens the architecture
+- not a therapy
+- not a drug narrative
+- not an interpretation layer
+- not a clinical meaning engine
 
-This is not a place where only "positive" outcomes matter.
+It is a **non-therapeutic signal interface** operating at **CAIS Layer-0**.
 
-A rigorous no is worth more than a vague yes.
+Its role is simple and severe:
+
+**molecular state transition -> measurable signal event -> downstream processing under fixed rules**
+
+If the kernel is unstable, everything above it becomes storytelling.  
+If the kernel is stable, the stack becomes testable.
 
 ---
 
@@ -213,28 +323,6 @@ These define the present PI-facing and execution-facing direction more accuratel
 
 - **Publication & Communications Boundary v1.0**  
   https://doi.org/10.5281/zenodo.19438290
-
----
-
-## Minimal Kernel (M0) — Aptamer G-Iodine
-
-The **Minimal Kernel (M0)** defines the upstream molecular signal gate.
-
-It is:
-
-- not a therapy
-- not a drug narrative
-- not an interpretation layer
-- not a clinical meaning engine
-
-It is a **non-therapeutic signal interface** operating at **CAIS Layer-0**.
-
-Its role is simple and severe:
-
-**molecular state transition -> measurable signal event -> downstream processing under fixed rules**
-
-If the kernel is unstable, everything above it becomes storytelling.  
-If the kernel is stable, the stack becomes testable.
 
 ---
 
@@ -329,139 +417,8 @@ This repository is especially relevant to people who work where measurement, unc
 - PI-level labs exploring state-separability questions under bounded experimental conditions
 
 If your instinct is to ask,  
-**"Can this be measured cleanly enough to survive replication?"**  
+**“Can this be measured cleanly enough to survive replication?”**  
 you are close to the intended audience.
-
----
-
-## Why the Program Is Structured This Way
-
-Many projects open too early.
-
-They attract noise before they fix architecture.  
-They confuse visibility with validity.  
-They build narratives before they build constraints.
-
-This program takes the opposite path.
-
-It fixes the kernel first.
-
-That is why the sequence matters:
-
-- External Layer-0 may test feasibility
-- Internal phases fix repeatability and channel discipline
-- Lock 1 confirms that the interface exists
-- Lock 2 confirms that the interface matters
-- only then does broader opening become justified
-
-The goal is not speed.  
-The goal is to prevent conceptual drift, weak claims, premature commercialization, and false confidence.
-
----
-
-## What Makes This Technically Interesting
-
-At the center of this program is a severe engineering question:
-
-**Can a constrained molecular-electrochemical interface produce repeatable signal events that remain separable under controlled state transitions?**
-
-That means the work is not merely about making a sensor respond.
-
-It is about whether the stack can survive:
-
-- baseline instability
-- drift
-- channel interference
-- leak / cross-talk
-- poor preprocessing
-- overfit interpretation
-- false indices
-- premature meaning assignment
-
-A weak stack can always produce excitement.  
-A strong stack must survive discipline.
-
----
-
-## Why This Can Matter Beyond a Single Device
-
-The Sal-Meter program is not important because of one form factor.
-
-It matters only if the kernel becomes strong enough that multiple future implementations can inherit a common measurement discipline.
-
-If that happens, the impact could extend upstream into:
-
-- human-state measurement research
-- reproducible electrochemical interface science
-- open biosensor architecture
-- AI-governance experimentation
-- civilizational-scale discussion of measurable cognitive-relational stability
-
-If it fails, the failure still matters,  
-because it defines a boundary honestly.
-
-In both cases, real work is done.
-
----
-
-## Suggested Repository Structure
-
-```text
-/docs
-  /ko
-    quick-start-ko.md
-    status-ko.md
-    faq-ko.md
-  PI_Quick_Decision_Pack.md
-  technical-notes.md
-  roadmap.md
-  faq.md
-```
-  Suggested principle:
-
-- English remains the main public language
-- Korean remains available as a welcome layer, not as a separate mirror authority
-- GitHub prose stays operational
-- DOI documents remain authoritative
-
-## Language Policy
-
-This repository is maintained primarily in English for international scientific accessibility.
-
-Short Korean guidance may be included for orientation, but:
-
-- English is the main repository language
-- Korean is a support layer
-- neither language overrides canonical DOI records
-
-**KR 요약:**  
-영문이 메인이고, 한글은 안내 레이어입니다.  
-정본은 GitHub가 아니라 DOI 문서입니다.
-
----
-
-## Repository Status Signals
-
-The following should be interpreted conservatively.
-
-### What a repository update may mean
-
-- documentation refinement
-- helper-material updates
-- governance clarification
-- phase-direction clarification
-- bounded technical preparation
-
-### What a repository update does **not** automatically mean
-
-- public opening
-- compliance recognition
-- broader external build authorization
-- SDK availability
-- certification
-- clinical or commercial readiness
-
-The repository may evolve before the opening status changes.
 
 ---
 
@@ -483,7 +440,7 @@ Authority drift is not.
 
 ---
 
-## Practical Reading Path
+## Practical Reading Paths
 
 ### For a PI
 
@@ -546,7 +503,7 @@ watch closely now.
 ## Canonical Identity
 
 **Origin Architect:** Jinho Lee, MD  
-**ORCID:** https://orcid.org/0009-0005-3809-4588
+**ORCID:** 0009-0005-3809-4588
 
 **Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
 
