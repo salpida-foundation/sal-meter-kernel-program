@@ -1,383 +1,589 @@
-# Authority Boundary — What This Repository Can and Cannot Do
+# Authority Boundary — Where Binding Meaning Lives, and Where It Does Not
 
-> This document defines the operational boundary of the GitHub repository.  
-> It clarifies what this repository is allowed to do, what it is not allowed to do,  
-> and where canonical authority actually lives.
+> **KR note**  
+> 이 문서는 Sal-Meter / CAIS / CCF kernel program에서  
+> 무엇이 정본 권위(canonical authority)인지,  
+> 무엇이 설명용(helper / orientation) 문서인지,  
+> 무엇이 허용된 해석 범위이고 무엇이 권한을 넘는 오독인지  
+> 구조적으로 분명히 하기 위한 문서입니다.
+>
+> This page exists to prevent a predictable failure mode in early frontier work:  
+> readers confusing visibility with authority, explanation with definition, and repository presence with proof.  
+> It defines where binding meaning lives, where it does not, and how serious readers should navigate that boundary.  
+> It is an operational orientation document, not itself a canonical authority document.
+
+---
+
+## Related Reading
+
+**Read alongside this page:**
+
+- [For PIs and Lab Leads](./for-pis-and-lab-leads.md)
+- [Expected Reactions from PIs and Researchers](./expected-reactions-from-pis-and-researchers.md)
+- [Where Help Is Most Needed](./where-help-is-most-needed.md)
+- [What a Good Contribution Looks Like](./what-a-good-contribution-looks-like.md)
+- [FAQ](./faq.md)
+- [Roadmap](./roadmap.md)
+- [Public Claims Guide](./public-claims-guide.md)
+- [PI Quick Decision Pack](./PI_Quick_Decision_Pack.md)
+- [Document Map](./document-map.md)
 
 ---
 
 ## 1. Why This Page Exists
 
-Projects like this often fail not because the core idea is weak, but because the authority structure is unclear.
+A project like this naturally produces multiple layers of writing:
 
-When a repository grows, people begin to confuse:
+- canonical definitions
+- compliance boundaries
+- technical architecture papers
+- helper summaries
+- PI-facing orientation pages
+- repository guides
+- public explanatory materials
 
-- visibility with validity
-- documentation with authorization
-- helper material with canonical definition
-- repository presence with compliance status
-- public language with naming rights
-- momentum with proof
+That is normal.
+
+What is dangerous is when those layers are treated as interchangeable.
+
+In early-stage frontier work, confusion tends to appear in predictable forms:
+
+- a helper page gets quoted as if it were a binding definition
+- GitHub text gets treated as if it fixed canonical meaning
+- repository visibility gets mistaken for evidentiary completion
+- explanatory language gets misread as compliance status
+- public-facing summaries get treated as authorization to make stronger claims
 
 This page exists to prevent that confusion.
 
 Its purpose is simple:
 
-**to fix the operational boundary of this repository clearly enough that readers, builders, labs, and observers do not mistake GitHub activity for canonical authority.**
+**to make it unmistakably clear where binding authority lives, where it does not, and what kinds of interpretation exceed the current boundary.**
 
 ---
 
-## 2. Core Rule
+## 2. The First Principle
 
-This repository is an **operational and preparatory layer**.
+The first principle is non-negotiable:
 
-It is **not** the canonical authority layer.
+**binding meaning does not live everywhere the project is described.**
 
-Canonical authority lives only in **DOI-registered documents** and the explicitly designated canonical registry structure.
+A concept can be mentioned in many places.
+A definition can be explained in many places.
+A system can be discussed in many places.
 
-If GitHub wording and DOI-registered wording appear to differ,  
-**the DOI-registered record prevails.**
+That does **not** mean every place that mentions it holds equal authority.
 
----
+This project must be read through an authority hierarchy.
 
-## 3. What This Repository Is Allowed To Do
+Without that hierarchy, three things happen quickly:
 
-This repository may:
+- terminology drifts
+- claim surfaces expand
+- readers begin attributing authority to the wrong layer
 
-- explain the current project direction
-- provide fast-entry orientation
-- organize helper materials
-- support PI and engineer understanding
-- clarify current status
-- host FAQ and roadmap pages
-- describe the current program sequence
-- support bounded discussion
-- help readers understand where to read next
-- provide operational links to canonical materials
-- clarify that broader opening has not yet occurred
-- help future participants understand the structure before any larger opening
-
-In short:
-
-**GitHub may explain the program.  
-It may not redefine the program.**
+That is how fragile programs become unreadable, misquoted, or captured.
 
 ---
 
-## 4. What This Repository Is Not Allowed To Do
+## 3. What “Authority” Means Here
 
-This repository must not be treated as a place that can:
+In this project, “authority” does not mean social status, popularity, or rhetorical confidence.
 
-- redefine Sal-Meter
-- redefine CAIS
-- redefine canonical indices
-- authorize new naming rights
-- grant compliance status
-- grant certification
-- grant endorsement
-- grant mark usage
-- establish medical meaning
-- establish diagnostic meaning
-- establish therapeutic meaning
-- declare broader opening unless that status is explicitly and structurally justified
-- override DOI-registered rules
-- create parallel authority through convenience or popularity
+It means something narrower and more structural.
 
-If a claim requires formal authority, this repository is not enough.
+Authority refers to the layer that legitimately fixes:
 
----
-
-## 5. What GitHub Is in This Project
-
-Within this project, GitHub functions as:
-
-- an **operational index**
-- a **public preparation surface**
-- a **coordination layer**
-- a **discussion layer**
-- a **navigation layer**
-- a **helper-material surface**
-
-GitHub is useful, visible, and active.
-
-But it is still downstream of canonical authority.
-
----
-
-## 6. What GitHub Is Not in This Project
-
-GitHub is **not**:
-
-- the constitutional layer
-- the naming authority
-- the compliance authority
-- the certification authority
-- the canonical interpretation authority
-- the legal authority of meaning
-- the place where boundary documents are replaced by newer prose
-- the source of “soft overrides” through convenience
-
-If a reader wants final meaning,  
-GitHub is not the final stop.
-
----
-
-## 7. Where Canonical Authority Lives
-
-Canonical authority lives in the DOI-registered document layer and the designated canonical registry structure.
-
-That means authority is anchored in materials such as:
-
-- canonical definitions
+- definitions
+- naming conditions
 - compliance boundaries
-- negative definitions
-- charter-level documents
-- terminology and claims-control documents
-- publication and communications boundaries
-- other DOI-registered structural records
+- interpretive constraints
+- designation rules
+- prohibited deviations
+- restricted claims
+- canonical relationships between documents
 
-These documents define the actual authority surface.
+A document is authoritative only if it has the formal role of fixing one or more of those things.
 
-GitHub may point to them.  
-GitHub may summarize them carefully.  
-GitHub may not replace them.
+A document that merely explains, invites, summarizes, or orients is useful.
 
----
-
-## 8. What Readers Must Never Assume
-
-Readers must not assume that the existence of this repository means:
-
-- the broad competition is open
-- a device is compliant
-- a builder is authorized
-- naming is approved
-- a public claim is allowed
-- a mark may be used
-- a system is certified
-- a system is clinically meaningful
-- a system is commercially ready
-- the burden of proof has already been met
-
-A repository can be active while the kernel is still unproven.
-
-That distinction matters.
+It is still not the same as an authority document.
 
 ---
 
-## 9. Helper Documents vs. Canonical Documents
+## 4. Where Binding Authority Lives
 
-The repository contains helper documents.
+Binding authority lives only in the canonical layer.
 
-Helper documents are valuable for:
+That layer is constituted by the DOI-registered canonical records and equivalent formally designated canonical records that fix the meaning, scope, and non-derogable boundaries of the system.
 
-- quick understanding
-- PI go / no-go orientation
-- roadmap reading
-- FAQ
-- current-status clarification
-- discussion preparation
+In practical terms, this includes the documents that define or constrain:
 
-But helper documents do not carry the same role as canonical documents.
+- what “Sal-Meter” is
+- what “is not a Sal-Meter”
+- what CAIS compliance requires
+- what claims are prohibited
+- what interpretive boundaries apply
+- what canonical terms mean
+- what authority relationships exist across the document stack
 
-### Helper documents
-- explain
-- orient
-- accelerate understanding
-- support navigation
-
-### Canonical documents
-- define
-- bind
-- constrain
-- authorize
-- prohibit
-- fix meaning
-
-A helper document is an entrance.
-
-A canonical document is a boundary.
+This layer is the only place from which binding definitions, designation conditions, or compliance claims may legitimately be derived.
 
 ---
 
-## 10. Repository Updates Do Not Equal Authority Updates
+## 5. Where Binding Authority Does Not Live
 
-A repository update may mean:
+Binding authority does **not** live in:
 
-- text improvement
-- structure cleanup
-- link correction
-- roadmap clarification
-- FAQ expansion
-- status refinement
-- helper-material upgrading
+- repository summaries
+- orientation pages
+- helper documents
+- startup-style overviews
+- public-facing landing pages
+- recruitment pages
+- blog-like explanatory surfaces
+- discussion threads
+- screenshots
+- verbal paraphrases
+- third-party summaries
+- AI-generated interpretations
+- GitHub visibility alone
+- public familiarity with the project
 
-A repository update does **not** automatically mean:
+These may be useful surfaces.
 
-- a new authority condition
-- a new compliance permission
-- broader opening
-- naming release
-- SDK readiness
-- certification
-- public deployment approval
-- interpretive freedom
+They may guide a reader.
+They may reduce confusion.
+They may improve access.
 
-If authority changes, it must be reflected at the canonical layer.
+They still do not fix binding meaning.
+
+That distinction must remain absolute.
 
 ---
 
-## 11. Why This Distinction Matters So Much
+## 6. What This Docs Folder Is For
 
-Without a hard boundary, a project like this becomes vulnerable to:
+The documents in this `docs/` layer should be read as:
 
-- authority drift
+- orientation tools
+- interpretation aids
+- repository navigation surfaces
+- fit-assessment guides
+- stage-discipline helpers
+- claims-restraint helpers
+
+They are here to help serious readers do things like:
+
+- understand what stage the project is in
+- understand what kind of contribution matters now
+- avoid common misreadings
+- distinguish helper language from canonical definition
+- enter the repository without confusing explanation for proof
+
+They are **not** here to replace canonical documents.
+
+They are here to help readers reach them correctly.
+
+---
+
+## 7. Canonical Layer vs Helper Layer
+
+The distinction can be stated plainly.
+
+### Canonical layer
+
+The canonical layer fixes:
+
+- terms
+- boundaries
+- designation conditions
+- compliance logic
+- interpretive limits
+- restricted claims
+- structural relationships across records
+
+### Helper layer
+
+The helper layer helps readers:
+
+- understand the stage
+- understand the burden
+- understand how to read the repository
+- understand what a bounded contribution looks like
+- understand what is still premature
+- avoid treating the architecture as more complete than it is
+
+A helper document can be excellent.
+A canonical document can be difficult.
+
+That does not reverse their roles.
+
+Clarity does not create authority.
+Registration and formal role do.
+
+---
+
+## 8. GitHub’s Role
+
+GitHub is an important layer.
+
+It is still not the authority layer.
+
+GitHub may function as:
+
+- a public index
+- a repository of helper materials
+- an access surface for technical readers
+- an orientation environment
+- a coordination surface for contributors
+- a navigation layer pointing readers toward canonical records
+
+GitHub does **not** by itself confer:
+
+- canonical definitional authority
+- compliance status
+- naming rights
+- proof of validity
+- proof of reproducibility
+- proof of certification
+- permission for unrestricted public interpretation
+
+A repository may be highly visible and still remain early.
+
+A repository may be well-structured and still not prove the hard part.
+
+That is normal.
+
+---
+
+## 9. Why Repository Presence Is Not Proof
+
+Repository presence means that material is publicly organized.
+
+It does **not** mean that the architecture has already passed the burdens that matter most.
+
+A repository can contain:
+
+- concept
+- design intent
+- protocol plans
+- helper diagrams
+- experimental aspirations
+- partial technical pathways
+- governance documents
+- boundary documents
+- contributor guidance
+
+None of those, simply by being present, prove that:
+
+- the interface is real
+- the interface is stable
+- the signal survives controls
+- separability is genuine
+- leak is absent
+- drift is under control
+- replication is secured
+- compliance has been earned
+
+That is why serious readers must distinguish:
+
+**public structure** from **evidentiary completion**
+
+and
+
+**readability** from **proof**
+
+---
+
+## 10. Why Canonical Authority Must Be Hard to Dilute
+
+This project operates near several unstable edges at once:
+
+- technical instability
+- interpretive overreach
 - terminology drift
-- naming misuse
-- soft capture by convenience
-- premature commercialization language
-- overclaiming
-- public confusion
-- false legitimacy through repetition
+- public misunderstanding
+- premature branding
+- definitional capture
+- surface-level imitation
+- AI-mediated paraphrase distortion
 
-In other words:
+Because of that, canonical authority must be hard to dilute.
 
-**if GitHub becomes mistaken for canon, the architecture weakens.**
+If not, the following failure modes become likely:
 
-That is why this page exists.
+- different readers use the same term differently
+- non-canonical metrics get presented as equivalents
+- helper summaries begin substituting for definitions
+- third parties market approximations as if they were canonical
+- public-facing simplifications gradually mutate the meaning of the system
 
----
+That is why boundary discipline is not bureaucracy.
 
-## 12. How To Read Repository Content Correctly
-
-The correct reading order is:
-
-1. Use GitHub to understand the shape of the program
-2. Use helper documents to reduce confusion quickly
-3. Use roadmap and FAQ pages to locate the current stage
-4. Move down into DOI-registered documents for anything that requires real authority
-5. Never stop at GitHub when the question is about naming, compliance, meaning, certification, or authorization
-
-This is the safe reading discipline.
+It is structural survival.
 
 ---
 
-## 13. What This Repository May Say About Current Status
+## 11. What This Means for “Sal-Meter”
 
-This repository may say things like:
+The name “Sal-Meter” is not a loose descriptive label for any consciousness-adjacent sensor concept.
 
-- the project is pre-opening
-- the project is research-stage
-- the kernel-first sequence is the current direction
-- External Layer-0 remains separate
-- broader opening has not yet occurred
-- the project is non-diagnostic and non-therapeutic in this repository context
+It is a designated term whose meaning is fixed at the canonical layer.
 
-These are operationally useful clarifications.
+That means:
 
-But even here, the repository is still describing the program,  
-not becoming the final authority of the program.
+- not every biosensor concept qualifies
+- not every state-tracking system qualifies
+- not every “awareness score” qualifies
+- not every consciousness-themed device qualifies
+- not every future approximation qualifies
+- not every interpretation of OE / RE / EE qualifies
+- not every rebranded metric qualifies
 
----
+A system does not become a Sal-Meter because it resembles the idea.
 
-## 14. What This Repository Cannot Grant to Builders
+It becomes eligible for that designation only under the canonical conditions fixed elsewhere.
 
-A builder, lab, company, or outsider cannot use this repository alone to claim:
-
-- “we are officially Sal-Meter”
-- “we are CAIS-compliant”
-- “we are authorized users”
-- “we are certified”
-- “we may use the mark”
-- “we may present this as clinically meaningful”
-- “GitHub documentation proves our status”
-
-None of those claims can arise from repository visibility alone.
+This distinction must remain sharp.
 
 ---
 
-## 15. What This Repository Can Grant
+## 12. What This Means for “CAIS Compliance”
 
-This repository can grant only limited and practical things, such as:
+CAIS compliance is not created by enthusiasm, conceptual agreement, or partial resemblance.
 
-- clearer understanding
-- faster orientation
-- cleaner navigation
-- lower confusion
-- better preparation
-- better questions
-- better entry discipline
+It is not granted by:
 
-That may sound modest.
+- reading the framework sympathetically
+- citing the project
+- using similar language
+- building adjacent devices
+- producing loosely related signals
+- publishing helper diagrams
+- paraphrasing canonical documents
+- introducing proprietary replacements for canonical outputs
 
-But it is exactly what GitHub should do here.
+Compliance is a bounded status condition governed by the canonical compliance layer.
 
-No more.  
-No less.
+That means compliance cannot be self-declared loosely.
 
----
-
-## 16. Why the Boundary Must Stay Hard
-
-This project is attempting something structurally fragile.
-
-That means every layer must remain honest about its role.
-
-If GitHub starts pretending to be canon,  
-the public layer becomes stronger than the authority layer,  
-and the architecture begins to rot.
-
-So the rule must remain hard:
-
-**GitHub is operational.  
-DOI is authoritative.**
-
-Everything else follows from that.
+It must remain tied to the actual boundary conditions defined in the proper authority layer.
 
 ---
 
-## 17. Practical Summary
+## 13. What This Means for Interpretation
 
-### GitHub can do:
-- orient
-- explain
-- point
-- organize
-- clarify
-- prepare
+Interpretation must also obey the authority boundary.
 
-### GitHub cannot do:
-- define
-- certify
-- authorize
-- grant naming
-- grant compliance
-- grant medical meaning
-- replace canon
+A reader may interpret the significance of the program.
+A researcher may discuss possible implications.
+A PI may form bounded hypotheses about relevance.
 
-That is the practical boundary.
+But no reader may legitimately reinterpret fixed canonical terms as if they were free-form metaphors.
 
----
+Interpretation remains valid only while it does **not** do any of the following:
 
-## 18. One-Sentence Boundary
+- override canonical definitions
+- weaken fixed boundaries
+- introduce substitute metrics while implying equivalence
+- broaden designation conditions informally
+- turn helper language into new authority
+- convert research-stage material into completed proof
+- collapse bounded signal language into total consciousness claims
 
-This repository is a public operating surface for understanding and preparing around the Sal-Meter Kernel Program.
+Interpretation is allowed.
 
-It is **not** the place where canonical meaning, compliance, naming rights, or certification are created.
+Re-definition is not.
 
 ---
 
-## 19. Final Position
+## 14. The Role of AI-Generated Summaries and External Retellings
 
-This repository should be read as a disciplined public gateway.
+This must be stated clearly.
 
-Not as a constitutional layer.  
-Not as a compliance label.  
-Not as a substitute for DOI-registered authority.
+AI-generated summaries, blog posts, social media explanations, oral retellings, secondary diagrams, and third-party interpretations may all be useful as orientation surfaces.
 
-If readers keep that distinction clear, the project remains structurally coherent.
+They do **not** hold authority.
 
-If they do not, confusion begins where authority should have been obvious.
+No AI summary, including a strong one, can legitimately become a substitute for:
+
+- canonical definition
+- compliance boundary
+- naming rule
+- interpretive constraint
+- claim restriction
+- authority mapping
+
+A summary may point toward the system.
+
+It does not become the system’s authority layer.
+
+That is especially important in a project whose ideas may be paraphrased widely before they are understood carefully.
+
+---
+
+## 15. What Serious Readers Should Do First
+
+A serious reader should ask, before making a claim:
+
+1. **What exact layer am I reading?**  
+2. **Is this document defining, constraining, or merely orienting?**  
+3. **Does this document itself hold authority, or is it pointing elsewhere?**  
+4. **Am I repeating helper language as if it were a canonical rule?**  
+5. **Am I attributing proof where there is only structure or intent?**
+
+Those questions prevent most early-stage authority confusion.
+
+They should become habitual.
+
+---
+
+## 16. What This Means for PI-Facing Docs
+
+The PI-facing docs in this repository are designed to do specific jobs.
+
+For example:
+
+- `for-pis-and-lab-leads.md` explains why the burden may deserve serious attention
+- `expected-reactions-from-pis-and-researchers.md` helps distinguish mature reaction from immature reaction
+- `where-help-is-most-needed.md` clarifies what kinds of uncertainty reduction matter most now
+- `what-a-good-contribution-looks-like.md` defines what useful contribution means at the current stage
+- `faq.md` answers the first honest questions quickly
+- `roadmap.md` explains stage order and current timing
+
+None of these documents, by themselves, grant:
+
+- compliance
+- naming rights
+- canonical interpretation authority
+- unrestricted public claims
+- evidence completion
+
+They are reading tools.
+
+They are not the constitution.
+
+---
+
+## 17. Common Authority Mistakes
+
+The most common mistakes usually sound like this:
+
+- “It’s on GitHub, so the definition is fixed there.”
+- “This summary page says it clearly, so that must be the official meaning.”
+- “The repository is public, so the hard part must already be done.”
+- “This helper diagram shows the architecture, so that is the binding standard.”
+- “A related sensor concept is close enough to count.”
+- “A non-canonical index is basically equivalent.”
+- “A public-facing description authorizes broader claims.”
+- “Visibility implies certification.”
+- “Familiarity implies compliance.”
+
+All of these are wrong.
+
+Some are innocently wrong.
+Some are dangerously wrong.
+
+Either way, they must be corrected.
+
+---
+
+## 18. The Correct Reading Discipline
+
+The correct reading discipline is simple:
+
+- use helper documents to orient yourself
+- use PI-facing documents to assess fit and stage
+- use repository structure to navigate
+- use canonical documents for binding meaning
+- use compliance documents for designation and boundary conditions
+- use claims guides for public-language limits
+- never reverse the hierarchy
+
+A readable helper page may be the front door.
+
+It is still not the courtroom.
+
+---
+
+## 19. What Contributors Must Not Do
+
+Contributors, especially early contributors, must not:
+
+- speak as if helper pages confer authority
+- present repository materials as proof of full validation
+- imply compliance from proximity
+- use canonical terms loosely
+- market approximation as equivalence
+- invent substitute indices while borrowing canonical prestige
+- imply naming rights from contribution alone
+- widen public claims beyond what the canonical and evidentiary layers support
+
+Contribution does not create definitional sovereignty.
+
+That must remain clear.
+
+---
+
+## 20. What This Means for Public Communication
+
+Public communication should remain downstream of the authority boundary.
+
+That means public-facing language must:
+
+- respect canonical definitions
+- respect compliance boundaries
+- respect stage discipline
+- respect the difference between early signal work and completed proof
+- avoid claims that require authority not granted by helper layers
+
+A public page can simplify language.
+
+It cannot rewrite meaning.
+
+A summary can compress.
+
+It cannot supersede.
+
+A landing page can attract attention.
+
+It cannot create compliance.
+
+---
+
+## 21. A Practical Rule of Thumb
+
+When in doubt, apply this rule:
+
+**If the sentence you want to say would change a definition, expand a designation, imply compliance, authorize naming, or claim proof, it belongs to the canonical authority question first, not to helper interpretation.**
+
+That single rule prevents many category errors.
+
+---
+
+## 22. One-Line Summary
+
+Binding meaning lives only in the canonical authority layer; everything else in the repository exists to help readers approach that layer without mistaking explanation, visibility, or enthusiasm for authority.
+
+---
+
+## 23. Final Position
+
+A project like this can only survive its own future if its authority boundary remains clean.
+
+Otherwise, the words outrun the work.
+Then the echoes replace the kernel.
+Then explanation begins pretending to be law.
+
+This page exists so that does not happen.
+
+Serious readers are welcome.
+Serious contributors are needed.
+But seriousness begins here:
+
+knowing where meaning is fixed,
+and refusing to steal authority from the wrong layer.
 
 ---
 
@@ -386,10 +592,21 @@ If they do not, confusion begins where authority should have been obvious.
 **Origin Architect:** Jinho Lee, MD  
 **ORCID:** https://orcid.org/0009-0005-3809-4588
 
-**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
-
-**Primary public hub:** https://salpida.foundation
-
-**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program
-
+**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)  
+**Primary public hub:** https://salpida.foundation  
+**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program  
 **Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
+
+---
+
+## Boundary Reminder
+
+This page is an operational orientation document.
+
+It does **not** define canonical authority.  
+It does **not** grant compliance status.  
+It does **not** certify any system.  
+It does **not** authorize naming rights.  
+It does **not** convert repository visibility into proof.
+
+For binding meaning, boundaries, naming, compliance, and interpretive control, follow the DOI-registered canonical layer.
