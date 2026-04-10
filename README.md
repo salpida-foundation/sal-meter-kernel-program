@@ -1,257 +1,366 @@
-## Status: Not currently open.
-## This repository is a preparatory public archive for a future non-exclusive competition.
-## The Sal-Meter competition opens only after SICS internal kernel locking reaches Open Competition Readiness.
-## External Layer-0 feasibility is a separate pre-phase support track.
-## No certification, no compliance, and no SDK release are implied by this repository.
+## Status: Pre-opening / research-stage
 
+This repository is **not currently open as a broad public competition**.  
+It is the public preparation and coordination layer for the **Sal-Meter Kernel Program**.
 
-# Sal-Meter Open Competition
+- **External Layer-0** remains a separate **pre-phase support track**
+- The broader opening begins only after the **SICS internal kernel program**
+  completes **Phase 0 → Phase 1 → Phase 2a → Phase 2b**
+- **Lock 1** and **Lock 2** must be passed before any broader opening, SDK release, or scaled external build path
+- **No certification, no compliance recognition, and no clinical meaning are implied by this repository**
 
-Open global research competition to develop **objective consciousness-like signal
-measurement systems** under the CAIS (Consciousness–Aptamer Interface System) standard.
-
-This repository is a **non-authoritative operational index**.
-All canonical definitions, governance rules, and authority are fixed exclusively in
-**DOI-registered documents**.
+This project is **research-stage, non-diagnostic, and non-therapeutic**.
 
 ---
 
-## Before You Read Further
+# Sal-Meter Kernel Program
 
-This is **not** a startup accelerator.  
-This is **not** a product or commercialization program.  
-This is **not** a medical or clinical device pathway.
+> **KR 안내**  
+> 이 저장소는 살미터 공개 공모전이 이미 열린 곳이 아니라,  
+> 그 이전 단계인 **커널 프로그램의 공식 공개 인덱스**입니다.  
+> 정본 권위는 GitHub가 아니라 **DOI 등록 문서(Zenodo / OSF)** 에만 있습니다.
 
-This competition exists to test whether **consciousness-like signals can be measured
-objectively**, reproducibly, and openly — and to fix those standards permanently.
+## One-Sentence Challenge
 
-If you are looking for funding, certification, endorsement, or clinical approval,
-you should stop here.
+Build a **CAIS-compliant measurement layer** that tests whether consciousness-like state transitions can produce **reproducible molecular-electrochemical signatures**.
+
+## Why This Repository Exists
+
+This repository does not exist to market a device.
+
+It exists to organize a serious frontier question:
+
+**Can a fixed, open, non-proprietary measurement architecture make consciousness-like state change experimentally separable, technically reproducible, and scientifically discussable?**
+
+If the answer is no, that matters.  
+If the answer is yes, that matters even more.
+
+Either way, this is not gadget theater.  
+It is boundary-testing research.
+
+## Why This Matters
+
+AI systems already influence attention, cognition, emotional regulation, interpretation, and collective behavior at scale.
+
+But governance remains structurally blind to the states being transformed.
+
+The Sal-Meter program is one attempt to change that condition.
+
+It does **not** claim that consciousness has already been fully measured.  
+It does **not** claim a final theory of mind.
+
+Instead, it asks a more practical and more dangerous question:
+
+**Can we build a reproducible signal interface that makes state-level transformation visible enough to test, compare, reject, refine, and govern?**
+
+That is why this project matters to strong engineers, biosensor builders, electrochemists, signal-processing researchers, and AI-governance thinkers.
+
+This is where abstract philosophy is forced to touch instrumentation.
 
 ---
 
-## Start Here: PI-Level Go / No-Go (30 minutes)
+## Current Program Direction
 
-If you are a **Principal Investigator or lab lead**, begin with the following document:
+The project is now organized around a **kernel-first execution order**, not a prematurely opened public competition.
 
-- **PI Quick Decision Pack — Go / No-Go Brief (Figshare, 2 pages)**  
-  https://doi.org/10.6084/m9.figshare.31287268
+### Current execution sequence
 
-This document enables a PI-level **go / no-go decision within 30 minutes** and may be
-forwarded internally without modification.
+1. **External Layer-0**
+   - Separate pre-phase feasibility support track
+   - Tests whether the iodine redox + thiol/disulfide interface shows a stable, reproducible signal window worth building on
 
-A non-canonical markdown mirror is available here:
-- docs/PI_Quick_Decision_Pack.md
+2. **SICS Internal Phase 0**
+   - G-axis state separability under controlled conditions
+   - Baseline, GGI, and SOP fixation
+
+3. **SICS Internal Phase 1**
+   - I-channel reproducibility fixation
+   - I₃⁻-target channel consistency and handling discipline
+
+4. **SICS Internal Phase 2a**
+   - Twin Mini-Cell independence and leak testing
+   - Channel coexistence without unacceptable cross-talk
+
+5. **SICS Internal Phase 2b**
+   - Human pilot repeatability
+   - Simultaneous G + I sessions under a reproducible kernel structure
+
+6. **Lock 1 — Interface Exists**
+   - The interface is experimentally real
+
+7. **Lock 2 — Interface Matters**
+   - The interface is not merely measurable, but meaningful enough to justify broader opening
+
+8. **Broader Opening**
+   - Only after the kernel is fixed
+   - Only after the structure is stable enough for non-exclusive external build paths
+
+In short:
+
+**First, prove the kernel.  
+Then, open the field.**
 
 ---
 
-## Core Entry Documents (Figshare)
+## Why Strong Engineers and Researchers Should Care
 
-The following **five documents** constitute the **entry layer** for this competition.
-They provide orientation, system context, and technical entry points.
+Because this is not a late-stage optimization problem.
+
+This is an upstream architecture problem.
+
+Most projects invite you to improve what already exists.  
+This one invites you to test whether an entirely new measurement category can exist under fixed rules.
+
+That means:
+
+- even negative results are scientifically meaningful
+- partial subsystem contributions are valid
+- good engineering is not decoration here; it is the difference between noise and evidence
+- the work sits upstream of biosensing, HCI, AI governance, human-state measurement, and future civilizational metrics
+
+If you have ever thought:
+
+- "someone should make this testable"
+- "someone should separate signal from metaphysical fog"
+- "someone should stop talking and build the first bounded interface"
+
+then this program is aimed at that instinct.
+
+---
+
+## What Counts as Success Here
+
+Success is **not** defined as hype, speed, or commercial excitement.
+
+Success means one or more of the following:
+
+- a bounded interface is shown to be reproducible
+- a proposed signal pathway is falsified cleanly
+- a kernel constraint is tightened
+- a leak source is identified and eliminated
+- a state-separability claim survives cross-checking
+- a negative result closes a false path and strengthens the architecture
+
+This is not a place where only "positive" outcomes matter.
+
+A rigorous no is worth more than a vague yes.
+
+---
+
+## Read in This Order
+
+## 1) Fast Entry Layer — Non-Canonical Helper Documents
+
+These helper documents are for fast orientation, PI decision-making, and engineering entry.
 They do **not** define canonical authority.
 
-1. **PI Quick Decision Pack (2 pages)**  
-   Scope fit, risk posture, and internal decision checklist for PIs.  
-   https://doi.org/10.6084/m9.figshare.31287268
+- **PI Quick Decision Pack v1.1**  
+  https://doi.org/10.6084/m9.figshare.31287268
 
-2. **Sal-Meter System Overview v1.0**  
-   Device concept, indices (OE/EE/RE), and measurement logic at system level.  
-   https://doi.org/10.6084/m9.figshare.31275067
+- **Sal-Meter System Overview v1.1**  
+  https://doi.org/10.6084/m9.figshare.31275067
 
-3. **Sal-Meter Open Competition — Technical & Governance Snapshot v2.0**  
-   Tracks, evaluation structure, funding mechanics, and governance boundaries.  
-   https://doi.org/10.6084/m9.figshare.31281835
+- **Sal-Meter Kernel Program & Future Broader Opening: Technical & Governance Snapshot v2.1**  
+  https://doi.org/10.6084/m9.figshare.31281835
 
-4. **CAIS Architecture & Sal-Meter Technical Snapshot v1.0**  
-   System-level architecture, hardware boundaries, signal pathways, and integration
-   constraints required for reproducible CAIS-compliant implementations.  
-   https://doi.org/10.6084/m9.figshare.31287529
+- **CAIS Architecture & Sal-Meter Technical Snapshot v1.1**  
+  https://doi.org/10.6084/m9.figshare.31287529
 
-5. **CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.0**  
-   Visual specification of the Layer-0 molecular kernel that gates signals prior to
-   interpretation, indexing, or inference.  
-   https://doi.org/10.6084/m9.figshare.31287763
+- **CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.1**  
+  https://doi.org/10.6084/m9.figshare.31287763
 
-This repository provides working markdown mirrors, discussions, and coordination only.
-**Canonical authority does not reside here.**
+## 2) Canonical DOI Layer — Mandatory Structural Authority
+
+These documents fix the authoritative boundary.
+GitHub does not override them.
+
+- **Sal-Meter Canonical Definition v1.0**  
+  https://doi.org/10.5281/zenodo.18452075
+
+- **CAIS Compliance Boundary v1.0**  
+  https://doi.org/10.5281/zenodo.18452269
+
+- **Sal-Meter Open Competition Charter v1.0**  
+  https://doi.org/10.5281/zenodo.18452453
+
+- **Sal-Meter Negative Definition v1.0**  
+  https://doi.org/10.5281/zenodo.18452694
+
+- **From Theory to Implementation: CCF Applied Philosophy and the Sal-Meter Proof of Concept v1.0**  
+  https://doi.org/10.5281/zenodo.18475626
+
+## 3) Current Phase 0 / Program-Direction Documents
+
+These define the present PI-facing and execution-facing direction more accurately than older public helper language.
+
+- **Sal-Meter Open Competition — Phase 0 PI Invitation Dossier v1.1**  
+  https://doi.org/10.5281/zenodo.18645700
+
+- **Phase 0 Participation Implementation Guide v1.1**  
+  https://doi.org/10.5281/zenodo.19478782
+
+- **Phase 0 — Validation Submission Architecture v1.0**  
+  https://doi.org/10.5281/zenodo.19478725
+
+- **Consciousness Is the Missing Variable in AI Governance**  
+  https://doi.org/10.5281/zenodo.19342357
+
+- **CAIS Claims & Terminology Control v1.0**  
+  https://doi.org/10.5281/zenodo.19435051
+
+- **Publication & Communications Boundary v1.0**  
+  https://doi.org/10.5281/zenodo.19438290
 
 ---
 
 ## Minimal Kernel (M0) — Aptamer G-Iodine
 
-The **Minimal Kernel (M0)** defines the CAIS **Layer-0** boundary:
-a molecular signal-gating interface that operates **prior to any interpretation,
-indexing, or inference**.
+The **Minimal Kernel (M0)** defines the upstream molecular signal gate.
 
-The M0 kernel is **conceptually upstream of all CAIS-compliant implementations** and
-should be understood before attempting **Track A** or **Track B** development.
+It is:
 
-It is not an application, device, or interpretation layer.
-It exists solely as a **non-therapeutic signal interface** between biochemical state
-and measurable CAIS signals.
+- not a therapy
+- not a drug narrative
+- not an interpretation layer
+- not a clinical meaning engine
 
-Reference:
-- **CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.0**  
-  https://doi.org/10.6084/m9.figshare.31287763
+It is a **non-therapeutic signal interface** operating at **CAIS Layer-0**.
 
----
+Its role is simple and severe:
 
-## What This Competition Is
+**molecular state transition -> measurable signal event -> downstream processing under fixed rules**
 
-- An **international open research competition**
-- Focused on **research-grade, pre-regulatory systems**
-- Designed around **objective measurement of consciousness-like signals**
-- Governed by **fixed, non-drifting standards** defined in advance
-- Structured so that **partial, modular contributions are valid outcomes**
+If the kernel is unstable, everything above it becomes storytelling.  
+If the kernel is stable, the stack becomes testable.
 
 ---
 
-## What This Competition Is Not
+## What This Repository Is
 
-- Not a venture or startup program  
-- Not a medical device or diagnostic project  
-- Not a commercialization or licensing pathway  
-- Not a closed or proprietary platform  
-- Not a certification or endorsement scheme  
+This repository is:
 
----
+- a **public operational index**
+- a **pre-opening coordination layer**
+- a **working surface for serious contributors**
+- a **gateway for engineers, labs, and PI-level readers**
+- a place for bounded discussion before broader opening
 
-## Participation Tracks (Self-Selection)
+This repository is **not** the source of final interpretive authority.
 
-### Track A — Full System Development
-
-For teams capable of delivering a complete, validated system.
-
-If you are unsure whether your team qualifies for Track A, **you probably do not**.
-
-- Multi-disciplinary, senior-led teams
-- Full CAIS stack coverage required
-- Independent validation required
-- Milestone-based research support
-- High risk, high rigor
+Canonical authority remains fixed only in DOI-registered records on Zenodo and OSF.
 
 ---
 
-### Track B — Component Development
+## What This Repository Is Not
 
-For teams contributing **clearly bounded subsystems**, including:
+This repository is **not**:
 
-- Signal processing algorithms  
-- AI / inference models  
-- Firmware or embedded control  
-- Mobile / cloud interfaces  
-- Validation tooling  
+- a startup accelerator
+- a medical device launch
+- a certification scheme
+- a compliance label
+- a venture funnel
+- a productized SDK release
+- a proof that the core hypothesis has already won
 
-Depth over breadth is prioritized.
+This is a research-stage structure.
 
----
-
-### Track C — Open Community (Default Entry)
-
-For exploratory or first-time contributors.
-
-- Individuals or small teams
-- No funding dependency
-- Self-paced, modular contributions
-- Papers, prototypes, documentation, or code
-
-Escalation to Track B or A is optional and evidence-driven.
+It exists to make hard claims face hard tests.
 
 ---
 
-## Canonical Authority (Mandatory)
+## Research Boundaries
 
-All participants must comply with the following **four DOI-registered canonical documents**.
-These override any interpretation derived from this repository or from Figshare entry materials.
+Everything here must be read within the following boundary:
 
-| # | Document | DOI |
-|---|---------|-----|
-| 1 | Sal-Meter Canonical Definition v1.0 | https://doi.org/10.5281/zenodo.18452075 |
-| 2 | CAIS Compliance Boundary v1.0 | https://doi.org/10.5281/zenodo.18452269 |
-| 3 | Sal-Meter Open Competition Charter v1.0 | https://doi.org/10.5281/zenodo.18452453 |
-| 4 | Sal-Meter Negative Definition v1.0 | https://doi.org/10.5281/zenodo.18452694 |
+- **research-only**
+- **non-diagnostic**
+- **non-therapeutic**
+- **non-clinical in meaning**
+- **no public compliance claim implied**
+- **no mark usage implied**
+- **no authorized-user status implied**
 
-Failure to read and comply results in **automatic disqualification**.
+If a reader wants certification, endorsement, medical meaning, or premature commercialization,
+they are early.
 
----
-
-## Research Scope and Medical Claims
-
-This competition is strictly **research-only**.
-
-- No medical or clinical claims  
-- No diagnostic or therapeutic use  
-- No regulatory submission in scope  
-
-Any downstream pathway requires **independent redesign, validation, and regulatory review**.
+The kernel comes first.
 
 ---
 
-## Governance and the Role of SICS
+## Typical Contribution Modes
 
-The Salpida Institute of Consciousness Science (SICS):
+Depending on capability, contributors may eventually align with one of three broad paths:
 
-- Interprets canonical documents
-- Maintains governance consistency
-- Resolves rule-interpretation disputes
+### Full-stack / deep-system path
+For teams that can handle sensing, preprocessing, signal stability, and system integration together.
 
-SICS does **not** score teams, rank outcomes, certify devices, endorse products,
-or approve commercialization.
+### Component path
+For teams that are best at one hard layer only, such as:
 
----
+- electrochemistry
+- aptamer interface design
+- preprocessing and normalization
+- state-separability analytics
+- validation tooling
+- firmware or hardware control
+- software interface / dashboard design
 
-## How Participation Typically Proceeds
+### Boundary / theory-support path
+For those who help clarify limits, claims language, validation logic, governance framing, or reproducibility discipline.
 
-1. Read the **PI Quick Decision Pack**
-2. Review the **four canonical DOI documents**
-3. Identify one **bounded contribution**
-4. Select Track C / B / A internally
-5. Engage via GitHub Discussions
-6. Submit application if applicable
-
----
-
-## Discussions and Questions
-
-- Q&A: https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/q-a  
-- General: https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/general  
-- Announcements: https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/announcements  
+A sharp subsystem contribution is better than a blurry end-to-end claim.
 
 ---
 
-## Additional Working Documents (Non-Canonical)
+## How to Engage
 
-- Technical Overview: docs/01_technical_details.md  
-- Development Roadmap: docs/02_phase_roadmap_en.md  
-- Team Composition Guide: docs/03_team_composition.md  
-- Application Guide: docs/05_application_guide_en.md  
-- Extended FAQ: docs/04_faq_extended_en.md  
+At this stage, the best way to engage is:
 
-These assist coordination only and do not override canonical standards.
+1. understand the authority boundary
+2. read the fast-entry helper documents
+3. read the canonical boundary documents
+4. identify one bounded technical or validation question
+5. decide whether your fit is exploratory, component-level, or deep-system
+6. follow repository updates and discussion surfaces as the kernel program advances
+
+Do not begin by asking how to market it.
+
+Begin by asking what can actually survive measurement.
 
 ---
 
-## Canonical Identity and Attribution
+## Canonical Identity
 
-Author: Jinho Lee  
-ORCID: https://orcid.org/0009-0005-3809-4588  
-Affiliation: Salpida Foundation; Salpida Institute of Consciousness Science (SICS)
+**Origin Architect:** Jinho Lee, MD  
+**ORCID:** https://orcid.org/0009-0005-3809-4588  
+**Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
+
+**Primary public hub:** https://salpida.foundation  
+**Repository:** https://github.com/salpida-foundation/sal-meter-kernel-program  
+**Canonical index layer:** https://github.com/salpida-foundation/salpida-canonical
 
 ---
 
 ## License
 
-Canonical documents: CC BY-SA 4.0
+Unless otherwise specified:
+
+- canonical documents follow their stated DOI-registered licensing conditions
+- public helper and coordination materials are intended for open scientific orientation and non-exclusive participation pathways
+- no helper document weakens or overrides canonical DOI authority
 
 ---
 
 ## Final Note
 
-This competition is designed to **filter, not persuade**.
-Non-participation is a valid outcome.
+This repository is designed to attract the right people and repel the wrong expectations.
 
-Repository: https://github.com/salpida-foundation/sal-meter-competition  
-Canonical Index: https://github.com/salpida-foundation/salpida-canonical
+If you want a hype cycle, this repository will feel cold.
 
+If you want a place where a new measurement architecture is forced to earn the right to exist,
+you are in the correct room.
 
+The future broader opening will come later.
+
+First, the kernel must become real.
