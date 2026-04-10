@@ -1,4 +1,4 @@
-# Glossary — Key Terms for Reading the Sal-Meter Kernel Program Correctly
+# Glossary — Key Terms for Reading the Sal-Meter Kernel Program Correctly 
 
 > This glossary explains the core terms used across the Sal-Meter Kernel Program repository.  
 > It exists to help researchers, scholars, engineers, PI-level readers, and serious observers read the project more accurately and with less friction.  
