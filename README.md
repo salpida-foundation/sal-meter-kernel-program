@@ -1,25 +1,36 @@
 # Sal-Meter Kernel Program & Future Broader Opening
 
 > **Status: Pre-opening / research-stage**  
-> The hardest frontiers in science are usually ridiculed before they are instrumented.  
-> This program exists to test whether a new measurement boundary can be made real.  
-> **Canonical authority lives only in DOI-registered records. This repository is a non-canonical public gateway.**
-
-This repository is **not currently open as a broad public competition**.  
-It is the **public gateway and coordination layer** for the **Sal-Meter Kernel Program**.
+> This repository is the **public gateway** for the **Sal-Meter Kernel Program**.  
+> It is **not** a broad public competition page, **not** a product launch, and **not** a source of canonical authority.  
+> **Canonical authority lives only in DOI-registered records. GitHub is a non-canonical public gateway.**
 
 ---
 
-## Current Status
+## At a Glance
 
+### What this repository is
+- a **PI / lab / engineer-facing public gateway**
+- a **pre-opening coordination surface**
+- a **kernel-first program entry point**
+- a **technical and operational orientation layer**
+- a place to understand **current stage, fit, constraints, and next action**
+
+### What this repository is not
+- not an already-active broad public competition
+- not a certification or compliance surface
+- not a medical / diagnostic deployment page
+- not a finalized public SDK release
+- not a place for canonical reinterpretation
+
+### Current reality
 - **Current stage:** SICS internal kernel program
-- **External Layer-0:** open for limited feasibility inquiries
-- **ESL / EStL roles:** active recruitment path
+- **External Layer-0:** open for limited feasibility inquiry
+- **ESL / EStL path:** active recruitment / serious collaborator route
 - **Public competition:** not active
-- **Public SDK release:** not active
-- **Certification / compliance claims:** not available from this repository
+- **SDK:** not publicly active
 - **Clinical meaning:** not implied
-- **Canonical authority:** lives only in DOI-registered records, not GitHub
+- **Certification / compliance claims:** not available from this repository
 
 This program is **research-stage, non-diagnostic, and non-therapeutic**.
 
@@ -28,11 +39,11 @@ This program is **research-stage, non-diagnostic, and non-therapeutic**.
 ## KR 안내
 
 이 저장소는 **살미터 공개 공모전이 이미 열린 곳이 아닙니다.**  
-현재 단계의 **공식 공개 관문**이며, 다음만 전면에 열려 있습니다.
+현재 단계의 **공식 공개 관문**이며, 아래 세 가지가 전면에 열려 있습니다.
 
 - 제한적 **External Layer-0 feasibility inquiry**
-- **ESL / EStL** 중심 채용 및 협업 진입
-- 정본 DOI 문서로 들어가는 공개 인덱스
+- **ESL / EStL** 중심 채용 및 serious contributor 진입
+- 정본 DOI 문서로 들어가는 **공개 기술 게이트웨이**
 
 정본 권위는 GitHub가 아니라 **DOI 등록 문서 (Zenodo / OSF)** 에만 있습니다.
 
@@ -50,14 +61,14 @@ Build a **CAIS-compliant measurement layer** that tests whether controlled consc
 
 ## Why This Repository Exists
 
-This repository does not exist to market a device.
+This repository does **not** exist to market a device.
 
-It exists to organize a serious frontier question:
+It exists to organize one serious frontier question:
 
 **Can a fixed, open, non-proprietary measurement architecture make consciousness-like state change experimentally separable, technically reproducible, and scientifically discussable?**
 
-If the answer is no, that matters.  
-If the answer is yes, that matters even more.
+If the answer is **no**, that matters.  
+If the answer is **yes**, that matters even more.
 
 Either way, this is not gadget theater.  
 It is boundary-testing research.
@@ -76,11 +87,19 @@ It does **not** claim that consciousness has already been fully measured.
 It does **not** claim a final theory of mind.  
 It does **not** claim clinical or diagnostic readiness.
 
-Instead, it asks a more practical and more dangerous question:
+Instead, it asks a harder question:
 
 **Can we build a reproducible signal interface that makes state-level transformation visible enough to test, compare, reject, refine, and govern?**
 
-That is why this repository matters to strong engineers, biosensor builders, electrochemists, signal-processing researchers, validation leads, and AI-governance thinkers.
+That is why this repository matters to:
+
+- electrochemists
+- biosensor builders
+- aptamer / molecular-interface teams
+- signal-processing / ML / statistics researchers
+- validation and reproducibility leads
+- HCI / AI-governance / AI-alignment researchers
+- PI-level labs exploring state-separability questions under bounded conditions
 
 This is where abstract philosophy is forced to touch instrumentation.
 
@@ -89,7 +108,7 @@ This is where abstract philosophy is forced to touch instrumentation.
 ## Start Here
 
 ### 1) Fast orientation
-If you are new, start here first:
+If you are new, begin here:
 
 - [FAQ](./docs/faq.md)
 - [Roadmap](./docs/roadmap.md)
@@ -105,7 +124,7 @@ Choose one path:
 - **For researchers and scholars** → [docs/for-researchers-and-scholars.md](./docs/for-researchers-and-scholars.md)
 
 ### 3) Fast decision layer
-If you need a fast screening brief:
+If you need a 5-minute screening brief:
 
 - [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
 
@@ -113,24 +132,22 @@ If you need a fast screening brief:
 
 ## Open Now
 
-The repository is currently open for the following bounded routes only:
+The repository is currently open for the following **bounded routes only**:
 
 ### 1. External Layer-0 feasibility inquiry
-A separate pre-phase support track for bounded chemistry / electrochemistry feasibility work.
+A pre-phase support route for bounded chemistry / electrochemistry feasibility work.
 
 Typical fit includes:
-
 - iodine redox baseline characterization
 - thiol / GSH-GSSG response mapping
 - electrochemical drift and stability checks
 - signal-interface feasibility under controlled conditions
 
 ### 2. ESL / EStL recruitment and serious contributor inquiry
-The current public recruitment / collaboration surface is centered on the internal kernel program, not on a broadly open competition.
+The public recruitment / collaboration surface is centered on the **internal kernel program**, not on a broadly open competition.
 
 ### 3. Canonical reading and PI-level evaluation
 PIs, lab leads, engineers, and technical researchers are encouraged to evaluate the program at the level of:
-
 - interface reality
 - repeatability
 - leak / cross-talk control
@@ -153,7 +170,7 @@ The following are **not currently active public routes**:
 - public claims implying completed validation
 - broad external build race
 
-These open only **after** the kernel earns the right to scale.
+These routes open only **after** the kernel earns the right to scale.
 
 **First, prove the kernel. Then, open the field.**
 
@@ -165,35 +182,35 @@ The project is now organized around a **kernel-first execution order**, not a pr
 
 ### Current execution sequence
 
-1. **External Layer-0**
-   - Separate pre-phase feasibility support track
-   - Tests whether the iodine redox + thiol/disulfide interface shows a stable, reproducible signal window worth building on
+1. **External Layer-0**  
+   Separate pre-phase feasibility support track  
+   Tests whether the iodine redox + thiol/disulfide interface shows a stable, reproducible signal window worth building on
 
-2. **SICS Internal Phase 0**
-   - G-axis state separability under controlled conditions
-   - Baseline, GGI, and SOP fixation
+2. **SICS Internal Phase 0**  
+   G-axis state separability under controlled conditions  
+   Baseline, GGI, and SOP fixation
 
-3. **SICS Internal Phase 1**
-   - I-channel reproducibility fixation
-   - I₃⁻-target channel consistency and handling discipline
+3. **SICS Internal Phase 1**  
+   I-channel reproducibility fixation  
+   I₃⁻-target channel consistency and handling discipline
 
-4. **SICS Internal Phase 2a**
-   - Twin Mini-Cell independence and leak testing
-   - Channel coexistence without unacceptable cross-talk
+4. **SICS Internal Phase 2a**  
+   Twin Mini-Cell independence and leak testing  
+   Channel coexistence without unacceptable cross-talk
 
-5. **SICS Internal Phase 2b**
-   - Human pilot repeatability
-   - Simultaneous G + I sessions under a reproducible kernel structure
+5. **SICS Internal Phase 2b**  
+   Human pilot repeatability  
+   Simultaneous G + I sessions under a reproducible kernel structure
 
-6. **Lock 1 — Interface Exists**
-   - The interface is experimentally real
+6. **Lock 1 — Interface Exists**  
+   The interface is experimentally real
 
-7. **Lock 2 — Interface Matters**
-   - The interface is not merely measurable, but meaningful enough to justify broader opening
+7. **Lock 2 — Interface Matters**  
+   The interface is not merely measurable, but meaningful enough to justify broader opening
 
-8. **Broader Opening**
-   - Only after the kernel is fixed
-   - Only after the structure is stable enough for non-exclusive external build paths
+8. **Broader Opening**  
+   Only after the kernel is fixed  
+   Only after the structure is stable enough for non-exclusive external build paths
 
 In short:
 
@@ -207,7 +224,6 @@ Then, open the field.**
 Success is **not** defined as hype, speed, or commercial excitement.
 
 Success means one or more of the following:
-
 - a bounded interface is shown to be reproducible
 - a proposed signal pathway is falsified cleanly
 - a kernel constraint is tightened
@@ -224,7 +240,6 @@ A rigorous **no** is worth more than a vague **yes**.
 The **Minimal Kernel (M0)** defines the upstream molecular signal gate.
 
 It is:
-
 - not a therapy
 - not a drug narrative
 - not an interpretation layer
@@ -274,11 +289,14 @@ GitHub does not override them.
 - **CAIS Compliance Boundary v1.0**  
   [10.5281/zenodo.18452269](https://doi.org/10.5281/zenodo.18452269)
 
-- **Sal-Meter Open Competition Charter v1.0**  
-  [10.5281/zenodo.18452453](https://doi.org/10.5281/zenodo.18452453)
-
 - **Sal-Meter Negative Definition v1.0**  
   [10.5281/zenodo.18452694](https://doi.org/10.5281/zenodo.18452694)
+
+- **Sal-Meter Future Broader Opening Charter v1.1**  
+  [10.5281/zenodo.19510174](https://doi.org/10.5281/zenodo.19510174)
+
+- **Sal-Meter Kernel Program & Future Broader Opening — PI Readiness Edition v1.2**  
+  [10.5281/zenodo.19509841](https://doi.org/10.5281/zenodo.19509841)
 
 - **From Theory to Implementation: CCF Applied Philosophy and the Sal-Meter Proof of Concept v1.0**  
   [10.5281/zenodo.18475626](https://doi.org/10.5281/zenodo.18475626)
@@ -287,13 +305,13 @@ GitHub does not override them.
 
 These define the present PI-facing and execution-facing direction more accurately than older public helper language.
 
-- **Sal-Meter Open Competition — Phase 0 PI Invitation Dossier v1.1**  
-  [10.5281/zenodo.18645700](https://doi.org/10.5281/zenodo.18645700)
+- **Phase 0 State-Separability Validation Protocol (CAIS)**  
+  [10.5281/zenodo.18646731](https://doi.org/10.5281/zenodo.18646731)
 
 - **Phase 0 Participation Implementation Guide v1.1**  
   [10.5281/zenodo.19478782](https://doi.org/10.5281/zenodo.19478782)
 
-- **Phase 0 — Validation Submission Architecture v1.0**  
+- **Phase 0 Validation Submission Template Pack v1.1**  
   [10.5281/zenodo.19478725](https://doi.org/10.5281/zenodo.19478725)
 
 - **Consciousness Is the Missing Variable in AI Governance**  
@@ -310,7 +328,6 @@ These define the present PI-facing and execution-facing direction more accuratel
 ## What This Repository Is
 
 This repository is:
-
 - a **public operational gateway**
 - a **pre-opening coordination layer**
 - a **working surface for serious contributors**
@@ -326,7 +343,6 @@ Canonical authority remains fixed only in DOI-registered records on Zenodo and O
 ## What This Repository Is Not
 
 This repository is **not**:
-
 - a startup accelerator
 - a medical device launch
 - a certification scheme
@@ -369,7 +385,6 @@ For teams that can handle sensing, preprocessing, signal stability, and system i
 
 ### Component path
 For teams that are best at one hard layer only, such as:
-
 - electrochemistry
 - aptamer interface design
 - preprocessing and normalization
@@ -408,7 +423,6 @@ you are close to the intended audience.
 Use Discussions for bounded, serious questions.
 
 Suggested categories:
-
 - **Announcements** — official repository-level updates
 - **Q&A** — bounded technical or structural questions
 - **Research Fit** — lab / team fit discussion
@@ -424,22 +438,19 @@ Authority drift is not.
 ## Practical Reading Paths
 
 ### For a PI
-
 1. Read the **PI Quick Decision Pack**
 2. Read the **canonical boundary documents**
 3. Decide whether your lab has a real bounded contribution
 4. Do a private **go / no-go** before any public enthusiasm
 
 ### For an engineer
-
-1. Read the **system overview**
-2. Read the **technical snapshot**
+1. Read the **System Overview**
+2. Read the **Technical Snapshot**
 3. Understand the **kernel logic** first
 4. Ask where drift, leak, and false inference will break the stack
 5. Only then think about implementation
 
 ### For an AI-governance researcher
-
 1. Read the **entry paper on AI governance**
 2. Understand why **measurement visibility** matters
 3. Treat Sal-Meter not as settled technology, but as a proposed research interface
@@ -450,7 +461,6 @@ Authority drift is not.
 ## What Not To Bring Here
 
 This repository is the wrong place for:
-
 - empty futurism
 - mystical certainty
 - startup-style urgency without validation discipline
@@ -459,7 +469,6 @@ This repository is the wrong place for:
 - shallow “consciousness tech” marketing
 
 This repository is the right place for:
-
 - reproducibility discipline
 - boundary-aware experimentation
 - architecture-first engineering
@@ -488,10 +497,10 @@ watch closely now.
 
 **Affiliation:** Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
 
-**Primary public hub:** [salpida.foundation](https://salpida.foundation)
+**Primary public hub:** [salpida.foundation](https://salpida.foundation)  
+**For PIs page:** [salpida.foundation/for-pis](https://salpida.foundation/for-pis)
 
-**Repository:** [github.com/salpida-foundation/sal-meter-kernel-program](https://github.com/salpida-foundation/sal-meter-kernel-program)
-
+**Repository:** [github.com/salpida-foundation/sal-meter-kernel-program](https://github.com/salpida-foundation/sal-meter-kernel-program)  
 **Canonical index layer:** [github.com/salpida-foundation/salpida-canonical](https://github.com/salpida-foundation/salpida-canonical)
 
 ---
@@ -499,7 +508,6 @@ watch closely now.
 ## License
 
 Unless otherwise specified:
-
 - canonical documents follow their stated DOI-registered licensing conditions
 - public helper and coordination materials are intended for open scientific orientation and non-exclusive participation pathways
 - no helper document weakens or overrides canonical DOI authority
