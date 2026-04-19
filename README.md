@@ -1,57 +1,65 @@
-# Sal-Meter Kernel Program & Future Broader Opening
+# Sal-Meter Kernel Program
 
 > **Status: Pre-opening / research-stage**  
-> This repository is the **public gateway** for the **Sal-Meter Kernel Program**.  
+> This repository is the **public technical gateway** for the **Sal-Meter Kernel Program** under the CAIS / CCF stack.  
 > It is **not** a broad public competition page, **not** a product launch, and **not** a source of canonical authority.  
-> **Canonical authority lives only in DOI-registered records. GitHub is a non-canonical public gateway.**
+> **Canonical authority remains fixed only in DOI-registered records. GitHub is a public implementation and orientation surface.**
+
+---
+
+## KR 안내
+
+이 저장소는 **이미 공개 공모전이 열린 곳이 아닙니다.**  
+현재 단계의 **공개 기술 게이트웨이**이며, 지금 실제로 열려 있는 것은 아래 네 가지입니다.
+
+- **ESL recruitment**
+- **EStL recruitment**
+- **targeted External Layer-0 feasibility inquiry**
+- **Aptamer G-Iodine sequence / feasibility path**
+
+이 저장소는 연구자, 랩, 엔지니어, 기술 기여자가  
+**지금 무엇이 실제로 열려 있는지**,  
+**어디에 맞는지**,  
+**어떤 문서부터 읽어야 하는지**를 빠르게 판단하도록 돕기 위해 존재합니다.
+
+정본 권위는 GitHub가 아니라 **DOI 등록 문서 (Zenodo / OSF)** 에만 있습니다.
 
 ---
 
 ## At a Glance
 
 ### What this repository is
-- a **PI / lab / engineer-facing public gateway**
-- a **pre-opening coordination surface**
-- a **kernel-first program entry point**
-- a **technical and operational orientation layer**
+- a **kernel-first public gateway**
+- a **research-stage orientation layer**
+- a **PI / lab / engineer-facing entry surface**
+- a **technical routing hub**
 - a place to understand **current stage, fit, constraints, and next action**
 
 ### What this repository is not
 - not an already-active broad public competition
 - not a certification or compliance surface
 - not a medical / diagnostic deployment page
-- not a finalized public SDK release
-- not a place for canonical reinterpretation
+- not a finished public SDK release
+- not a source of canonical reinterpretation
+- not a product launch page
 
 ### Current reality
-- **Current stage:** SICS internal kernel program
-- **External Layer-0:** open for limited feasibility inquiry
-- **ESL / EStL path:** active recruitment / serious collaborator route
+- **Current stage:** internal kernel stabilization
+- **External Layer-0:** selectively open for bounded feasibility inquiry
+- **ESL / EStL:** active recruitment
+- **Aptamer G-Iodine path:** active technical workstream
 - **Public competition:** not active
 - **SDK:** not publicly active
-- **Clinical meaning:** not implied
+- **Clinical / diagnostic meaning:** not implied
 - **Certification / compliance claims:** not available from this repository
 
-This program is **research-stage, non-diagnostic, and non-therapeutic**.
-
----
-
-## KR 안내
-
-이 저장소는 **살미터 공개 공모전이 이미 열린 곳이 아닙니다.**  
-현재 단계의 **공식 공개 관문**이며, 아래 세 가지가 전면에 열려 있습니다.
-
-- 제한적 **External Layer-0 feasibility inquiry**
-- **ESL / EStL** 중심 채용 및 serious contributor 진입
-- 정본 DOI 문서로 들어가는 **공개 기술 게이트웨이**
-
-정본 권위는 GitHub가 아니라 **DOI 등록 문서 (Zenodo / OSF)** 에만 있습니다.
+This program is **research-stage, non-clinical, non-diagnostic, and non-therapeutic**.
 
 ---
 
 ## One-Sentence Challenge
 
-Build a **CAIS-compliant measurement layer** that tests whether controlled consciousness-like state transitions can produce **reproducible molecular–electrochemical signatures**.
+Build a **CAIS-compliant measurement layer** that tests whether controlled consciousness-like state transitions can produce **reproducible molecular–electrochemical signatures** under bounded conditions.
 
 > **Terminology note**  
 > CAIS = **Consciousness–Aptamer Interface Standard**  
@@ -65,7 +73,7 @@ This repository does **not** exist to market a device.
 
 It exists to organize one serious frontier question:
 
-**Can a fixed, open, non-proprietary measurement architecture make consciousness-like state change experimentally separable, technically reproducible, and scientifically discussable?**
+**Can a bounded, open, non-proprietary measurement architecture make consciousness-like state change experimentally separable, technically reproducible, and scientifically discussable?**
 
 If the answer is **no**, that matters.  
 If the answer is **yes**, that matters even more.
@@ -105,57 +113,57 @@ This is where abstract philosophy is forced to touch instrumentation.
 
 ---
 
-## Start Here
+## Current Live Routes
 
-### 1) Fast orientation
-If you are new, begin here:
+The following routes are genuinely active **now**.
 
-- [FAQ](./docs/faq.md)
-- [Roadmap](./docs/roadmap.md)
-- [Authority Boundary](./docs/authority-boundary.md)
-- [Public Claims Guide](./docs/public-claims-guide.md)
-- [Document Map](./docs/document-map.md)
+### 1. ESL recruitment
+We are looking for an **Electrochemical Systems Lead (ESL)** who can own:
 
-### 2) Audience-specific entry
-Choose one path:
+- electrochemical measurement conditions
+- electrode behavior
+- cartridge / chamber logic
+- drift control
+- repeatability
+- SOP stability
+- acquisition reliability
 
-- **For PIs and lab leads** → [docs/for-pis-and-lab-leads.md](./docs/for-pis-and-lab-leads.md)
-- **For engineers** → [docs/for-engineers.md](./docs/for-engineers.md)
-- **For researchers and scholars** → [docs/for-researchers-and-scholars.md](./docs/for-researchers-and-scholars.md)
+### 2. EStL recruitment
+We are looking for an **Evidence & Standardization Lead (EStL)** who can own:
 
-### 3) Fast decision layer
-If you need a 5-minute screening brief:
+- metadata schema
+- QC structure
+- leakage prevention
+- evaluation integrity
+- evidence packaging
+- reproducibility discipline
+- version-aware documentation logic
 
-- [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
+### 3. External Layer-0 feasibility inquiry
+Selective **External Layer-0** inquiry is active for bounded feasibility work around:
 
----
-
-## Open Now
-
-The repository is currently open for the following **bounded routes only**:
-
-### 1. External Layer-0 feasibility inquiry
-A pre-phase support route for bounded chemistry / electrochemistry feasibility work.
-
-Typical fit includes:
 - iodine redox baseline characterization
 - thiol / GSH-GSSG response mapping
-- electrochemical drift and stability checks
-- signal-interface feasibility under controlled conditions
+- electrochemical drift and repeatability
+- perturbation response
+- signal-interface survival under controlled conditions
 
-### 2. ESL / EStL recruitment and serious contributor inquiry
-The public recruitment / collaboration surface is centered on the **internal kernel program**, not on a broadly open competition.
+### 4. Aptamer G-Iodine path
+The **Aptamer G-Iodine** path is active as a core technical workstream focused on:
 
-### 3. Canonical reading and PI-level evaluation
-PIs, lab leads, engineers, and technical researchers are encouraged to evaluate the program at the level of:
-- interface reality
-- repeatability
-- leak / cross-talk control
-- preprocessing discipline
-- state-separability honesty
-- boundary-aware contribution
+- sequence feasibility
+- interface compatibility
+- molecular recognition structure
+- signal-gating viability
+- feasibility worth carrying upward into the kernel
 
-**Contact:** [contact@salpida.foundation](mailto:contact@salpida.foundation)
+### 5. PI / lab / technical lead evaluation
+PIs, laboratories, and technically serious teams may currently evaluate whether they fit the present stage through a **bounded pilot mindset**:
+
+- read the boundary first
+- identify one ownable layer
+- assess 3–6 month readiness honestly
+- decide whether a narrow pilot is realistic
 
 ---
 
@@ -163,54 +171,71 @@ PIs, lab leads, engineers, and technical researchers are encouraged to evaluate 
 
 The following are **not currently active public routes**:
 
-- broad public open competition
-- public SDK activation
+- broad public competition
+- public SDK release
 - certification or compliance recognition
-- medical / diagnostic deployment
+- product launch
+- medical / diagnostic use
 - public claims implying completed validation
 - broad external build race
 
-These routes open only **after** the kernel earns the right to scale.
+These routes open only **after** the kernel earns the right to widen.
 
 **First, prove the kernel. Then, open the field.**
 
 ---
 
+## Start Here
+
+### 1) Current operating posture
+If you want the clearest answer to **what is live now and what is not**, begin here:
+
+- [Current Operating Model](./docs/current-operating-model.md)
+- [Authority Boundary](./docs/authority-boundary.md)
+- [Public Claims Guide](./docs/public-claims-guide.md)
+
+### 2) If you are considering contribution
+Choose the page that best matches your position:
+
+- **ESL / EStL roles** → [docs/esl-estl-recruitment.md](./docs/esl-estl-recruitment.md)
+- **External Layer-0 labs** → [docs/for-layer0-labs.md](./docs/for-layer0-labs.md)
+- **PIs and lab leads** → [docs/for-pis-and-lab-leads.md](./docs/for-pis-and-lab-leads.md)
+- **Engineers** → [docs/for-engineers.md](./docs/for-engineers.md)
+- **Researchers and scholars** → [docs/for-researchers-and-scholars.md](./docs/for-researchers-and-scholars.md)
+
+### 3) Fast decision layer
+If you need a short screening brief first:
+
+- [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
+
+### 4) Full document navigation
+If you want the document map first:
+
+- [Document Map](./docs/document-map.md)
+- [Roadmap](./docs/roadmap.md)
+- [FAQ](./docs/faq.md)
+
+---
+
 ## Current Program Direction
 
-The project is now organized around a **kernel-first execution order**, not a prematurely opened public competition.
+The project is organized around a **kernel-first execution order**, not a prematurely opened public competition.
 
-### Current execution sequence
+### Current sequence
 
 1. **External Layer-0**  
-   Separate pre-phase feasibility support track  
-   Tests whether the iodine redox + thiol/disulfide interface shows a stable, reproducible signal window worth building on
+   bounded feasibility around molecular-interface reality
 
-2. **SICS Internal Phase 0**  
-   G-axis state separability under controlled conditions  
-   Baseline, GGI, and SOP fixation
+2. **Internal kernel stabilization**  
+   measurement conditions, SOP, evidence structure, repeatability
 
-3. **SICS Internal Phase 1**  
-   I-channel reproducibility fixation  
-   I₃⁻-target channel consistency and handling discipline
+3. **Controlled validation architecture**  
+   leakage-aware data logic, metadata discipline, evidence packaging
 
-4. **SICS Internal Phase 2a**  
-   Twin Mini-Cell independence and leak testing  
-   Channel coexistence without unacceptable cross-talk
+4. **Internal phase progression and lock logic**  
+   kernel first, widening later
 
-5. **SICS Internal Phase 2b**  
-   Human pilot repeatability  
-   Simultaneous G + I sessions under a reproducible kernel structure
-
-6. **Lock 1 — Interface Exists**  
-   The interface is experimentally real
-
-7. **Lock 2 — Interface Matters**  
-   The interface is not merely measurable, but meaningful enough to justify broader opening
-
-8. **Broader Opening**  
-   Only after the kernel is fixed  
-   Only after the structure is stable enough for non-exclusive external build paths
+5. **Only then, broader opening if earned**
 
 In short:
 
@@ -219,17 +244,22 @@ Then, open the field.**
 
 ---
 
-## What Counts as Success Here
+## What Counts as Serious Contribution
 
-Success is **not** defined as hype, speed, or commercial excitement.
+A serious contribution is not defined by hype, size, or early publicity.
 
-Success means one or more of the following:
-- a bounded interface is shown to be reproducible
-- a proposed signal pathway is falsified cleanly
-- a kernel constraint is tightened
-- a leak source is identified and eliminated
-- a state-separability claim survives cross-checking
-- a negative result closes a false path and strengthens the architecture
+It is defined by whether it reduces one real uncertainty in the kernel.
+
+Examples include:
+
+- stabilizing one interface condition
+- characterizing drift honestly
+- tightening one SOP
+- eliminating one leak source
+- improving one metadata or QC burden
+- clarifying one validation rule
+- returning one bounded negative result cleanly
+- making one narrow pilot more reproducible
 
 A rigorous **no** is worth more than a vague **yes**.
 
@@ -242,12 +272,12 @@ The **Minimal Kernel (M0)** defines the upstream molecular signal gate.
 It is:
 - not a therapy
 - not a drug narrative
-- not an interpretation layer
+- not a diagnostic layer
 - not a clinical meaning engine
 
-It is a **non-therapeutic signal interface** operating at **CAIS Layer-0**.
+It is a **non-therapeutic signal interface** at **CAIS Layer-0**.
 
-Its role is simple and severe:
+Its burden is simple and severe:
 
 **molecular state transition → measurable signal event → downstream processing under fixed rules**
 
@@ -256,147 +286,80 @@ If the kernel is stable, the stack becomes testable.
 
 ---
 
-## Read in This Order
+## Practical Reading Paths
 
-### 1) Fast Entry Layer — Non-Canonical Helper Documents
+### For a PI
+1. Read the [Current Operating Model](./docs/current-operating-model.md)
+2. Read the [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
+3. Read the [For PIs and Lab Leads](./docs/for-pis-and-lab-leads.md)
+4. Decide whether your lab can own one real bounded layer
 
-These helper documents are for fast orientation, PI decision-making, and engineering entry.  
-They do **not** define canonical authority.
+### For an external Layer-0 lab
+1. Read the [Current Operating Model](./docs/current-operating-model.md)
+2. Read [For Layer-0 Labs](./docs/for-layer0-labs.md)
+3. Check whether your lab can reduce one interface uncertainty
+4. Send a short bounded-fit message
 
-- **PI Quick Decision Pack v1.1**  
-  [10.6084/m9.figshare.31287268](https://doi.org/10.6084/m9.figshare.31287268)
+### For ESL / EStL candidates
+1. Read the [Current Operating Model](./docs/current-operating-model.md)
+2. Read [ESL / EStL Recruitment](./docs/esl-estl-recruitment.md)
+3. Prepare a short execution note
+4. Contact us only if one real burden can be owned clearly
 
-- **Sal-Meter System Overview v1.1**  
-  [10.6084/m9.figshare.31275067](https://doi.org/10.6084/m9.figshare.31275067)
+### For an engineer
+1. Read the [System Overview](./docs/PI_Quick_Decision_Pack.md)
+2. Read the [Technical Snapshot](./docs/document-map.md)
+3. Understand the kernel logic before implementation language
+4. Ask where drift, leak, and false inference break the stack
 
-- **Sal-Meter Kernel Program & Future Broader Opening: Technical & Governance Snapshot v2.1**  
-  [10.6084/m9.figshare.31281835](https://doi.org/10.6084/m9.figshare.31281835)
-
-- **CAIS Architecture & Sal-Meter Technical Snapshot v1.1**  
-  [10.6084/m9.figshare.31287529](https://doi.org/10.6084/m9.figshare.31287529)
-
-- **CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.1**  
-  [10.6084/m9.figshare.31287763](https://doi.org/10.6084/m9.figshare.31287763)
-
-### 2) Canonical DOI Layer — Mandatory Structural Authority
-
-These documents fix the authoritative boundary.  
-GitHub does not override them.
-
-- **Sal-Meter Canonical Definition v1.0**  
-  [10.5281/zenodo.18452075](https://doi.org/10.5281/zenodo.18452075)
-
-- **CAIS Compliance Boundary v1.0**  
-  [10.5281/zenodo.18452269](https://doi.org/10.5281/zenodo.18452269)
-
-- **Sal-Meter Negative Definition v1.0**  
-  [10.5281/zenodo.18452694](https://doi.org/10.5281/zenodo.18452694)
-
-- **Sal-Meter Future Broader Opening Charter v1.1**  
-  [10.5281/zenodo.19510174](https://doi.org/10.5281/zenodo.19510174)
-
-- **Sal-Meter Kernel Program & Future Broader Opening — PI Readiness Edition v1.2**  
-  [10.5281/zenodo.19509841](https://doi.org/10.5281/zenodo.19509841)
-
-- **From Theory to Implementation: CCF Applied Philosophy and the Sal-Meter Proof of Concept v1.0**  
-  [10.5281/zenodo.18475626](https://doi.org/10.5281/zenodo.18475626)
-
-### 3) Current Phase 0 / Program-Direction Documents
-
-These define the present PI-facing and execution-facing direction more accurately than older public helper language.
-
-- **Phase 0 State-Separability Validation Protocol (CAIS)**  
-  [10.5281/zenodo.18646731](https://doi.org/10.5281/zenodo.18646731)
-
-- **Phase 0 Participation Implementation Guide v1.1**  
-  [10.5281/zenodo.19478782](https://doi.org/10.5281/zenodo.19478782)
-
-- **Phase 0 Validation Submission Template Pack v1.1**  
-  [10.5281/zenodo.19478725](https://doi.org/10.5281/zenodo.19478725)
-
-- **Consciousness Is the Missing Variable in AI Governance**  
-  [10.5281/zenodo.19342357](https://doi.org/10.5281/zenodo.19342357)
-
-- **CAIS Claims & Terminology Control v1.0**  
-  [10.5281/zenodo.19435051](https://doi.org/10.5281/zenodo.19435051)
-
-- **Publication & Communications Boundary v1.0**  
-  [10.5281/zenodo.19438290](https://doi.org/10.5281/zenodo.19438290)
+### For an AI-governance researcher
+1. Read the entry paper on the missing variable
+2. Treat Sal-Meter not as settled technology, but as a proposed research interface
+3. Focus on the condition of governability, not hype
 
 ---
 
-## What This Repository Is
+## Canonical vs Helper Surfaces
 
-This repository is:
-- a **public operational gateway**
-- a **pre-opening coordination layer**
-- a **working surface for serious contributors**
-- a **gateway for engineers, labs, and PI-level readers**
-- a place for bounded discussion before broader opening
-
-This repository is **not** the source of final interpretive authority.
-
+### Canonical authority
 Canonical authority remains fixed only in DOI-registered records on Zenodo and OSF.
 
----
+These documents define:
+- what the system is
+- what it is not
+- what counts as boundary compliance
+- what public claims are or are not allowed
 
-## What This Repository Is Not
+### Helper surfaces
+GitHub and related public helper documents exist to:
+- orient readers quickly
+- route PIs and labs correctly
+- show current technical direction
+- reduce confusion
+- help contributors recognize fit
 
-This repository is **not**:
-- a startup accelerator
-- a medical device launch
-- a certification scheme
-- a compliance label
-- a venture funnel
-- a productized SDK release
-- a proof that the core hypothesis has already won
-
-This is a research-stage structure.
-
-It exists to make hard claims face hard tests.
-
----
-
-## Research Boundaries
-
-Everything here must be read within the following boundary:
-
-- **research-only**
-- **non-diagnostic**
-- **non-therapeutic**
-- **non-clinical in meaning**
-- **no public compliance claim implied**
-- **no mark usage implied**
-- **no authorized-user status implied**
-
-If a reader wants certification, endorsement, medical meaning, or premature commercialization,  
-they are early.
-
-The kernel comes first.
+Helper surfaces do **not** override canonical authority.
 
 ---
 
-## Typical Contribution Modes
+## Suggested Discussion Posture
 
-Depending on capability, contributors may eventually align with one of three broad paths:
+Use this repository for serious, bounded questions.
 
-### Full-stack / deep-system path
-For teams that can handle sensing, preprocessing, signal stability, and system integration together.
+Good uses include:
+- “Which layer does our lab fit?”
+- “What kind of Layer-0 feasibility is relevant now?”
+- “Where is drift likely to dominate?”
+- “What distinguishes helper documents from canonical records?”
+- “What would a 3–6 month pilot realistically look like?”
 
-### Component path
-For teams that are best at one hard layer only, such as:
-- electrochemistry
-- aptamer interface design
-- preprocessing and normalization
-- state-separability analytics
-- validation tooling
-- firmware or hardware control
-- software interface / dashboard design
-
-### Boundary / theory-support path
-For those who help clarify limits, claims language, validation logic, governance framing, or reproducibility discipline.
-
-A sharp subsystem contribution is better than a blurry end-to-end claim.
+Poor uses include:
+- empty futurism
+- mystical certainty
+- medical overclaiming
+- startup-style urgency without validation discipline
+- proprietary rebranding of canonical indices
+- vague “we want synergy” outreach without one ownable layer
 
 ---
 
@@ -418,75 +381,21 @@ you are close to the intended audience.
 
 ---
 
-## Suggested Discussions Structure
+## Legacy Terminology Note
 
-Use Discussions for bounded, serious questions.
+Some earlier working materials may still contain legacy labels such as:
 
-Suggested categories:
-- **Announcements** — official repository-level updates
-- **Q&A** — bounded technical or structural questions
-- **Research Fit** — lab / team fit discussion
-- **Signal Interface** — electrochemistry, aptamer, kernel, drift, leak, preprocessing
-- **Governance & Framing** — claims language, scope, interpretive boundary
-- **KR Support** — short Korean guidance where needed
+- CMA
+- Aptamer Coordinator
+- older role groupings
 
-Discussion is welcome.  
-Authority drift is not.
+The current public operating structure uses:
 
----
+- **ESL** = Electrochemical Systems Lead
+- **EStL** = Evidence & Standardization Lead
 
-## Practical Reading Paths
-
-### For a PI
-1. Read the **PI Quick Decision Pack**
-2. Read the **canonical boundary documents**
-3. Decide whether your lab has a real bounded contribution
-4. Do a private **go / no-go** before any public enthusiasm
-
-### For an engineer
-1. Read the **System Overview**
-2. Read the **Technical Snapshot**
-3. Understand the **kernel logic** first
-4. Ask where drift, leak, and false inference will break the stack
-5. Only then think about implementation
-
-### For an AI-governance researcher
-1. Read the **entry paper on AI governance**
-2. Understand why **measurement visibility** matters
-3. Treat Sal-Meter not as settled technology, but as a proposed research interface
-4. Focus on the condition of governability, not hype
-
----
-
-## What Not To Bring Here
-
-This repository is the wrong place for:
-- empty futurism
-- mystical certainty
-- startup-style urgency without validation discipline
-- medical overclaiming
-- proprietary rebranding of canonical indices
-- shallow “consciousness tech” marketing
-
-This repository is the right place for:
-- reproducibility discipline
-- boundary-aware experimentation
-- architecture-first engineering
-- careful negative results
-- honest subsystem work
-- seriousness
-
----
-
-## If You Are Deciding Whether To Care
-
-A good rule is simple.
-
-If you only care when a thing is already safe, popular, and validated,  
-come back later.
-
-If you care about the moment when a hard question first becomes testable,  
-watch closely now.
+The aptamer / SELEX path remains active as a technical workstream,
+but it should not be mistaken for the whole operating model.
 
 ---
 
@@ -505,9 +414,25 @@ watch closely now.
 
 ---
 
+## Contact
+
+For serious inquiry:
+
+**contact@salpida.foundation**
+
+The strongest first message usually includes only:
+
+1. your role or lab type  
+2. your strongest relevant capability  
+3. one uncertainty you think you can reduce  
+4. whether a bounded 3–6 month pilot is realistic
+
+---
+
 ## License
 
 Unless otherwise specified:
+
 - canonical documents follow their stated DOI-registered licensing conditions
 - public helper and coordination materials are intended for open scientific orientation and non-exclusive participation pathways
 - no helper document weakens or overrides canonical DOI authority
@@ -518,9 +443,6 @@ Unless otherwise specified:
 
 This repository does not declare victory.
 
-It declares a test.
-
-It does not say the interface is already proven.  
-It says the burden of proof has been organized.
-
-That is the real beginning of serious work.
+It exists to help the right people enter the structure at the right stage,
+reduce the right uncertainties,
+and keep the kernel honest before the field widens.
