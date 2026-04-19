@@ -230,8 +230,10 @@ If you need a short screening brief first:
 If you want the document map first:
 
 - [Document Map](./docs/document-map.md)
-- [Roadmap](./docs/roadmap.md)
 - [FAQ](./docs/faq.md)
+- [Roadmap](./docs/roadmap.md)
+- [Expected Reactions from PIs and Researchers](./docs/expected-reactions-from-pis-and-researchers.md)
+- [What a Good Contribution Looks Like](./docs/what-a-good-contribution-looks-like.md)
 
 ---
 
@@ -289,9 +291,11 @@ Then, open the field.**
 - [`docs/document-map.md`](./docs/document-map.md)
 - [`docs/faq.md`](./docs/faq.md)
 - [`docs/roadmap.md`](./docs/roadmap.md)
+- [`docs/expected-reactions-from-pis-and-researchers.md`](./docs/expected-reactions-from-pis-and-researchers.md)
+- [`docs/what-a-good-contribution-looks-like.md`](./docs/what-a-good-contribution-looks-like.md)
+- [`docs/where-help-is-most-needed.md`](./docs/where-help-is-most-needed.md)
 - [`docs/how-to-engage.md`](./docs/how-to-engage.md)
 - [`docs/who-we-want-to-meet.md`](./docs/who-we-want-to-meet.md)
-- [`docs/where-help-is-most-needed.md`](./docs/where-help-is-most-needed.md)
 
 ### Language / legacy / support
 - `docs/ko/`
@@ -345,10 +349,15 @@ If the kernel is stable, the stack becomes testable.
 ## Practical Reading Paths
 
 ### For a PI
-1. Read the [Current Operating Model](./docs/current-operating-model.md)
-2. Read the [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
-3. Read the [For PIs and Lab Leads](./docs/for-pis-and-lab-leads.md)
-4. Decide whether your lab can own one real bounded layer
+1. Read the [For PIs and Lab Leads](./docs/for-pis-and-lab-leads.md)
+2. Read the [FAQ](./docs/faq.md)
+3. Read the [Roadmap](./docs/roadmap.md)
+4. Read the [Expected Reactions from PIs and Researchers](./docs/expected-reactions-from-pis-and-researchers.md)
+5. Read the [What a Good Contribution Looks Like](./docs/what-a-good-contribution-looks-like.md)
+6. Read the [Authority Boundary](./docs/authority-boundary.md)
+7. Read the [Public Claims Guide](./docs/public-claims-guide.md)
+8. Read the [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
+9. Decide whether your lab can own one real bounded layer
 
 ### For an external Layer-0 lab
 1. Read the [Current Operating Model](./docs/current-operating-model.md)
@@ -369,15 +378,19 @@ If the kernel is stable, the stack becomes testable.
 4. Contact us only with a bounded feasibility posture
 
 ### For an engineer
-1. Read the [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
-2. Read the technical / helper docs
-3. Understand the kernel logic before implementation language
-4. Ask where drift, leak, and false inference break the stack
+1. Read the [FAQ](./docs/faq.md)
+2. Read the [Roadmap](./docs/roadmap.md)
+3. Read the [Where Help Is Most Needed](./docs/where-help-is-most-needed.md)
+4. Read the [What a Good Contribution Looks Like](./docs/what-a-good-contribution-looks-like.md)
+5. Read the [Authority Boundary](./docs/authority-boundary.md)
+6. Read the [Public Claims Guide](./docs/public-claims-guide.md)
+7. Read the [PI Quick Decision Pack](./docs/PI_Quick_Decision_Pack.md)
 
 ### For an AI-governance researcher
 1. Start from the public reading surface on **salpida.foundation**
 2. Treat Sal-Meter not as settled technology, but as a proposed research interface
-3. Focus on the condition of governability, not hype
+3. Read the [Expected Reactions from PIs and Researchers](./docs/expected-reactions-from-pis-and-researchers.md)
+4. Focus on the condition of governability, not hype
 
 ---
 
