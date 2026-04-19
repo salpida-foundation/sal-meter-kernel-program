@@ -1,6 +1,6 @@
 # Document Map — How to Read This Repository Without Confusing Orientation, Authority, and Proof
 
-> **KR note**  
+> **KR note**   
 > 이 문서는 Sal-Meter / CAIS / CCF kernel program 저장소를  
 > 처음 읽는 연구자, PI, 기술 리드, 외부 협력자들이  
 > 어떤 순서로 문서를 읽어야 하는지,  
