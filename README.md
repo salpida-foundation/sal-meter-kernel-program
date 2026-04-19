@@ -21,7 +21,6 @@
 
 이 저장소는  
 **salpida.foundation = 정본 공개 허브**  
-**네이버 블로그 = 한국어 엔티티 브리지**  
 **GitHub = 기술 게이트웨이**  
 라는 역할 분담 안에서 읽는 것이 가장 정확합니다.
 
@@ -32,6 +31,11 @@
 If you are new, do **not** start by browsing the repository tree blindly.
 
 Use this order instead.
+
+### 0) Fastest route inside GitHub
+If you are already inside this repository, start with the pinned issue:
+
+- [START HERE — Current Open Routes](../../issues/5)
 
 ### 1) Broad reader / first-time visitor
 Start from the **Salpida Foundation home / read entry surface** first.
@@ -48,20 +52,14 @@ If you are evaluating fit as a researcher, PI, lab, or technical collaborator:
 - then return here for the technical route and document structure
 
 ### 3) GitHub reader
-Use this repository after you already understand:
+If you are already inside GitHub, use the pinned issue first.
 
-- current stage
-- what is open now
+It is the fastest way to see:
+
+- what is live now
 - what is not open now
-- the difference between helper surfaces and canonical records
-
-### 4) Korean-language discovery layer
-If you arrived through Korean search, blog, or YouTube:
-
-- **Naver Blog (Korean entity bridge)** → https://blog.naver.com/drjinomall
-- **YouTube** → https://www.youtube.com/@drjino
-
-The blog is a **Korean explanation bridge**, not the canonical source.
+- which route fits your role
+- where to read next
 
 ---
 
@@ -396,53 +394,15 @@ These documents define:
 - what public claims are or are not allowed
 
 ### Helper surfaces
-GitHub, Naver blog, YouTube, and related helper documents exist to:
+GitHub and related helper documents exist to:
 
 - orient readers quickly
-- route Korean and English users correctly
 - show current technical direction
 - reduce confusion
 - help contributors recognize fit
-- connect people, institutions, and project entities across languages
+- connect people, institutions, and project entities across surfaces
 
 Helper surfaces do **not** override canonical authority.
-
----
-
-## Korean Discovery Layer
-
-The Korean-language strategy is intentionally structured.
-
-### Roles across surfaces
-
-- **salpida.foundation**  
-  canonical public hub, routing layer, Home / Read / Topics / Publications / For PIs
-
-- **Naver Blog**  
-  Korean-language entity bridge  
-  connects:
-  - 닥터지노
-  - 이진호 / Jinho Lee
-  - Salpida Foundation
-  - SICS
-  - CCF
-  - AI 2027
-  - Sal-Meter
-
-- **GitHub**  
-  public technical gateway  
-  clarifies active routes, repo structure, technical fit, and contribution boundaries
-
-### Why this matters
-Korean users often arrive first through:
-
-- Naver search
-- blog content
-- YouTube
-- Korean-language concept articles
-- AI future / AI risk / AI 시대 변화 queries
-
-The blog should therefore act as a **Korean explanation bridge**, while this repository acts as the **technical entry surface**.
 
 ---
 
@@ -459,10 +419,6 @@ The blog should therefore act as a **Korean explanation bridge**, while this rep
 - **Topics** → https://salpida.foundation/topics/
 - **For PIs** → https://salpida.foundation/for-pis/
 - **Status** → https://salpida.foundation/status/
-
-### Korean discovery surfaces
-- **Naver Blog** → https://blog.naver.com/drjinomall
-- **YouTube** → https://www.youtube.com/@drjino
 
 ### GitHub surfaces
 - **This repository** → https://github.com/salpida-foundation/sal-meter-kernel-program
