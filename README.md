@@ -296,3 +296,169 @@ Subject line examples:
 
 ```text
 External Layer-0 feasibility inquiry — [Lab / Institution Name]
+```text
+I₃⁻ / Aptamer G-Iodine development inquiry — [Lab / Institution Name]
+```
+
+```text
+ESL candidate inquiry — [Name]
+```
+
+```text
+EStL candidate inquiry — [Name]
+```
+
+```text
+Proxy benchmark support inquiry — [Name / Team]
+```
+
+Your first email should include:
+
+1. who you are
+2. which route you fit
+3. one capability you can actually own
+4. one uncertainty you can reduce
+5. whether a bounded 3–6 month feasibility or readiness path is realistic
+6. whether raw data / metadata / audit trail requirements are acceptable
+
+Do not send a broad partnership pitch first.  
+Send one bounded capability.
+
+---
+
+## Recommended email template
+
+```text
+Subject: [Route] inquiry — [Name / Lab / Team]
+
+Dear Salpida Foundation / SICS team,
+
+I am contacting you regarding the following route:
+
+[Choose one]
+- External Layer-0 feasibility inquiry
+- I₃⁻ / Aptamer G-Iodine development inquiry
+- ESL candidate inquiry
+- EStL candidate inquiry
+- Proxy benchmark support inquiry
+
+My relevant capability is:
+
+[Write 3–5 lines: lab type, method, instrument, technical skill, or evidence capability]
+
+The specific uncertainty I may help reduce is:
+
+[Write one bounded uncertainty]
+
+A realistic first scope could be:
+
+[Write a narrow 3–6 month feasibility, review, or readiness scope]
+
+I understand that the current program is research-stage, pre-opening, non-clinical, non-diagnostic, and non-therapeutic. I also understand that GitHub is a helper surface and that canonical authority remains fixed in DOI / OSF records.
+
+Best regards,
+
+[Name]
+[Role]
+[Institution / Team]
+[Email]
+[Relevant link, if any]
+```
+
+---
+
+## Repository structure
+
+```text
+docs/
+  current-operating-model.md
+  authority-boundary.md
+  public-claims-guide.md
+  for-layer0-labs.md
+  aptamer-giodine-workstream.md
+  esl-estl-recruitment.md
+  for-pis-and-lab-leads.md
+  for-engineers.md
+  for-researchers-and-scholars.md
+  PI_Quick_Decision_Pack.md
+  document-map.md
+  faq.md
+  roadmap.md
+  where-help-is-most-needed.md
+  how-to-engage.md
+  who-we-want-to-meet.md
+  what-a-good-contribution-looks-like.md
+```
+
+Some documents may be revised as the current public surface is aligned.  
+When in doubt, read Status first.
+
+---
+
+## Canonical vs helper surfaces
+
+### Canonical authority
+
+Canonical authority remains fixed only in DOI / OSF records and the Salpida Foundation canonical routing structure.
+
+Canonical records define:
+
+- what the system is
+- what it is not
+- what counts as boundary compliance
+- what public claims are allowed
+- what public claims are not allowed
+
+### Helper surfaces
+
+GitHub exists to:
+
+- orient technical readers
+- show current routes
+- reduce confusion
+- help candidates understand fit
+- route PIs, labs, and contributors to the right next document
+- support implementation once the boundary is understood
+
+GitHub does not override canonical authority.
+
+---
+
+## Public language boundary
+
+Use:
+
+```text
+research-stage
+pre-opening
+kernel-first
+non-clinical
+non-diagnostic
+non-therapeutic
+pre-device
+pre-certification
+CAIS-aligned research path
+proxy benchmark support track
+```
+
+Do not use:
+
+```text
+validated Sal-Meter
+certified Sal-Meter
+CAIS-compliant device
+clinical use
+diagnostic use
+therapeutic platform
+live public competition
+commercial device
+proxy stack as Sal-Meter
+```
+
+---
+
+## Current working sentence
+
+**Status first. Kernel first. Claims later.**
+
+This repository exists to help serious readers, builders, PIs, laboratories, and technical collaborators enter the right layer without confusing helper materials with canonical authority.
