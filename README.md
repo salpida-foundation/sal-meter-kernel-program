@@ -296,6 +296,8 @@ Subject line examples:
 
 ```text
 External Layer-0 feasibility inquiry — [Lab / Institution Name]
+```
+
 ```text
 I₃⁻ / Aptamer G-Iodine development inquiry — [Lab / Institution Name]
 ```
