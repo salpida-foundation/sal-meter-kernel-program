@@ -116,6 +116,224 @@ Broader opening is future-facing and belongs only after LOCK 1 / LOCK 2 review.
 
 ---
 
+## Current 90-Day Execution Gates
+
+The current 90-day execution priority is not broad opening.
+
+The current priority is to convert the Sal-Meter Kernel Program from a public orientation surface into a pre-SRA execution-ready helper package.
+
+These gates do not validate Sal-Meter.
+
+They do not grant CAIS compliance.
+
+They do not certify any laboratory, dataset, device, workflow, aptamer, cartridge, electrode system, contributor, contractor, or implementation.
+
+They exist only to prepare bounded External Layer-0, aptamer inquiry, ESL / EStL review, and pre-SRA execution structure.
+
+---
+
+### Gate 1 — External Layer-0 mini pilot package ready
+
+Required helper file:
+
+```text
+docs/external-layer-0-mini-pilot-sow.md
+```
+Purpose:
+
+- define the External Layer-0 feasibility question
+- fix the 4–6 week mini pilot boundary
+- separate External Layer-0 from SICS Internal Phase 0
+- prevent validation, compliance, certification, clinical, diagnostic, therapeutic, device, or public competition claims
+
+Status meaning:
+
+```text
+SOW exists.
+Public helper scope is fixed.
+External Layer-0 can be discussed without overclaiming.
+```
+---
+
+### Gate 2 — Layer-0 data deliverables fixed
+
+Required helper file:
+
+```text
+docs/layer-0-data-deliverables.md
+```
+Purpose:
+
+- define raw data expectations
+- define metadata expectations
+- define run map expectations
+- require failed-run and anomaly disclosure
+- define feasibility memo structure
+- prevent screenshots, summaries, or narrative claims from replacing data
+
+Status meaning:
+
+    External labs can understand what must be delivered.
+    ESL and EStL can review the same package.
+    SRA discussions can reference a concrete data handover structure.
+
+---
+
+### Gate 3 — Public / private data boundary fixed
+
+Required helper file:
+
+    docs/public-private-data-boundary.md
+
+Purpose:
+
+- define what may be public on GitHub
+- define what must remain private or controlled-access
+- define what belongs in DOI / OSF authority layers
+- prohibit raw human data, private lab data, confidential SRA terms, IP-sensitive material, wet-lab optimization parameters, sequence-generation instructions, and premature validation claims
+
+Status meaning:
+
+    Public GitHub remains a helper surface.
+    Private delivery remains controlled.
+    DOI / OSF authority remains separate.
+
+---
+
+### Gate 4 — Aptamer inquiry boundary fixed
+
+Required helper file:
+
+    docs/aptamer-inquiry-boundary.md
+
+Purpose:
+
+- define the I3- / Aptamer G-Iodine public inquiry boundary
+- separate public feasibility language from confidential sequence, binding, SELEX, SRA, IP, and validation-sensitive materials
+- prevent therapeutic, diagnostic, drug, certified-component, or CAIS-compliant aptamer claims
+
+Status meaning:
+
+    Aptamer-capable groups can be contacted safely.
+    Sequence-sensitive material stays out of public GitHub.
+    Inquiry does not become validation.
+
+---
+
+### Gate 5 — ESL / EStL role split active
+
+Required helper file:
+
+    docs/esl-estl-role-charter.md
+
+Purpose:
+
+- define ESL as the physical measurement stability lead
+- define EStL as the evidence and standardization lead
+- separate physical feasibility from evidence traceability
+- define joint review gates
+- define 30-day outputs and 90-day gates
+- prevent any single role from granting validation, compliance, certification, clinical readiness, device readiness, or public opening status
+
+Status meaning:
+
+    Physical review and evidence review are separated.
+    External results cannot escalate by narrative alone.
+    The kernel gains two internal locks before SRA execution.
+
+---
+
+### Gate 6 — Layer-0 task issue template active
+
+Required helper file:
+
+    .github/ISSUE_TEMPLATE/layer0-task.md
+
+Purpose:
+
+- provide a public-safe issue template for External Layer-0 tasks
+- require data boundary checks
+- require claims boundary checks
+- route physical claims to ESL
+- route evidence and metadata claims to EStL
+- prevent public issues from carrying raw human data, private lab data, confidential SRA terms, aptamer sequences, wet-lab recipes, optimization parameters, compliance claims, validation claims, or certification claims
+
+Status meaning:
+
+    Layer-0 tasks can be tracked in GitHub without opening unsafe data or unsafe claims.
+
+---
+
+### Gate 7 — Pre-SRA helper package release tagged
+
+Target release:
+
+    v0.1.0 — Sal-Meter Kernel Pre-SRA Helper Package
+
+Purpose:
+
+- freeze the first public helper package state
+- make the SRA-facing execution structure easier to cite
+- provide a stable GitHub Release route for advisors, PM / COO candidates, ESL / EStL candidates, external labs, and legal review
+
+Release boundary:
+
+This release must state that it does not create:
+
+- Sal-Meter validation
+- CAIS compliance
+- certification
+- conformance recognition
+- clinical readiness
+- diagnostic use
+- therapeutic use
+- device readiness
+- commercial readiness
+- public SDK release
+- live public competition status
+- mark-usage authorization
+
+Status meaning:
+
+    The repository becomes SRA-discussion-ready as a public helper package.
+    It remains non-canonical and pre-validation.
+
+---
+
+### 90-Day Gate Summary
+
+| Gate | Required artifact | Status meaning |
+|---|---|---|
+| Gate 1 | `docs/external-layer-0-mini-pilot-sow.md` | Layer-0 feasibility scope fixed |
+| Gate 2 | `docs/layer-0-data-deliverables.md` | Data handover expectations fixed |
+| Gate 3 | `docs/public-private-data-boundary.md` | Public/private boundary fixed |
+| Gate 4 | `docs/aptamer-inquiry-boundary.md` | Aptamer inquiry boundary fixed |
+| Gate 5 | `docs/esl-estl-role-charter.md` | ESL / EStL review split fixed |
+| Gate 6 | `.github/ISSUE_TEMPLATE/layer0-task.md` | Layer-0 task tracking structure active |
+| Gate 7 | `v0.1.0` GitHub Release | Pre-SRA helper package frozen |
+
+---
+
+### Final 90-Day Boundary
+
+The 90-day goal is not to prove Sal-Meter.
+
+The 90-day goal is to make the next serious conversation executable.
+
+A laboratory should know what can be asked.
+
+A reviewer should know what must be delivered.
+
+A lead should know what to reject.
+
+A lawyer should know what must remain outside GitHub.
+
+A future SRA should not begin from fog.
+
+It should begin from structure.
+
+---
+
 ## What is open now
 
 The following routes are currently open or being prepared.
